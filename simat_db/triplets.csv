@@ -1,0 +1,5860 @@
+region_id,subj,rel,obj
+19583,bear,laying in,wall
+119071,bear,laying in,wall
+20867,bear,laying in,bed
+38458,bear,laying in,bed
+60639,bear,laying in,bed
+20344,bear,laying in,field
+101198,bear,laying in,field
+58217,bear,laying in,dirt
+58218,bear,laying in,dirt
+21352,bear,laying in,log
+118537,bear,laying in,log
+122296,bear,laying in,log
+21755,bear,laying in,rock
+21756,bear,laying in,rock
+30141,bear,laying in,rock
+54328,bear,laying in,rock
+76164,bear,laying in,rock
+13873,bear,laying in,tree
+69566,bear,laying in,tree
+16333,bear,laying in,rocks
+58219,bear,laying in,rocks
+69610,bear,laying in,rocks
+819,bear,laying in,grass
+1817,bear,laying in,grass
+5208,bear,laying in,grass
+5210,bear,laying in,grass
+15189,bear,laying in,grass
+24466,bear,laying in,grass
+36981,bear,laying in,grass
+36984,bear,laying in,grass
+118806,bear,laying in,grass
+125251,bear,laying in,grass
+70291,bear,leaning on,log
+108536,bear,leaning on,log
+15997,bear,leaning on,rock
+15999,bear,leaning on,rock
+46846,bear,leaning on,rock
+106714,bear,leaning on,rock
+49840,bear,leaning on,tree
+85371,bear,leaning on,tree
+6828,bear,leaning on,wall
+108307,bear,leaning on,wall
+115807,bear,licking,bear
+115810,bear,licking,bear
+5805,bear,playing with,water
+8829,bear,playing with,water
+49356,bear,playing with,water
+49357,bear,playing with,water
+69715,bear,playing with,water
+92189,bear,playing with,water
+95117,bear,playing with,water
+53753,bear,playing with,bear
+82144,bear,playing with,bear
+113560,bear,playing with,bear
+68009,bear,sitting on a,bed
+74135,bear,sitting on a,bed
+88985,bear,sitting on a,bed
+88986,bear,sitting on a,bed
+3783,bear,sitting on a,chair
+11032,bear,sitting on a,chair
+35499,bear,sitting on a,chair
+46448,bear,sitting on a,chair
+48773,bear,sitting on a,chair
+51641,bear,sitting on a,chair
+58343,bear,sitting on a,chair
+79649,bear,sitting on a,chair
+85711,bear,sitting on a,chair
+86434,bear,sitting on a,chair
+93700,bear,sitting on a,chair
+101653,bear,sitting on a,chair
+101654,bear,sitting on a,chair
+101655,bear,sitting on a,chair
+109348,bear,sitting on a,chair
+3806,bear,sitting on a,rock
+13164,bear,sitting on a,rock
+15998,bear,sitting on a,rock
+55649,bear,sitting on a,rock
+55650,bear,sitting on a,rock
+57922,bear,sitting on a,rock
+64650,bear,sitting on a,rock
+64651,bear,sitting on a,rock
+73404,bear,sitting on a,rock
+108344,bear,sitting on a,rock
+25841,bear,sitting on a,shelf
+44366,bear,sitting on a,shelf
+90713,bear,sitting on a,shelf
+95957,bear,sitting on a,shelf
+95958,bear,sitting on a,shelf
+95959,bear,sitting on a,shelf
+108812,bear,sitting on a,shelf
+9289,bear,sitting on a,table
+9290,bear,sitting on a,table
+19881,bear,sitting on a,table
+20364,bear,sitting on a,table
+24998,bear,sitting on a,table
+28602,bear,sitting on a,table
+62336,bear,sitting on a,table
+72178,bear,sitting on a,table
+99999,bear,sitting on a,table
+109829,bear,sitting on a,table
+110811,bear,sitting on a,table
+9408,bear,sitting on a,tree
+9409,bear,sitting on a,tree
+46370,bear,sitting on a,tree
+76397,bear,sitting on a,tree
+97895,bear,sitting on a,tree
+103856,bear,sitting on a,tree
+9766,bear,sitting on a,bear
+58344,bear,sitting on a,bear
+78642,bear,sitting on a,bear
+27539,bear,sitting on a,books
+27540,bear,sitting on a,books
+27541,bear,sitting on a,books
+33738,bear,sitting on a,lap
+117911,bear,sitting on a,lap
+2066,bear,sitting on a,floor
+2067,bear,sitting on a,floor
+45993,bear,sitting on a,floor
+82522,bear,sitting on a,floor
+2406,bear,sitting on a,grass
+19076,bear,sitting on a,grass
+66486,bear,sitting on a,grass
+78638,bear,sitting on a,grass
+78639,bear,sitting on a,grass
+78641,bear,sitting on a,grass
+626,bear,sitting on a,water
+30893,bear,sitting on a,water
+57921,bear,sitting on a,water
+74566,bear,sitting on a,water
+81657,bear,sitting on a,water
+100734,bear,sitting on a,water
+106715,bear,sitting on a,water
+58718,bear,sitting on a,outside
+78640,bear,sitting on a,outside
+30232,bear,sniffing,man
+30233,bear,sniffing,man
+66805,bear,sniffing,grass
+102177,bear,sniffing,grass
+24565,bird,eating from,cup
+110992,bird,eating from,cup
+21566,bird,sitting on a,bench
+22891,bird,sitting on a,bench
+30804,bird,sitting on a,bench
+44830,bird,sitting on a,bench
+62033,bird,sitting on a,bench
+75654,bird,sitting on a,bench
+87017,bird,sitting on a,bench
+96307,bird,sitting on a,bench
+1705,bird,sitting on a,boat
+33341,bird,sitting on a,boat
+113364,bird,sitting on a,boat
+122150,bird,sitting on a,boat
+97312,bird,sitting on a,bowl
+109597,bird,sitting on a,bowl
+11338,bird,sitting on a,building
+50137,bird,sitting on a,building
+57115,bird,sitting on a,building
+57116,bird,sitting on a,building
+26594,bird,sitting on a,chair
+29580,bird,sitting on a,chair
+38261,bird,sitting on a,chair
+38262,bird,sitting on a,chair
+53990,bird,sitting on a,chair
+64932,bird,sitting on a,chair
+64933,bird,sitting on a,chair
+64934,bird,sitting on a,chair
+64935,bird,sitting on a,chair
+73276,bird,sitting on a,chair
+39571,bird,sitting on a,computer
+90660,bird,sitting on a,computer
+33851,bird,sitting on a,feeder
+78213,bird,sitting on a,feeder
+104679,bird,sitting on a,feeder
+117820,bird,sitting on a,feeder
+26021,bird,sitting on a,fence
+54030,bird,sitting on a,fence
+54084,bird,sitting on a,fence
+57593,bird,sitting on a,fence
+74167,bird,sitting on a,fence
+105366,bird,sitting on a,fence
+120499,bird,sitting on a,fence
+48208,bird,sitting on a,hand
+91491,bird,sitting on a,hand
+55380,bird,sitting on a,pole
+80606,bird,sitting on a,pole
+104104,bird,sitting on a,pole
+5385,bird,sitting on a,rock
+5389,bird,sitting on a,rock
+11124,bird,sitting on a,rock
+43038,bird,sitting on a,rock
+44012,bird,sitting on a,rock
+45743,bird,sitting on a,rock
+49704,bird,sitting on a,rock
+53064,bird,sitting on a,rock
+67691,bird,sitting on a,rock
+76472,bird,sitting on a,rock
+77467,bird,sitting on a,rock
+84102,bird,sitting on a,rock
+107345,bird,sitting on a,rock
+119715,bird,sitting on a,rock
+123506,bird,sitting on a,rock
+7732,bird,sitting on a,table
+24566,bird,sitting on a,table
+120758,bird,sitting on a,table
+946,bird,sitting on a,tree
+1501,bird,sitting on a,tree
+8005,bird,sitting on a,tree
+8006,bird,sitting on a,tree
+9915,bird,sitting on a,tree
+24893,bird,sitting on a,tree
+25936,bird,sitting on a,tree
+36333,bird,sitting on a,tree
+49511,bird,sitting on a,tree
+53675,bird,sitting on a,tree
+60552,bird,sitting on a,tree
+62729,bird,sitting on a,tree
+71714,bird,sitting on a,tree
+73424,bird,sitting on a,tree
+75787,bird,sitting on a,tree
+123665,bird,sitting on a,tree
+39437,bird,sitting on a,window
+68712,bird,sitting on a,window
+40545,bird,sitting on a,rocks
+40546,bird,sitting on a,rocks
+31646,bird,sitting on a,grass
+35457,bird,sitting on a,grass
+39781,bird,sitting on a,grass
+52386,bird,sitting on a,grass
+87283,bird,sitting on a,grass
+96626,bird,sitting on a,grass
+108080,bird,sitting on a,grass
+17228,bird,sitting on a,sand
+86708,bird,sitting on a,sand
+15042,bird,sitting on a,water
+28617,bird,sitting on a,water
+53065,bird,sitting on a,water
+54154,bird,sitting on a,water
+67183,bird,sitting on a,water
+82227,bird,sitting on a,water
+117736,bird,sitting on a,water
+117737,bird,sitting on a,water
+117738,bird,sitting on a,water
+118494,bird,sitting on a,water
+121148,bird,sitting on a,water
+125281,bird,sitting on a,water
+56388,boy,balancing on,skateboard
+59834,boy,balancing on,skateboard
+78540,boy,balancing on,skateboard
+85188,boy,balancing on,skateboard
+104073,boy,balancing on,skateboard
+30132,boy,balancing on,surfboard
+119472,boy,balancing on,surfboard
+11014,boy,jumping on,skateboard
+11481,boy,jumping on,skateboard
+15587,boy,jumping on,skateboard
+23687,boy,jumping on,skateboard
+29535,boy,jumping on,skateboard
+58268,boy,jumping on,skateboard
+89695,boy,jumping on,skateboard
+92935,boy,jumping on,skateboard
+119121,boy,jumping on,skateboard
+123413,boy,jumping on,skateboard
+5901,boy,laying in,bed
+19132,boy,laying in,bed
+27150,boy,laying in,bed
+27151,boy,laying in,bed
+42613,boy,laying in,bed
+45946,boy,laying in,bed
+56817,boy,laying in,bed
+62215,boy,laying in,bed
+78855,boy,laying in,bed
+107800,boy,laying in,bed
+110829,boy,laying in,bed
+25369,boy,laying in,sofa
+106096,boy,laying in,sofa
+78856,boy,laying in,pillow
+119531,boy,laying in,pillow
+52426,boy,laying in,skateboard
+69867,boy,laying in,skateboard
+7733,boy,laying in,surfboard
+33398,boy,laying in,surfboard
+33399,boy,laying in,surfboard
+48793,boy,laying in,surfboard
+90001,boy,laying in,surfboard
+93646,boy,laying in,surfboard
+17935,boy,leaning on,fence
+38196,boy,leaning on,fence
+25125,boy,leaning on,table
+64194,boy,leaning on,table
+64195,boy,leaning on,table
+84072,boy,leaning on,table
+7643,boy,playing with,park
+86711,boy,playing with,park
+9494,boy,playing with,water
+31026,boy,playing with,water
+8603,boy,playing with,field
+45695,boy,playing with,field
+75309,boy,playing with,field
+99542,boy,playing with,field
+33597,boy,playing with,beach
+34113,boy,playing with,beach
+54787,boy,playing with,beach
+75682,boy,playing with,beach
+110152,boy,playing with,beach
+115452,boy,playing with,beach
+117615,boy,playing with,beach
+54507,boy,playing with,grass
+73858,boy,playing with,grass
+80948,boy,playing with,grass
+85849,boy,playing with,grass
+41080,boy,playing with,sand
+67580,boy,playing with,sand
+105936,boy,playing with,sand
+124747,boy,playing with,sand
+12148,boy,playing with,outside
+14685,boy,playing with,outside
+12013,boy,playing with,ball
+16283,boy,playing with,ball
+39862,boy,playing with,ball
+54034,boy,playing with,ball
+66709,boy,playing with,ball
+66710,boy,playing with,ball
+77350,boy,playing with,ball
+80825,boy,playing with,ball
+111665,boy,playing with,ball
+111666,boy,playing with,ball
+111667,boy,playing with,ball
+111668,boy,playing with,ball
+34317,boy,playing with,baseball bat
+68367,boy,playing with,baseball bat
+4932,boy,playing with,computer
+4933,boy,playing with,computer
+85677,boy,playing with,computer
+5075,boy,playing with,frisbee
+5076,boy,playing with,frisbee
+5077,boy,playing with,frisbee
+8602,boy,playing with,frisbee
+12091,boy,playing with,frisbee
+12149,boy,playing with,frisbee
+16737,boy,playing with,frisbee
+16739,boy,playing with,frisbee
+18775,boy,playing with,frisbee
+22224,boy,playing with,frisbee
+30873,boy,playing with,frisbee
+31104,boy,playing with,frisbee
+32438,boy,playing with,frisbee
+35922,boy,playing with,frisbee
+35923,boy,playing with,frisbee
+38810,boy,playing with,frisbee
+43198,boy,playing with,frisbee
+43199,boy,playing with,frisbee
+44136,boy,playing with,frisbee
+45687,boy,playing with,frisbee
+46683,boy,playing with,frisbee
+52138,boy,playing with,frisbee
+52139,boy,playing with,frisbee
+68587,boy,playing with,frisbee
+74468,boy,playing with,frisbee
+75250,boy,playing with,frisbee
+83069,boy,playing with,frisbee
+83352,boy,playing with,frisbee
+84499,boy,playing with,frisbee
+85016,boy,playing with,frisbee
+85087,boy,playing with,frisbee
+99207,boy,playing with,frisbee
+99541,boy,playing with,frisbee
+100295,boy,playing with,frisbee
+101553,boy,playing with,frisbee
+105308,boy,playing with,frisbee
+105834,boy,playing with,frisbee
+108310,boy,playing with,frisbee
+114282,boy,playing with,frisbee
+122415,boy,playing with,frisbee
+24391,boy,playing with,girl
+81008,boy,playing with,girl
+10580,boy,playing with,kite
+47587,boy,playing with,kite
+96220,boy,playing with,kite
+26333,boy,playing with,skateboard
+30483,boy,playing with,skateboard
+62133,boy,playing with,skateboard
+63271,boy,playing with,skateboard
+33009,boy,playing with,boy
+33010,boy,playing with,boy
+33011,boy,playing with,boy
+33012,boy,playing with,boy
+33013,boy,playing with,boy
+33014,boy,playing with,boy
+4383,boy,running in,field
+35921,boy,running in,field
+77975,boy,running in,field
+103807,boy,running in,field
+104372,boy,running in,field
+115479,boy,running in,field
+74708,boy,running in,beach
+103138,boy,running in,beach
+10582,boy,running in,grass
+42993,boy,running in,grass
+50200,boy,running in,grass
+62223,boy,running in,grass
+78754,boy,running in,grass
+97045,boy,running in,grass
+109375,boy,running in,grass
+7765,boy,sitting on a,arm
+18831,boy,sitting on a,arm
+17355,boy,sitting on a,bed
+32339,boy,sitting on a,bed
+37795,boy,sitting on a,bed
+46313,boy,sitting on a,bed
+68720,boy,sitting on a,bed
+70973,boy,sitting on a,bed
+73092,boy,sitting on a,bed
+77892,boy,sitting on a,bed
+442,boy,sitting on a,bench
+8348,boy,sitting on a,bench
+8825,boy,sitting on a,bench
+13810,boy,sitting on a,bench
+14963,boy,sitting on a,bench
+16516,boy,sitting on a,bench
+18781,boy,sitting on a,bench
+26962,boy,sitting on a,bench
+47326,boy,sitting on a,bench
+58031,boy,sitting on a,bench
+69340,boy,sitting on a,bench
+72152,boy,sitting on a,bench
+72177,boy,sitting on a,bench
+86813,boy,sitting on a,bench
+99243,boy,sitting on a,bench
+99244,boy,sitting on a,bench
+100643,boy,sitting on a,bench
+102979,boy,sitting on a,bench
+109373,boy,sitting on a,bench
+111306,boy,sitting on a,bench
+119011,boy,sitting on a,bench
+13220,boy,sitting on a,boat
+40133,boy,sitting on a,boat
+67680,boy,sitting on a,boat
+104298,boy,sitting on a,boat
+110244,boy,sitting on a,boat
+1616,boy,sitting on a,chair
+4196,boy,sitting on a,chair
+8498,boy,sitting on a,chair
+9663,boy,sitting on a,chair
+15944,boy,sitting on a,chair
+20581,boy,sitting on a,chair
+22449,boy,sitting on a,chair
+26392,boy,sitting on a,chair
+28321,boy,sitting on a,chair
+28751,boy,sitting on a,chair
+33712,boy,sitting on a,chair
+34922,boy,sitting on a,chair
+35152,boy,sitting on a,chair
+39064,boy,sitting on a,chair
+39994,boy,sitting on a,chair
+41980,boy,sitting on a,chair
+43068,boy,sitting on a,chair
+43296,boy,sitting on a,chair
+51725,boy,sitting on a,chair
+51874,boy,sitting on a,chair
+56374,boy,sitting on a,chair
+57190,boy,sitting on a,chair
+62571,boy,sitting on a,chair
+70601,boy,sitting on a,chair
+74273,boy,sitting on a,chair
+78877,boy,sitting on a,chair
+79963,boy,sitting on a,chair
+81242,boy,sitting on a,chair
+85675,boy,sitting on a,chair
+87307,boy,sitting on a,chair
+94940,boy,sitting on a,chair
+95310,boy,sitting on a,chair
+95311,boy,sitting on a,chair
+97524,boy,sitting on a,chair
+103740,boy,sitting on a,chair
+104045,boy,sitting on a,chair
+106950,boy,sitting on a,chair
+108466,boy,sitting on a,chair
+109435,boy,sitting on a,chair
+111591,boy,sitting on a,chair
+114679,boy,sitting on a,chair
+115831,boy,sitting on a,chair
+115832,boy,sitting on a,chair
+116486,boy,sitting on a,chair
+116764,boy,sitting on a,chair
+119042,boy,sitting on a,chair
+121006,boy,sitting on a,chair
+123757,boy,sitting on a,chair
+125065,boy,sitting on a,chair
+2142,boy,sitting on a,couch
+34960,boy,sitting on a,couch
+46812,boy,sitting on a,couch
+48014,boy,sitting on a,couch
+49054,boy,sitting on a,couch
+56914,boy,sitting on a,couch
+57185,boy,sitting on a,couch
+65509,boy,sitting on a,couch
+79746,boy,sitting on a,couch
+95372,boy,sitting on a,couch
+109295,boy,sitting on a,couch
+113797,boy,sitting on a,couch
+17048,boy,sitting on a,desk
+93100,boy,sitting on a,desk
+116763,boy,sitting on a,desk
+9635,boy,sitting on a,elephant
+109372,boy,sitting on a,elephant
+110943,boy,sitting on a,elephant
+6756,boy,sitting on a,fence
+13936,boy,sitting on a,fence
+55731,boy,sitting on a,fence
+119838,boy,sitting on a,fence
+8774,boy,sitting on a,field
+110738,boy,sitting on a,field
+18257,boy,sitting on a,horse
+79735,boy,sitting on a,horse
+114887,boy,sitting on a,horse
+13508,boy,sitting on a,motorcycle
+34918,boy,sitting on a,motorcycle
+60987,boy,sitting on a,motorcycle
+81532,boy,sitting on a,motorcycle
+22451,boy,sitting on a,seat
+29625,boy,sitting on a,seat
+2479,boy,sitting on a,skateboard
+2480,boy,sitting on a,skateboard
+17130,boy,sitting on a,skateboard
+61500,boy,sitting on a,skateboard
+77672,boy,sitting on a,skateboard
+95876,boy,sitting on a,skateboard
+98237,boy,sitting on a,skateboard
+114693,boy,sitting on a,skateboard
+50702,boy,sitting on a,sofa
+51035,boy,sitting on a,sofa
+87567,boy,sitting on a,sofa
+103006,boy,sitting on a,sofa
+6467,boy,sitting on a,table
+8543,boy,sitting on a,table
+12634,boy,sitting on a,table
+14198,boy,sitting on a,table
+35151,boy,sitting on a,table
+36446,boy,sitting on a,table
+39997,boy,sitting on a,table
+39998,boy,sitting on a,table
+43323,boy,sitting on a,table
+43324,boy,sitting on a,table
+52190,boy,sitting on a,table
+63966,boy,sitting on a,table
+68940,boy,sitting on a,table
+73192,boy,sitting on a,table
+74571,boy,sitting on a,table
+83987,boy,sitting on a,table
+85306,boy,sitting on a,table
+85307,boy,sitting on a,table
+86723,boy,sitting on a,table
+86996,boy,sitting on a,table
+95685,boy,sitting on a,table
+97039,boy,sitting on a,table
+111352,boy,sitting on a,table
+115239,boy,sitting on a,table
+119043,boy,sitting on a,table
+121160,boy,sitting on a,table
+123852,boy,sitting on a,table
+125310,boy,sitting on a,table
+3758,boy,sitting on a,toilet
+45318,boy,sitting on a,toilet
+108449,boy,sitting on a,toilet
+108450,boy,sitting on a,toilet
+123130,boy,sitting on a,toilet
+10264,boy,sitting on a,wall
+17982,boy,sitting on a,wall
+34022,boy,sitting on a,wall
+56222,boy,sitting on a,wall
+96929,boy,sitting on a,wall
+12733,boy,sitting on a,floor
+42804,boy,sitting on a,floor
+62438,boy,sitting on a,floor
+67643,boy,sitting on a,floor
+85222,boy,sitting on a,floor
+89268,boy,sitting on a,floor
+94939,boy,sitting on a,floor
+102649,boy,sitting on a,floor
+4617,boy,sitting on a,grass
+31499,boy,sitting on a,grass
+39516,boy,sitting on a,grass
+41930,boy,sitting on a,grass
+47491,boy,sitting on a,grass
+56624,boy,sitting on a,grass
+73298,boy,sitting on a,grass
+79646,boy,sitting on a,grass
+79647,boy,sitting on a,grass
+101394,boy,sitting on a,grass
+106664,boy,sitting on a,grass
+43049,boy,sleeping on,couch
+95260,boy,sleeping on,couch
+2424,boy,swinging,baseball bat
+3154,boy,swinging,baseball bat
+20432,boy,swinging,baseball bat
+22016,boy,swinging,baseball bat
+25622,boy,swinging,baseball bat
+36889,boy,swinging,baseball bat
+41824,boy,swinging,baseball bat
+50567,boy,swinging,baseball bat
+52703,boy,swinging,baseball bat
+57737,boy,swinging,baseball bat
+63540,boy,swinging,baseball bat
+69056,boy,swinging,baseball bat
+90417,boy,swinging,baseball bat
+93749,boy,swinging,baseball bat
+98837,boy,swinging,baseball bat
+102467,boy,swinging,baseball bat
+110649,boy,swinging,baseball bat
+113814,boy,swinging,baseball bat
+121856,boy,swinging,baseball bat
+12015,boy,swinging,tennis racket
+22238,boy,swinging,tennis racket
+27616,boy,swinging,tennis racket
+37650,boy,swinging,tennis racket
+39169,boy,swinging,tennis racket
+46295,boy,swinging,tennis racket
+64749,boy,swinging,tennis racket
+65253,boy,swinging,tennis racket
+72489,boy,swinging,tennis racket
+92720,boy,swinging,tennis racket
+100437,boy,swinging,tennis racket
+47046,boy,touching,elephant
+52015,boy,touching,elephant
+88490,boy,touching,elephant
+122032,boy,touching,elephant
+45108,cat,eating from,plate
+45109,cat,eating from,plate
+93994,cat,eating from,plate
+105004,cat,eating from,plate
+115803,cat,eating from,plate
+115804,cat,eating from,plate
+115805,cat,eating from,plate
+5224,cat,eating from,toilet
+31395,cat,eating from,toilet
+79118,cat,eating from,toilet
+118392,cat,eating from,toilet
+29343,cat,laying in,bag
+74077,cat,laying in,bag
+106283,cat,laying in,bag
+119160,cat,laying in,bag
+123375,cat,laying in,bag
+2937,cat,laying in,bed
+9054,cat,laying in,bed
+11885,cat,laying in,bed
+13138,cat,laying in,bed
+14536,cat,laying in,bed
+17491,cat,laying in,bed
+18760,cat,laying in,bed
+19380,cat,laying in,bed
+20350,cat,laying in,bed
+21770,cat,laying in,bed
+21869,cat,laying in,bed
+23185,cat,laying in,bed
+23432,cat,laying in,bed
+23802,cat,laying in,bed
+26711,cat,laying in,bed
+28210,cat,laying in,bed
+28263,cat,laying in,bed
+31508,cat,laying in,bed
+31509,cat,laying in,bed
+33652,cat,laying in,bed
+33657,cat,laying in,bed
+34206,cat,laying in,bed
+34207,cat,laying in,bed
+40213,cat,laying in,bed
+42421,cat,laying in,bed
+44201,cat,laying in,bed
+44726,cat,laying in,bed
+45863,cat,laying in,bed
+47926,cat,laying in,bed
+48983,cat,laying in,bed
+49498,cat,laying in,bed
+49793,cat,laying in,bed
+49976,cat,laying in,bed
+55014,cat,laying in,bed
+57212,cat,laying in,bed
+63726,cat,laying in,bed
+63731,cat,laying in,bed
+68150,cat,laying in,bed
+73729,cat,laying in,bed
+73903,cat,laying in,bed
+75075,cat,laying in,bed
+76218,cat,laying in,bed
+81985,cat,laying in,bed
+82455,cat,laying in,bed
+84833,cat,laying in,bed
+96368,cat,laying in,bed
+99949,cat,laying in,bed
+99950,cat,laying in,bed
+100834,cat,laying in,bed
+101186,cat,laying in,bed
+103952,cat,laying in,bed
+104168,cat,laying in,bed
+106024,cat,laying in,bed
+108141,cat,laying in,bed
+109115,cat,laying in,bed
+114568,cat,laying in,bed
+115892,cat,laying in,bed
+116168,cat,laying in,bed
+116768,cat,laying in,bed
+120192,cat,laying in,bed
+120314,cat,laying in,bed
+11322,cat,laying in,bench
+14655,cat,laying in,bench
+28191,cat,laying in,bench
+32908,cat,laying in,bench
+34806,cat,laying in,bench
+35741,cat,laying in,bench
+39178,cat,laying in,bench
+39505,cat,laying in,bench
+40514,cat,laying in,bench
+40515,cat,laying in,bench
+58799,cat,laying in,bench
+76047,cat,laying in,bench
+99510,cat,laying in,bench
+116708,cat,laying in,bench
+119856,cat,laying in,bench
+891,cat,laying in,blanket
+983,cat,laying in,blanket
+1325,cat,laying in,blanket
+5840,cat,laying in,blanket
+12648,cat,laying in,blanket
+20686,cat,laying in,blanket
+20696,cat,laying in,blanket
+27835,cat,laying in,blanket
+27840,cat,laying in,blanket
+29821,cat,laying in,blanket
+44503,cat,laying in,blanket
+47923,cat,laying in,blanket
+48924,cat,laying in,blanket
+54291,cat,laying in,blanket
+63245,cat,laying in,blanket
+64184,cat,laying in,blanket
+70239,cat,laying in,blanket
+70591,cat,laying in,blanket
+77352,cat,laying in,blanket
+79562,cat,laying in,blanket
+80986,cat,laying in,blanket
+81517,cat,laying in,blanket
+84759,cat,laying in,blanket
+88118,cat,laying in,blanket
+105343,cat,laying in,blanket
+108596,cat,laying in,blanket
+108597,cat,laying in,blanket
+117839,cat,laying in,blanket
+121362,cat,laying in,blanket
+4222,cat,laying in,car
+4827,cat,laying in,car
+4828,cat,laying in,car
+16718,cat,laying in,car
+25061,cat,laying in,car
+41852,cat,laying in,car
+77509,cat,laying in,car
+84483,cat,laying in,car
+107716,cat,laying in,car
+12234,cat,laying in,cat
+34453,cat,laying in,cat
+76262,cat,laying in,cat
+88119,cat,laying in,cat
+96129,cat,laying in,cat
+2297,cat,laying in,hood
+3079,cat,laying in,hood
+41851,cat,laying in,hood
+44213,cat,laying in,hood
+69304,cat,laying in,hood
+109849,cat,laying in,hood
+6207,cat,laying in,sink
+11597,cat,laying in,sink
+16527,cat,laying in,sink
+25976,cat,laying in,sink
+27482,cat,laying in,sink
+49119,cat,laying in,sink
+63755,cat,laying in,sink
+82330,cat,laying in,sink
+9477,cat,laying in,sofa
+23417,cat,laying in,sofa
+25367,cat,laying in,sofa
+36785,cat,laying in,sofa
+69446,cat,laying in,sofa
+89629,cat,laying in,sofa
+90124,cat,laying in,sofa
+114343,cat,laying in,sofa
+12232,cat,laying in,suitcase
+23511,cat,laying in,suitcase
+33782,cat,laying in,suitcase
+55625,cat,laying in,suitcase
+57258,cat,laying in,suitcase
+57774,cat,laying in,suitcase
+64779,cat,laying in,suitcase
+76109,cat,laying in,suitcase
+82090,cat,laying in,suitcase
+85802,cat,laying in,suitcase
+106231,cat,laying in,suitcase
+112807,cat,laying in,suitcase
+115188,cat,laying in,suitcase
+122301,cat,laying in,suitcase
+125313,cat,laying in,suitcase
+27138,cat,laying in,carpet
+30025,cat,laying in,carpet
+42202,cat,laying in,carpet
+51000,cat,laying in,carpet
+51001,cat,laying in,carpet
+56597,cat,laying in,carpet
+62350,cat,laying in,carpet
+64469,cat,laying in,carpet
+111630,cat,laying in,carpet
+4022,cat,laying in,chair
+6860,cat,laying in,chair
+21916,cat,laying in,chair
+24460,cat,laying in,chair
+26927,cat,laying in,chair
+27936,cat,laying in,chair
+39013,cat,laying in,chair
+47520,cat,laying in,chair
+52260,cat,laying in,chair
+54366,cat,laying in,chair
+55239,cat,laying in,chair
+62448,cat,laying in,chair
+64200,cat,laying in,chair
+66447,cat,laying in,chair
+67492,cat,laying in,chair
+71200,cat,laying in,chair
+80183,cat,laying in,chair
+83657,cat,laying in,chair
+87114,cat,laying in,chair
+89149,cat,laying in,chair
+99322,cat,laying in,chair
+110928,cat,laying in,chair
+113369,cat,laying in,chair
+115659,cat,laying in,chair
+116514,cat,laying in,chair
+120389,cat,laying in,chair
+120390,cat,laying in,chair
+3941,cat,laying in,computer
+4927,cat,laying in,computer
+10712,cat,laying in,computer
+12683,cat,laying in,computer
+15240,cat,laying in,computer
+25516,cat,laying in,computer
+34478,cat,laying in,computer
+34813,cat,laying in,computer
+41410,cat,laying in,computer
+46881,cat,laying in,computer
+66401,cat,laying in,computer
+68301,cat,laying in,computer
+79713,cat,laying in,computer
+92314,cat,laying in,computer
+111972,cat,laying in,computer
+112831,cat,laying in,computer
+124599,cat,laying in,computer
+7446,cat,laying in,couch
+7758,cat,laying in,couch
+28262,cat,laying in,couch
+31476,cat,laying in,couch
+35500,cat,laying in,couch
+36299,cat,laying in,couch
+38664,cat,laying in,couch
+47872,cat,laying in,couch
+71308,cat,laying in,couch
+82079,cat,laying in,couch
+84199,cat,laying in,couch
+84200,cat,laying in,couch
+87254,cat,laying in,couch
+89630,cat,laying in,couch
+91789,cat,laying in,couch
+92225,cat,laying in,couch
+93108,cat,laying in,couch
+93109,cat,laying in,couch
+93110,cat,laying in,couch
+97877,cat,laying in,couch
+99469,cat,laying in,couch
+112633,cat,laying in,couch
+117546,cat,laying in,couch
+121765,cat,laying in,couch
+859,cat,laying in,desk
+860,cat,laying in,desk
+3494,cat,laying in,desk
+19044,cat,laying in,desk
+20536,cat,laying in,desk
+48925,cat,laying in,desk
+56677,cat,laying in,desk
+70691,cat,laying in,desk
+71602,cat,laying in,desk
+98549,cat,laying in,desk
+107073,cat,laying in,desk
+110997,cat,laying in,desk
+3203,cat,laying in,keyboard
+5419,cat,laying in,keyboard
+63156,cat,laying in,keyboard
+66965,cat,laying in,keyboard
+14109,cat,laying in,pillow
+27239,cat,laying in,pillow
+31734,cat,laying in,pillow
+60036,cat,laying in,pillow
+73904,cat,laying in,pillow
+84761,cat,laying in,pillow
+84762,cat,laying in,pillow
+90337,cat,laying in,pillow
+121405,cat,laying in,pillow
+19912,cat,laying in,rug
+24048,cat,laying in,rug
+30420,cat,laying in,rug
+50706,cat,laying in,rug
+60154,cat,laying in,rug
+73244,cat,laying in,rug
+82449,cat,laying in,rug
+96082,cat,laying in,rug
+99376,cat,laying in,rug
+112651,cat,laying in,rug
+2138,cat,laying in,table
+9452,cat,laying in,table
+28865,cat,laying in,table
+32443,cat,laying in,table
+35590,cat,laying in,table
+40164,cat,laying in,table
+44126,cat,laying in,table
+46680,cat,laying in,table
+49389,cat,laying in,table
+52492,cat,laying in,table
+81536,cat,laying in,table
+88423,cat,laying in,table
+88529,cat,laying in,table
+109611,cat,laying in,table
+111869,cat,laying in,table
+111872,cat,laying in,table
+121843,cat,laying in,table
+122464,cat,laying in,table
+2924,cat,laying in,floor
+4677,cat,laying in,floor
+7538,cat,laying in,floor
+12289,cat,laying in,floor
+19998,cat,laying in,floor
+22602,cat,laying in,floor
+23172,cat,laying in,floor
+26434,cat,laying in,floor
+27271,cat,laying in,floor
+28840,cat,laying in,floor
+30314,cat,laying in,floor
+30900,cat,laying in,floor
+34062,cat,laying in,floor
+40686,cat,laying in,floor
+40726,cat,laying in,floor
+54687,cat,laying in,floor
+68744,cat,laying in,floor
+81735,cat,laying in,floor
+82625,cat,laying in,floor
+85082,cat,laying in,floor
+93262,cat,laying in,floor
+99100,cat,laying in,floor
+102139,cat,laying in,floor
+111266,cat,laying in,floor
+57524,cat,licking,keyboard
+111046,cat,licking,keyboard
+111048,cat,licking,keyboard
+111049,cat,licking,keyboard
+75148,cat,licking,plate
+115802,cat,licking,plate
+15508,cat,licking,leg
+46692,cat,licking,leg
+33272,cat,playing with,cat
+76257,cat,playing with,cat
+108868,cat,playing with,cat
+37157,cat,playing with,shoes
+62349,cat,playing with,shoes
+17259,cat,sitting on a,bed
+20402,cat,sitting on a,bed
+27740,cat,sitting on a,bed
+29867,cat,sitting on a,bed
+34423,cat,sitting on a,bed
+39242,cat,sitting on a,bed
+39243,cat,sitting on a,bed
+50362,cat,sitting on a,bed
+70570,cat,sitting on a,bed
+71242,cat,sitting on a,bed
+82050,cat,sitting on a,bed
+101737,cat,sitting on a,bed
+103536,cat,sitting on a,bed
+104398,cat,sitting on a,bed
+115237,cat,sitting on a,bed
+6988,cat,sitting on a,bench
+8610,cat,sitting on a,bench
+18417,cat,sitting on a,bench
+32951,cat,sitting on a,bench
+36297,cat,sitting on a,bench
+57827,cat,sitting on a,bench
+58802,cat,sitting on a,bench
+60117,cat,sitting on a,bench
+64259,cat,sitting on a,bench
+93308,cat,sitting on a,bench
+99249,cat,sitting on a,bench
+107743,cat,sitting on a,bench
+117025,cat,sitting on a,bench
+123417,cat,sitting on a,bench
+123418,cat,sitting on a,bench
+123419,cat,sitting on a,bench
+7755,cat,sitting on a,blanket
+36201,cat,sitting on a,blanket
+97168,cat,sitting on a,blanket
+98639,cat,sitting on a,blanket
+107442,cat,sitting on a,blanket
+109834,cat,sitting on a,blanket
+3081,cat,sitting on a,car
+11316,cat,sitting on a,car
+16674,cat,sitting on a,car
+34135,cat,sitting on a,car
+68104,cat,sitting on a,car
+77599,cat,sitting on a,car
+79079,cat,sitting on a,car
+87573,cat,sitting on a,car
+97469,cat,sitting on a,car
+4056,cat,sitting on a,chair
+8591,cat,sitting on a,chair
+8612,cat,sitting on a,chair
+11690,cat,sitting on a,chair
+12407,cat,sitting on a,chair
+15156,cat,sitting on a,chair
+18300,cat,sitting on a,chair
+21459,cat,sitting on a,chair
+28488,cat,sitting on a,chair
+35544,cat,sitting on a,chair
+36200,cat,sitting on a,chair
+41426,cat,sitting on a,chair
+45568,cat,sitting on a,chair
+47038,cat,sitting on a,chair
+54293,cat,sitting on a,chair
+59795,cat,sitting on a,chair
+59799,cat,sitting on a,chair
+64113,cat,sitting on a,chair
+65981,cat,sitting on a,chair
+68170,cat,sitting on a,chair
+69466,cat,sitting on a,chair
+69937,cat,sitting on a,chair
+69938,cat,sitting on a,chair
+69939,cat,sitting on a,chair
+69940,cat,sitting on a,chair
+73654,cat,sitting on a,chair
+77122,cat,sitting on a,chair
+79235,cat,sitting on a,chair
+83509,cat,sitting on a,chair
+85817,cat,sitting on a,chair
+89866,cat,sitting on a,chair
+94144,cat,sitting on a,chair
+94160,cat,sitting on a,chair
+104715,cat,sitting on a,chair
+113368,cat,sitting on a,chair
+116522,cat,sitting on a,chair
+3495,cat,sitting on a,computer
+4732,cat,sitting on a,computer
+6066,cat,sitting on a,computer
+11877,cat,sitting on a,computer
+27766,cat,sitting on a,computer
+42798,cat,sitting on a,computer
+48810,cat,sitting on a,computer
+61378,cat,sitting on a,computer
+65980,cat,sitting on a,computer
+67146,cat,sitting on a,computer
+71432,cat,sitting on a,computer
+74871,cat,sitting on a,computer
+77516,cat,sitting on a,computer
+80568,cat,sitting on a,computer
+83827,cat,sitting on a,computer
+92313,cat,sitting on a,computer
+92316,cat,sitting on a,computer
+93631,cat,sitting on a,computer
+97603,cat,sitting on a,computer
+97606,cat,sitting on a,computer
+103655,cat,sitting on a,computer
+103657,cat,sitting on a,computer
+103865,cat,sitting on a,computer
+114450,cat,sitting on a,computer
+116822,cat,sitting on a,computer
+122261,cat,sitting on a,computer
+3074,cat,sitting on a,couch
+7645,cat,sitting on a,couch
+25026,cat,sitting on a,couch
+39252,cat,sitting on a,couch
+39253,cat,sitting on a,couch
+48557,cat,sitting on a,couch
+51178,cat,sitting on a,couch
+54243,cat,sitting on a,couch
+54244,cat,sitting on a,couch
+55779,cat,sitting on a,couch
+58481,cat,sitting on a,couch
+74546,cat,sitting on a,couch
+84925,cat,sitting on a,couch
+100628,cat,sitting on a,couch
+121764,cat,sitting on a,couch
+6058,cat,sitting on a,desk
+6638,cat,sitting on a,desk
+22508,cat,sitting on a,desk
+26064,cat,sitting on a,desk
+61192,cat,sitting on a,desk
+61460,cat,sitting on a,desk
+65734,cat,sitting on a,desk
+71503,cat,sitting on a,desk
+77430,cat,sitting on a,desk
+81000,cat,sitting on a,desk
+107353,cat,sitting on a,desk
+109109,cat,sitting on a,desk
+110532,cat,sitting on a,desk
+117583,cat,sitting on a,desk
+121842,cat,sitting on a,desk
+540,cat,sitting on a,floor
+19541,cat,sitting on a,floor
+20403,cat,sitting on a,floor
+22026,cat,sitting on a,floor
+24247,cat,sitting on a,floor
+28573,cat,sitting on a,floor
+33889,cat,sitting on a,floor
+37794,cat,sitting on a,floor
+38725,cat,sitting on a,floor
+66119,cat,sitting on a,floor
+70671,cat,sitting on a,floor
+70673,cat,sitting on a,floor
+74464,cat,sitting on a,floor
+81010,cat,sitting on a,floor
+82349,cat,sitting on a,floor
+82448,cat,sitting on a,floor
+89775,cat,sitting on a,floor
+116574,cat,sitting on a,floor
+26666,cat,sitting on a,grass
+65424,cat,sitting on a,grass
+70669,cat,sitting on a,grass
+77871,cat,sitting on a,grass
+98246,cat,sitting on a,grass
+98316,cat,sitting on a,grass
+118133,cat,sitting on a,grass
+32176,cat,sitting on a,rug
+45094,cat,sitting on a,rug
+45111,cat,sitting on a,rug
+52418,cat,sitting on a,rug
+62339,cat,sitting on a,rug
+62340,cat,sitting on a,rug
+77726,cat,sitting on a,rug
+125352,cat,sitting on a,rug
+28489,cat,sitting on a,seat
+47424,cat,sitting on a,seat
+49646,cat,sitting on a,seat
+73796,cat,sitting on a,seat
+100245,cat,sitting on a,seat
+109208,cat,sitting on a,seat
+115415,cat,sitting on a,seat
+17039,cat,sitting on a,sink
+21583,cat,sitting on a,sink
+23842,cat,sitting on a,sink
+27287,cat,sitting on a,sink
+29613,cat,sitting on a,sink
+45314,cat,sitting on a,sink
+58516,cat,sitting on a,sink
+68470,cat,sitting on a,sink
+80254,cat,sitting on a,sink
+100538,cat,sitting on a,sink
+103294,cat,sitting on a,sink
+106741,cat,sitting on a,sink
+2411,cat,sitting on a,sofa
+5347,cat,sitting on a,sofa
+35015,cat,sitting on a,sofa
+57798,cat,sitting on a,sofa
+84646,cat,sitting on a,sofa
+98523,cat,sitting on a,sofa
+120292,cat,sitting on a,sofa
+4280,cat,sitting on a,suitcase
+4773,cat,sitting on a,suitcase
+6430,cat,sitting on a,suitcase
+25307,cat,sitting on a,suitcase
+27140,cat,sitting on a,suitcase
+31810,cat,sitting on a,suitcase
+43365,cat,sitting on a,suitcase
+51337,cat,sitting on a,suitcase
+60198,cat,sitting on a,suitcase
+79997,cat,sitting on a,suitcase
+95321,cat,sitting on a,suitcase
+105907,cat,sitting on a,suitcase
+123609,cat,sitting on a,suitcase
+124992,cat,sitting on a,suitcase
+1619,cat,sitting on a,table
+2001,cat,sitting on a,table
+6759,cat,sitting on a,table
+9921,cat,sitting on a,table
+12071,cat,sitting on a,table
+12499,cat,sitting on a,table
+32884,cat,sitting on a,table
+33245,cat,sitting on a,table
+35184,cat,sitting on a,table
+35888,cat,sitting on a,table
+37137,cat,sitting on a,table
+38522,cat,sitting on a,table
+44989,cat,sitting on a,table
+47776,cat,sitting on a,table
+53985,cat,sitting on a,table
+53986,cat,sitting on a,table
+55959,cat,sitting on a,table
+70058,cat,sitting on a,table
+70247,cat,sitting on a,table
+73328,cat,sitting on a,table
+73519,cat,sitting on a,table
+80585,cat,sitting on a,table
+81612,cat,sitting on a,table
+83009,cat,sitting on a,table
+92195,cat,sitting on a,table
+94140,cat,sitting on a,table
+103787,cat,sitting on a,table
+107640,cat,sitting on a,table
+108476,cat,sitting on a,table
+110967,cat,sitting on a,table
+2874,cat,sitting on a,toilet
+3651,cat,sitting on a,toilet
+6120,cat,sitting on a,toilet
+8582,cat,sitting on a,toilet
+9631,cat,sitting on a,toilet
+14532,cat,sitting on a,toilet
+14851,cat,sitting on a,toilet
+31703,cat,sitting on a,toilet
+35439,cat,sitting on a,toilet
+47070,cat,sitting on a,toilet
+52148,cat,sitting on a,toilet
+73495,cat,sitting on a,toilet
+111090,cat,sitting on a,toilet
+113374,cat,sitting on a,toilet
+113375,cat,sitting on a,toilet
+119579,cat,sitting on a,toilet
+3400,cat,sitting on a,tv
+23028,cat,sitting on a,tv
+47974,cat,sitting on a,tv
+81288,cat,sitting on a,tv
+119627,cat,sitting on a,tv
+4200,cat,sitting on a,window
+6318,cat,sitting on a,window
+11570,cat,sitting on a,window
+18412,cat,sitting on a,window
+20201,cat,sitting on a,window
+20374,cat,sitting on a,window
+29563,cat,sitting on a,window
+31634,cat,sitting on a,window
+35060,cat,sitting on a,window
+35258,cat,sitting on a,window
+35259,cat,sitting on a,window
+43616,cat,sitting on a,window
+47834,cat,sitting on a,window
+47836,cat,sitting on a,window
+55772,cat,sitting on a,window
+60618,cat,sitting on a,window
+62664,cat,sitting on a,window
+66367,cat,sitting on a,window
+72663,cat,sitting on a,window
+73097,cat,sitting on a,window
+77598,cat,sitting on a,window
+83019,cat,sitting on a,window
+83257,cat,sitting on a,window
+83258,cat,sitting on a,window
+93150,cat,sitting on a,window
+96603,cat,sitting on a,window
+99487,cat,sitting on a,window
+99488,cat,sitting on a,window
+99937,cat,sitting on a,window
+104380,cat,sitting on a,window
+110081,cat,sitting on a,window
+110131,cat,sitting on a,window
+115825,cat,sitting on a,window
+118794,cat,sitting on a,window
+13012,cat,sitting on a,window sill
+20056,cat,sitting on a,window sill
+20057,cat,sitting on a,window sill
+34637,cat,sitting on a,window sill
+38137,cat,sitting on a,window sill
+42992,cat,sitting on a,window sill
+60619,cat,sitting on a,window sill
+118793,cat,sitting on a,window sill
+41909,cat,sleeping on,bed
+58744,cat,sleeping on,bed
+101689,cat,sleeping on,bed
+112993,cat,sleeping on,bed
+120987,cat,sleeping on,bed
+2938,cat,sleeping on,blanket
+80321,cat,sleeping on,blanket
+81172,cat,sleeping on,chair
+82305,cat,sleeping on,chair
+85601,cat,sleeping on,chair
+103871,cat,sleeping on,chair
+110617,cat,sleeping on,chair
+5525,cat,sleeping on,computer
+66966,cat,sleeping on,computer
+97772,cat,sleeping on,computer
+114871,cat,sleeping on,computer
+13174,cat,sleeping on,couch
+38006,cat,sleeping on,couch
+69822,cat,sleeping on,couch
+120563,cat,sleeping on,couch
+23665,cat,sleeping on,desk
+36606,cat,sleeping on,desk
+48574,cat,sleeping on,desk
+41327,cat,sleeping on,floor
+82118,cat,sleeping on,floor
+100612,cat,sleeping on,rug
+111265,cat,sleeping on,rug
+69518,cat,sniffing,bottle
+87720,cat,sniffing,bottle
+46340,cat,sniffing,computer
+95198,cat,sniffing,computer
+100258,cat,sniffing,pizza
+111375,cat,sniffing,pizza
+47999,cat,touching,tv
+102028,cat,touching,tv
+9990,cow,eating from,water
+9991,cow,eating from,water
+5309,cow,eating from,bottle
+5310,cow,eating from,bottle
+9508,cow,laying in,field
+22542,cow,laying in,field
+24905,cow,laying in,field
+28546,cow,laying in,field
+28548,cow,laying in,field
+28868,cow,laying in,field
+35331,cow,laying in,field
+39014,cow,laying in,field
+40309,cow,laying in,field
+42429,cow,laying in,field
+42957,cow,laying in,field
+48414,cow,laying in,field
+48415,cow,laying in,field
+48416,cow,laying in,field
+48417,cow,laying in,field
+48418,cow,laying in,field
+75313,cow,laying in,field
+87956,cow,laying in,field
+94172,cow,laying in,field
+94173,cow,laying in,field
+101138,cow,laying in,field
+106519,cow,laying in,field
+106520,cow,laying in,field
+122563,cow,laying in,field
+82258,cow,laying in,straw
+100005,cow,laying in,straw
+100006,cow,laying in,straw
+1756,cow,laying in,grass
+1757,cow,laying in,grass
+1759,cow,laying in,grass
+1760,cow,laying in,grass
+1761,cow,laying in,grass
+1762,cow,laying in,grass
+1763,cow,laying in,grass
+6340,cow,laying in,grass
+9678,cow,laying in,grass
+15788,cow,laying in,grass
+16060,cow,laying in,grass
+22397,cow,laying in,grass
+22410,cow,laying in,grass
+33537,cow,laying in,grass
+33910,cow,laying in,grass
+35071,cow,laying in,grass
+39386,cow,laying in,grass
+39387,cow,laying in,grass
+39388,cow,laying in,grass
+39389,cow,laying in,grass
+40754,cow,laying in,grass
+40756,cow,laying in,grass
+40757,cow,laying in,grass
+41275,cow,laying in,grass
+44595,cow,laying in,grass
+45173,cow,laying in,grass
+51547,cow,laying in,grass
+54127,cow,laying in,grass
+61564,cow,laying in,grass
+62999,cow,laying in,grass
+71099,cow,laying in,grass
+71100,cow,laying in,grass
+83764,cow,laying in,grass
+84472,cow,laying in,grass
+91987,cow,laying in,grass
+92190,cow,laying in,grass
+98580,cow,laying in,grass
+98582,cow,laying in,grass
+98583,cow,laying in,grass
+102924,cow,laying in,grass
+105460,cow,laying in,grass
+105852,cow,laying in,grass
+108210,cow,laying in,grass
+109713,cow,laying in,grass
+115043,cow,laying in,grass
+116681,cow,laying in,grass
+120640,cow,laying in,grass
+50074,cow,laying in,hay
+52180,cow,laying in,hay
+52181,cow,laying in,hay
+85184,cow,laying in,hay
+90203,cow,laying in,hay
+95267,cow,laying in,hay
+115506,cow,laying in,hay
+46122,cow,laying in,dirt
+46123,cow,laying in,dirt
+21230,cow,laying in,beach
+52786,cow,laying in,beach
+52787,cow,laying in,beach
+117802,cow,laying in,beach
+60597,cow,laying in,floor
+65465,cow,laying in,floor
+22660,cow,laying in,sand
+25692,cow,laying in,sand
+54428,cow,laying in,sand
+76092,cow,laying in,sand
+92364,cow,laying in,sand
+45608,cow,laying in,street
+77003,cow,laying in,street
+77004,cow,laying in,street
+87387,cow,licking,cow
+87967,cow,licking,cow
+99902,cow,sitting on a,beach
+105705,cow,sitting on a,beach
+1130,cow,sitting on a,field
+48890,cow,sitting on a,field
+56606,cow,sitting on a,field
+56607,cow,sitting on a,field
+82260,cow,sitting on a,cow
+105853,cow,sitting on a,cow
+95121,cow,sitting on a,dirt
+95122,cow,sitting on a,dirt
+95123,cow,sitting on a,dirt
+95124,cow,sitting on a,dirt
+13576,cow,sitting on a,hay
+50076,cow,sitting on a,hay
+82259,cow,sitting on a,hay
+3257,cow,sitting on a,sand
+39462,cow,sitting on a,sand
+41422,cow,sitting on a,sand
+41425,cow,sitting on a,sand
+22834,cow,sitting on a,grass
+33535,cow,sitting on a,grass
+46154,cow,sitting on a,grass
+66258,cow,sitting on a,grass
+66259,cow,sitting on a,grass
+75312,cow,sitting on a,grass
+88599,cow,sitting on a,grass
+94171,cow,sitting on a,grass
+121820,cow,sitting on a,grass
+9942,cow,touching,cow
+108209,cow,touching,cow
+17984,dog,biting,frisbee
+29610,dog,biting,frisbee
+46848,dog,biting,frisbee
+63824,dog,biting,frisbee
+67111,dog,biting,frisbee
+70060,dog,biting,frisbee
+83181,dog,biting,frisbee
+83182,dog,biting,frisbee
+112027,dog,biting,frisbee
+120545,dog,biting,frisbee
+54109,dog,chasing,ball
+82129,dog,chasing,ball
+35052,dog,chasing,cow
+35053,dog,chasing,cow
+50369,dog,chasing,cow
+89227,dog,chasing,dog
+90718,dog,chasing,dog
+18926,dog,chasing,frisbee
+19797,dog,chasing,frisbee
+33502,dog,chasing,frisbee
+42122,dog,chasing,frisbee
+67078,dog,chasing,frisbee
+67380,dog,chasing,frisbee
+86188,dog,chasing,frisbee
+98182,dog,chasing,frisbee
+98879,dog,chasing,frisbee
+105806,dog,chasing,frisbee
+117046,dog,chasing,frisbee
+10744,dog,chasing,motorcycle
+10745,dog,chasing,motorcycle
+10746,dog,chasing,motorcycle
+10747,dog,chasing,motorcycle
+10748,dog,chasing,motorcycle
+10749,dog,chasing,motorcycle
+58158,dog,chasing,sheep
+58159,dog,chasing,sheep
+58160,dog,chasing,sheep
+99072,dog,chasing,sheep
+118547,dog,chasing,sheep
+118549,dog,chasing,sheep
+7323,dog,entering,water
+112659,dog,entering,water
+42386,dog,grabbing,frisbee
+106183,dog,grabbing,frisbee
+199,dog,laying in,bed
+4141,dog,laying in,bed
+4656,dog,laying in,bed
+9728,dog,laying in,bed
+14535,dog,laying in,bed
+15102,dog,laying in,bed
+20255,dog,laying in,bed
+20803,dog,laying in,bed
+23198,dog,laying in,bed
+27490,dog,laying in,bed
+29139,dog,laying in,bed
+38715,dog,laying in,bed
+42418,dog,laying in,bed
+42616,dog,laying in,bed
+45234,dog,laying in,bed
+45276,dog,laying in,bed
+49193,dog,laying in,bed
+50028,dog,laying in,bed
+50512,dog,laying in,bed
+55349,dog,laying in,bed
+55964,dog,laying in,bed
+57269,dog,laying in,bed
+60239,dog,laying in,bed
+62740,dog,laying in,bed
+64644,dog,laying in,bed
+66907,dog,laying in,bed
+67355,dog,laying in,bed
+71062,dog,laying in,bed
+73615,dog,laying in,bed
+74845,dog,laying in,bed
+75624,dog,laying in,bed
+76959,dog,laying in,bed
+77132,dog,laying in,bed
+83841,dog,laying in,bed
+89056,dog,laying in,bed
+89384,dog,laying in,bed
+89517,dog,laying in,bed
+89825,dog,laying in,bed
+100509,dog,laying in,bed
+100859,dog,laying in,bed
+101342,dog,laying in,bed
+101603,dog,laying in,bed
+105378,dog,laying in,bed
+108149,dog,laying in,bed
+112290,dog,laying in,bed
+112591,dog,laying in,bed
+113881,dog,laying in,bed
+118485,dog,laying in,bed
+119209,dog,laying in,bed
+119849,dog,laying in,bed
+123739,dog,laying in,bed
+125136,dog,laying in,bed
+26369,dog,laying in,boat
+40286,dog,laying in,boat
+272,dog,laying in,couch
+1147,dog,laying in,couch
+2956,dog,laying in,couch
+4818,dog,laying in,couch
+5081,dog,laying in,couch
+6403,dog,laying in,couch
+10764,dog,laying in,couch
+22973,dog,laying in,couch
+23548,dog,laying in,couch
+31676,dog,laying in,couch
+43103,dog,laying in,couch
+46063,dog,laying in,couch
+46064,dog,laying in,couch
+50474,dog,laying in,couch
+51845,dog,laying in,couch
+51846,dog,laying in,couch
+56917,dog,laying in,couch
+66434,dog,laying in,couch
+69193,dog,laying in,couch
+69609,dog,laying in,couch
+71986,dog,laying in,couch
+76271,dog,laying in,couch
+77072,dog,laying in,couch
+77074,dog,laying in,couch
+77863,dog,laying in,couch
+81768,dog,laying in,couch
+98539,dog,laying in,couch
+108428,dog,laying in,couch
+111413,dog,laying in,couch
+2257,dog,laying in,lap
+5207,dog,laying in,lap
+61788,dog,laying in,sofa
+116068,dog,laying in,sofa
+12065,dog,laying in,dirt
+13342,dog,laying in,dirt
+19444,dog,laying in,dirt
+56682,dog,laying in,dirt
+8243,dog,laying in,grass
+11538,dog,laying in,grass
+17284,dog,laying in,grass
+22196,dog,laying in,grass
+32653,dog,laying in,grass
+35719,dog,laying in,grass
+39615,dog,laying in,grass
+44627,dog,laying in,grass
+45362,dog,laying in,grass
+49995,dog,laying in,grass
+52264,dog,laying in,grass
+55661,dog,laying in,grass
+58558,dog,laying in,grass
+58952,dog,laying in,grass
+60205,dog,laying in,grass
+60256,dog,laying in,grass
+65561,dog,laying in,grass
+70059,dog,laying in,grass
+87032,dog,laying in,grass
+87248,dog,laying in,grass
+93672,dog,laying in,grass
+93673,dog,laying in,grass
+93674,dog,laying in,grass
+95029,dog,laying in,grass
+95942,dog,laying in,grass
+108891,dog,laying in,grass
+108892,dog,laying in,grass
+111060,dog,laying in,grass
+114421,dog,laying in,grass
+117552,dog,laying in,grass
+120121,dog,laying in,grass
+120122,dog,laying in,grass
+88097,dog,laying in,rocks
+88098,dog,laying in,rocks
+88099,dog,laying in,rocks
+88100,dog,laying in,rocks
+58473,dog,laying in,street
+81497,dog,laying in,street
+114028,dog,laying in,street
+2744,dog,laying in,bench
+28741,dog,laying in,bench
+83364,dog,laying in,bench
+83806,dog,laying in,bench
+99274,dog,laying in,bench
+21391,dog,laying in,blanket
+26942,dog,laying in,blanket
+49277,dog,laying in,blanket
+54020,dog,laying in,blanket
+59308,dog,laying in,blanket
+64995,dog,laying in,blanket
+65167,dog,laying in,blanket
+65168,dog,laying in,blanket
+65169,dog,laying in,blanket
+65170,dog,laying in,blanket
+65974,dog,laying in,blanket
+74124,dog,laying in,blanket
+4490,dog,laying in,carpet
+36117,dog,laying in,carpet
+36292,dog,laying in,carpet
+65389,dog,laying in,carpet
+67172,dog,laying in,carpet
+69317,dog,laying in,carpet
+104885,dog,laying in,carpet
+104886,dog,laying in,carpet
+106721,dog,laying in,carpet
+116192,dog,laying in,carpet
+29140,dog,laying in,man
+88031,dog,laying in,man
+94596,dog,laying in,man
+94597,dog,laying in,man
+61,dog,laying in,pillow
+48549,dog,laying in,pillow
+68286,dog,laying in,pillow
+83126,dog,laying in,pillow
+101604,dog,laying in,pillow
+102152,dog,laying in,pillow
+7979,dog,laying in,rug
+21831,dog,laying in,rug
+24177,dog,laying in,suitcase
+48800,dog,laying in,suitcase
+57133,dog,laying in,suitcase
+59877,dog,laying in,surfboard
+95432,dog,laying in,surfboard
+90453,dog,laying in,sand
+94100,dog,laying in,sand
+113020,dog,laying in,sand
+41495,dog,laying in,beach
+51970,dog,laying in,beach
+51972,dog,laying in,beach
+89074,dog,laying in,beach
+6106,dog,laying in,floor
+6858,dog,laying in,floor
+8231,dog,laying in,floor
+9474,dog,laying in,floor
+10650,dog,laying in,floor
+20790,dog,laying in,floor
+20793,dog,laying in,floor
+21666,dog,laying in,floor
+24224,dog,laying in,floor
+29872,dog,laying in,floor
+35681,dog,laying in,floor
+39212,dog,laying in,floor
+43864,dog,laying in,floor
+45235,dog,laying in,floor
+53074,dog,laying in,floor
+53075,dog,laying in,floor
+59028,dog,laying in,floor
+62306,dog,laying in,floor
+63388,dog,laying in,floor
+63392,dog,laying in,floor
+65679,dog,laying in,floor
+74209,dog,laying in,floor
+83586,dog,laying in,floor
+91160,dog,laying in,floor
+95913,dog,laying in,floor
+109866,dog,laying in,floor
+113825,dog,laying in,floor
+115935,dog,laying in,floor
+123195,dog,laying in,floor
+123915,dog,laying in,floor
+6887,dog,playing with,field
+7255,dog,playing with,field
+28282,dog,playing with,field
+1536,dog,playing with,water
+10172,dog,playing with,water
+12611,dog,playing with,water
+16092,dog,playing with,water
+28328,dog,playing with,water
+40256,dog,playing with,water
+51684,dog,playing with,water
+88979,dog,playing with,water
+8488,dog,playing with,beach
+97981,dog,playing with,beach
+24687,dog,playing with,floor
+24688,dog,playing with,floor
+43422,dog,playing with,grass
+56997,dog,playing with,grass
+61439,dog,playing with,grass
+61441,dog,playing with,grass
+65429,dog,playing with,grass
+67378,dog,playing with,grass
+67868,dog,playing with,grass
+78550,dog,playing with,grass
+89655,dog,playing with,grass
+112244,dog,playing with,grass
+114480,dog,playing with,grass
+123354,dog,playing with,grass
+35599,dog,playing with,ball
+94307,dog,playing with,ball
+8517,dog,playing with,cat
+52242,dog,playing with,cat
+6587,dog,playing with,frisbee
+6804,dog,playing with,frisbee
+7649,dog,playing with,frisbee
+8253,dog,playing with,frisbee
+8403,dog,playing with,frisbee
+8968,dog,playing with,frisbee
+8969,dog,playing with,frisbee
+13200,dog,playing with,frisbee
+14205,dog,playing with,frisbee
+15249,dog,playing with,frisbee
+15981,dog,playing with,frisbee
+15983,dog,playing with,frisbee
+19909,dog,playing with,frisbee
+19910,dog,playing with,frisbee
+21222,dog,playing with,frisbee
+23228,dog,playing with,frisbee
+24158,dog,playing with,frisbee
+31213,dog,playing with,frisbee
+31214,dog,playing with,frisbee
+31420,dog,playing with,frisbee
+38805,dog,playing with,frisbee
+40777,dog,playing with,frisbee
+40778,dog,playing with,frisbee
+42687,dog,playing with,frisbee
+42688,dog,playing with,frisbee
+43183,dog,playing with,frisbee
+45072,dog,playing with,frisbee
+46686,dog,playing with,frisbee
+51222,dog,playing with,frisbee
+52373,dog,playing with,frisbee
+53216,dog,playing with,frisbee
+53700,dog,playing with,frisbee
+57160,dog,playing with,frisbee
+57816,dog,playing with,frisbee
+59774,dog,playing with,frisbee
+60385,dog,playing with,frisbee
+61933,dog,playing with,frisbee
+63840,dog,playing with,frisbee
+67867,dog,playing with,frisbee
+71162,dog,playing with,frisbee
+71217,dog,playing with,frisbee
+73899,dog,playing with,frisbee
+77240,dog,playing with,frisbee
+77654,dog,playing with,frisbee
+77655,dog,playing with,frisbee
+81062,dog,playing with,frisbee
+81880,dog,playing with,frisbee
+86120,dog,playing with,frisbee
+87329,dog,playing with,frisbee
+88042,dog,playing with,frisbee
+90542,dog,playing with,frisbee
+90719,dog,playing with,frisbee
+92297,dog,playing with,frisbee
+94102,dog,playing with,frisbee
+99242,dog,playing with,frisbee
+104753,dog,playing with,frisbee
+104948,dog,playing with,frisbee
+105088,dog,playing with,frisbee
+105294,dog,playing with,frisbee
+110188,dog,playing with,frisbee
+112371,dog,playing with,frisbee
+115439,dog,playing with,frisbee
+116046,dog,playing with,frisbee
+118004,dog,playing with,frisbee
+118840,dog,playing with,frisbee
+119520,dog,playing with,frisbee
+119521,dog,playing with,frisbee
+120246,dog,playing with,frisbee
+120247,dog,playing with,frisbee
+57253,dog,playing with,soccer ball
+121250,dog,playing with,soccer ball
+37839,dog,playing with,dog
+51685,dog,playing with,dog
+60386,dog,playing with,dog
+118143,dog,playing with,dog
+123351,dog,playing with,dog
+14311,dog,playing with,snow
+19908,dog,playing with,snow
+23229,dog,playing with,snow
+25177,dog,playing with,snow
+37836,dog,playing with,snow
+47753,dog,playing with,snow
+108479,dog,playing with,snow
+120506,dog,playing with,snow
+22828,dog,running in,beach
+67925,dog,running in,beach
+79496,dog,running in,beach
+79498,dog,running in,beach
+102605,dog,running in,beach
+114315,dog,running in,beach
+15029,dog,running in,field
+27018,dog,running in,field
+101744,dog,running in,field
+638,dog,running in,grass
+13761,dog,running in,grass
+27398,dog,running in,grass
+42273,dog,running in,grass
+48270,dog,running in,grass
+56532,dog,running in,grass
+76431,dog,running in,grass
+76540,dog,running in,grass
+107661,dog,running in,grass
+112860,dog,running in,grass
+114750,dog,running in,grass
+120732,dog,running in,grass
+122652,dog,running in,grass
+7859,dog,running in,sand
+17985,dog,running in,sand
+22827,dog,running in,sand
+29430,dog,running in,sand
+104260,dog,running in,sand
+22208,dog,running in,snow
+73994,dog,running in,snow
+84912,dog,running in,snow
+114160,dog,running in,snow
+120843,dog,running in,snow
+120844,dog,running in,snow
+120846,dog,running in,snow
+694,dog,running in,water
+21486,dog,running in,water
+40255,dog,running in,water
+66170,dog,running in,water
+70787,dog,running in,water
+1102,dog,sitting on a,dirt
+14163,dog,sitting on a,dirt
+26466,dog,sitting on a,dirt
+98136,dog,sitting on a,dirt
+120093,dog,sitting on a,dirt
+24802,dog,sitting on a,bed
+26460,dog,sitting on a,bed
+56842,dog,sitting on a,bed
+68460,dog,sitting on a,bed
+73541,dog,sitting on a,bed
+80654,dog,sitting on a,bed
+92538,dog,sitting on a,bed
+97934,dog,sitting on a,bed
+100517,dog,sitting on a,bed
+116423,dog,sitting on a,bed
+3586,dog,sitting on a,bench
+12459,dog,sitting on a,bench
+15906,dog,sitting on a,bench
+22361,dog,sitting on a,bench
+28742,dog,sitting on a,bench
+29729,dog,sitting on a,bench
+29731,dog,sitting on a,bench
+41195,dog,sitting on a,bench
+41543,dog,sitting on a,bench
+45504,dog,sitting on a,bench
+50014,dog,sitting on a,bench
+60926,dog,sitting on a,bench
+63435,dog,sitting on a,bench
+74375,dog,sitting on a,bench
+76403,dog,sitting on a,bench
+78734,dog,sitting on a,bench
+79966,dog,sitting on a,bench
+80802,dog,sitting on a,bench
+80803,dog,sitting on a,bench
+80804,dog,sitting on a,bench
+85585,dog,sitting on a,bench
+86272,dog,sitting on a,bench
+105182,dog,sitting on a,bench
+109403,dog,sitting on a,bench
+112852,dog,sitting on a,bench
+113539,dog,sitting on a,bench
+120718,dog,sitting on a,bench
+1820,dog,sitting on a,blanket
+1821,dog,sitting on a,blanket
+81192,dog,sitting on a,blanket
+89483,dog,sitting on a,blanket
+118142,dog,sitting on a,blanket
+15706,dog,sitting on a,car
+22767,dog,sitting on a,car
+26454,dog,sitting on a,car
+30891,dog,sitting on a,car
+49092,dog,sitting on a,car
+58009,dog,sitting on a,car
+76735,dog,sitting on a,car
+77913,dog,sitting on a,car
+81216,dog,sitting on a,car
+85898,dog,sitting on a,car
+90954,dog,sitting on a,car
+113645,dog,sitting on a,car
+688,dog,sitting on a,carpet
+68896,dog,sitting on a,carpet
+79913,dog,sitting on a,carpet
+83051,dog,sitting on a,carpet
+99781,dog,sitting on a,carpet
+15562,dog,sitting on a,chair
+30174,dog,sitting on a,chair
+42871,dog,sitting on a,chair
+51987,dog,sitting on a,chair
+52940,dog,sitting on a,chair
+56822,dog,sitting on a,chair
+57863,dog,sitting on a,chair
+60142,dog,sitting on a,chair
+60143,dog,sitting on a,chair
+69844,dog,sitting on a,chair
+73219,dog,sitting on a,chair
+78123,dog,sitting on a,chair
+78124,dog,sitting on a,chair
+78327,dog,sitting on a,chair
+81191,dog,sitting on a,chair
+82380,dog,sitting on a,chair
+86373,dog,sitting on a,chair
+87099,dog,sitting on a,chair
+87951,dog,sitting on a,chair
+94336,dog,sitting on a,chair
+94627,dog,sitting on a,chair
+96634,dog,sitting on a,chair
+103379,dog,sitting on a,chair
+119107,dog,sitting on a,chair
+119557,dog,sitting on a,chair
+123537,dog,sitting on a,chair
+11683,dog,sitting on a,couch
+29704,dog,sitting on a,couch
+35956,dog,sitting on a,couch
+46061,dog,sitting on a,couch
+63000,dog,sitting on a,couch
+71985,dog,sitting on a,couch
+78357,dog,sitting on a,couch
+88713,dog,sitting on a,couch
+98678,dog,sitting on a,couch
+99873,dog,sitting on a,couch
+101022,dog,sitting on a,couch
+103862,dog,sitting on a,couch
+113940,dog,sitting on a,couch
+3936,dog,sitting on a,floor
+4824,dog,sitting on a,floor
+6257,dog,sitting on a,floor
+8092,dog,sitting on a,floor
+10178,dog,sitting on a,floor
+17894,dog,sitting on a,floor
+72927,dog,sitting on a,floor
+95062,dog,sitting on a,floor
+110607,dog,sitting on a,floor
+110866,dog,sitting on a,floor
+2729,dog,sitting on a,grass
+5862,dog,sitting on a,grass
+8333,dog,sitting on a,grass
+8334,dog,sitting on a,grass
+8458,dog,sitting on a,grass
+8462,dog,sitting on a,grass
+8859,dog,sitting on a,grass
+17561,dog,sitting on a,grass
+22819,dog,sitting on a,grass
+32342,dog,sitting on a,grass
+32343,dog,sitting on a,grass
+57687,dog,sitting on a,grass
+59542,dog,sitting on a,grass
+81061,dog,sitting on a,grass
+82172,dog,sitting on a,grass
+98403,dog,sitting on a,grass
+103161,dog,sitting on a,grass
+123221,dog,sitting on a,grass
+123546,dog,sitting on a,grass
+51953,dog,sitting on a,lap
+57707,dog,sitting on a,lap
+57708,dog,sitting on a,lap
+91310,dog,sitting on a,lap
+105572,dog,sitting on a,lap
+119076,dog,sitting on a,lap
+122078,dog,sitting on a,lap
+12839,dog,sitting on a,man
+33783,dog,sitting on a,man
+57671,dog,sitting on a,man
+88417,dog,sitting on a,man
+105571,dog,sitting on a,man
+108960,dog,sitting on a,man
+114332,dog,sitting on a,man
+118418,dog,sitting on a,man
+119075,dog,sitting on a,man
+9850,dog,sitting on a,motorcycle
+10249,dog,sitting on a,motorcycle
+36756,dog,sitting on a,motorcycle
+57046,dog,sitting on a,motorcycle
+90386,dog,sitting on a,motorcycle
+95407,dog,sitting on a,motorcycle
+99896,dog,sitting on a,motorcycle
+3373,dog,sitting on a,pillow
+33436,dog,sitting on a,pillow
+71798,dog,sitting on a,pillow
+100760,dog,sitting on a,pillow
+105382,dog,sitting on a,pillow
+29235,dog,sitting on a,sand
+30978,dog,sitting on a,sand
+52515,dog,sitting on a,sand
+61521,dog,sitting on a,sand
+61522,dog,sitting on a,sand
+105805,dog,sitting on a,sand
+36757,dog,sitting on a,seat
+53915,dog,sitting on a,seat
+65418,dog,sitting on a,seat
+76697,dog,sitting on a,seat
+95707,dog,sitting on a,seat
+107885,dog,sitting on a,seat
+123610,dog,sitting on a,seat
+12018,dog,sitting on a,sidewalk
+35024,dog,sitting on a,sidewalk
+48493,dog,sitting on a,sidewalk
+97734,dog,sitting on a,sidewalk
+121182,dog,sitting on a,sidewalk
+2000,dog,sitting on a,table
+9226,dog,sitting on a,table
+50012,dog,sitting on a,table
+74194,dog,sitting on a,table
+78331,dog,sitting on a,table
+82032,dog,sitting on a,table
+96890,dog,sitting on a,table
+107707,dog,sitting on a,table
+18023,dog,sitting on a,truck
+50438,dog,sitting on a,truck
+52587,dog,sitting on a,truck
+76809,dog,sitting on a,truck
+98143,dog,sitting on a,truck
+108833,dog,sitting on a,truck
+9736,dog,sitting on a,window
+23226,dog,sitting on a,window
+32910,dog,sitting on a,window
+91462,dog,sitting on a,window
+109175,dog,sitting on a,window
+80662,dog,sleeping on,bed
+89386,dog,sleeping on,bed
+107595,dog,sleeping on,bed
+123740,dog,sleeping on,bed
+6055,dog,sleeping on,bench
+28536,dog,sleeping on,bench
+81107,dog,sleeping on,carpet
+92694,dog,sleeping on,carpet
+21956,dog,sleeping on,couch
+69175,dog,sleeping on,couch
+81767,dog,sleeping on,couch
+124743,dog,sleeping on,couch
+28010,dog,sleeping on,floor
+28011,dog,sleeping on,floor
+62071,dog,sleeping on,floor
+68284,dog,sleeping on,floor
+89182,dog,sleeping on,floor
+106918,dog,sleeping on,floor
+82598,dog,sleeping on,pillow
+103228,dog,sleeping on,pillow
+3276,dog,sleeping on,sidewalk
+59317,dog,sleeping on,sidewalk
+22298,dog,sniffing,frisbee
+57902,dog,sniffing,frisbee
+39041,dog,sniffing,grass
+52319,dog,sniffing,grass
+45267,elephant,eating from,water
+97878,elephant,eating from,water
+106615,elephant,eating from,water
+63893,elephant,laying in,grass
+65086,elephant,laying in,grass
+94695,elephant,laying in,grass
+30133,elephant,laying in,water
+35094,elephant,laying in,water
+50863,elephant,laying in,water
+54460,elephant,laying in,water
+74781,elephant,laying in,water
+82696,elephant,laying in,water
+82698,elephant,laying in,water
+122735,elephant,laying in,water
+34267,elephant,leaving,water
+70714,elephant,leaving,water
+118493,elephant,leaving,water
+47404,elephant,playing with,water
+70005,elephant,playing with,water
+70006,elephant,playing with,water
+105623,elephant,playing with,water
+120399,elephant,playing with,water
+17786,elephant,playing with,ball
+17790,elephant,playing with,ball
+55916,elephant,playing with,ball
+64219,elephant,playing with,ball
+79031,elephant,playing with,ball
+1097,elephant,playing with,mud
+105276,elephant,playing with,mud
+123965,elephant,playing with,mud
+123967,elephant,playing with,mud
+123968,elephant,playing with,mud
+1353,elephant,playing with,elephant
+42502,elephant,playing with,elephant
+7607,elephant,sitting on a,water
+102839,elephant,sitting on a,water
+118780,elephant,sitting on a,water
+21952,elephant,touching,man
+22789,elephant,touching,man
+7885,giraffe,eating from,water
+66982,giraffe,eating from,water
+118570,giraffe,eating from,leaf
+118571,giraffe,eating from,leaf
+12741,giraffe,eating from,basket
+14402,giraffe,eating from,basket
+28495,giraffe,eating from,basket
+28496,giraffe,eating from,basket
+31741,giraffe,eating from,basket
+37260,giraffe,eating from,basket
+37261,giraffe,eating from,basket
+41380,giraffe,eating from,basket
+42463,giraffe,eating from,basket
+67920,giraffe,eating from,basket
+86248,giraffe,eating from,basket
+102470,giraffe,eating from,basket
+102471,giraffe,eating from,basket
+109518,giraffe,eating from,basket
+15130,giraffe,eating from,feeder
+17035,giraffe,eating from,feeder
+17036,giraffe,eating from,feeder
+25330,giraffe,eating from,feeder
+33036,giraffe,eating from,feeder
+55162,giraffe,eating from,feeder
+55163,giraffe,eating from,feeder
+111399,giraffe,eating from,feeder
+111400,giraffe,eating from,feeder
+1627,giraffe,eating from,hand
+115671,giraffe,eating from,hand
+19942,giraffe,eating from,tree
+28876,giraffe,eating from,tree
+34118,giraffe,eating from,tree
+38063,giraffe,eating from,tree
+44511,giraffe,eating from,tree
+45543,giraffe,eating from,tree
+57536,giraffe,eating from,tree
+58380,giraffe,eating from,tree
+58381,giraffe,eating from,tree
+80639,giraffe,eating from,tree
+82651,giraffe,eating from,tree
+82652,giraffe,eating from,tree
+88198,giraffe,eating from,tree
+93769,giraffe,eating from,tree
+102354,giraffe,eating from,tree
+102733,giraffe,eating from,tree
+113606,giraffe,eating from,tree
+114858,giraffe,eating from,tree
+93310,giraffe,eating from,woman
+93311,giraffe,eating from,woman
+70512,giraffe,laying in,dirt
+91777,giraffe,laying in,dirt
+106237,giraffe,laying in,dirt
+108214,giraffe,laying in,dirt
+8916,giraffe,laying in,grass
+17150,giraffe,laying in,grass
+35572,giraffe,laying in,grass
+36920,giraffe,laying in,grass
+43519,giraffe,laying in,grass
+48938,giraffe,laying in,grass
+59005,giraffe,laying in,grass
+70822,giraffe,laying in,grass
+79449,giraffe,laying in,grass
+79450,giraffe,laying in,grass
+112306,giraffe,laying in,grass
+26785,giraffe,leaning on,fence
+28455,giraffe,leaning on,fence
+30822,giraffe,leaning on,fence
+42693,giraffe,leaning on,fence
+55975,giraffe,leaning on,fence
+80828,giraffe,leaning on,fence
+91595,giraffe,leaning on,fence
+89253,giraffe,leaning on,railing
+89254,giraffe,leaning on,railing
+89255,giraffe,leaning on,railing
+89256,giraffe,leaning on,railing
+1302,giraffe,leaning on,rock
+6868,giraffe,leaning on,rock
+32314,giraffe,leaning on,rock
+4,giraffe,licking,leaf
+77959,giraffe,licking,leaf
+100704,giraffe,licking,pole
+115776,giraffe,licking,pole
+54487,giraffe,licking,tree
+75736,giraffe,licking,tree
+17070,giraffe,running in,field
+17071,giraffe,running in,field
+100410,giraffe,running in,field
+44657,giraffe,sitting on a,dirt
+61753,giraffe,sitting on a,dirt
+66913,giraffe,sitting on a,dirt
+101904,giraffe,sitting on a,dirt
+22835,giraffe,sitting on a,grass
+27961,giraffe,sitting on a,grass
+31139,giraffe,sitting on a,grass
+46158,giraffe,sitting on a,grass
+71650,giraffe,sitting on a,grass
+77275,giraffe,sitting on a,grass
+79451,giraffe,sitting on a,grass
+31200,giraffe,sniffing,giraffe
+37149,giraffe,sniffing,giraffe
+108189,giraffe,sniffing,giraffe
+14775,giraffe,touching,giraffe
+14776,giraffe,touching,giraffe
+14777,giraffe,touching,giraffe
+109740,giraffe,touching,giraffe
+112101,giraffe,touching,giraffe
+91875,girl,balancing on,surfboard
+115872,girl,balancing on,surfboard
+20964,girl,biting,pizza
+28661,girl,biting,pizza
+38629,girl,jumping on,bed
+38632,girl,jumping on,bed
+114257,girl,jumping on,bed
+114258,girl,jumping on,bed
+13058,girl,laying in,bed
+17317,girl,laying in,bed
+17319,girl,laying in,bed
+20261,girl,laying in,bed
+31348,girl,laying in,bed
+35181,girl,laying in,bed
+42608,girl,laying in,bed
+45947,girl,laying in,bed
+64419,girl,laying in,bed
+67759,girl,laying in,bed
+77309,girl,laying in,bed
+85465,girl,laying in,bed
+88298,girl,laying in,bed
+101842,girl,laying in,bed
+116000,girl,laying in,bed
+120276,girl,laying in,bed
+120414,girl,laying in,bed
+15969,girl,laying in,couch
+19171,girl,laying in,couch
+65459,girl,laying in,couch
+111577,girl,laying in,couch
+111913,girl,laying in,couch
+119775,girl,laying in,couch
+78857,girl,laying in,pillow
+97202,girl,laying in,pillow
+114936,girl,laying in,pillow
+44281,girl,laying in,bench
+97745,girl,laying in,bench
+74034,girl,laying in,board
+101290,girl,laying in,board
+35769,girl,laying in,surfboard
+87020,girl,laying in,surfboard
+92730,girl,laying in,floor
+111513,girl,laying in,floor
+579,girl,leaning on,computer
+3082,girl,leaning on,computer
+103921,girl,leaning on,computer
+116845,girl,leaning on,computer
+3442,girl,leaning on,fence
+40149,girl,leaning on,fence
+123545,girl,leaning on,fence
+98462,girl,playing with,field
+100185,girl,playing with,field
+103615,girl,playing with,field
+109708,girl,playing with,field
+2374,girl,playing with,park
+108311,girl,playing with,park
+86295,girl,playing with,water
+97075,girl,playing with,water
+19402,girl,playing with,beach
+36432,girl,playing with,beach
+45423,girl,playing with,beach
+47173,girl,playing with,beach
+68565,girl,playing with,beach
+4529,girl,playing with,grass
+58281,girl,playing with,grass
+17205,girl,playing with,sand
+22578,girl,playing with,sand
+30671,girl,playing with,sand
+71655,girl,playing with,sand
+89484,girl,playing with,sand
+72210,girl,playing with,outside
+72211,girl,playing with,outside
+72212,girl,playing with,outside
+36735,girl,playing with,ball
+58828,girl,playing with,ball
+59148,girl,playing with,ball
+14800,girl,playing with,boy
+75496,girl,playing with,boy
+107565,girl,playing with,computer
+119223,girl,playing with,computer
+39304,girl,playing with,cup
+122138,girl,playing with,cup
+32961,girl,playing with,frisbee
+32962,girl,playing with,frisbee
+35924,girl,playing with,frisbee
+39258,girl,playing with,frisbee
+40584,girl,playing with,frisbee
+48695,girl,playing with,frisbee
+54749,girl,playing with,frisbee
+58213,girl,playing with,frisbee
+67190,girl,playing with,frisbee
+71656,girl,playing with,frisbee
+81007,girl,playing with,frisbee
+86085,girl,playing with,frisbee
+86132,girl,playing with,frisbee
+86133,girl,playing with,frisbee
+86134,girl,playing with,frisbee
+86135,girl,playing with,frisbee
+91792,girl,playing with,frisbee
+93955,girl,playing with,frisbee
+93956,girl,playing with,frisbee
+95050,girl,playing with,frisbee
+97144,girl,playing with,frisbee
+97145,girl,playing with,frisbee
+100184,girl,playing with,frisbee
+104642,girl,playing with,frisbee
+108309,girl,playing with,frisbee
+109240,girl,playing with,frisbee
+109242,girl,playing with,frisbee
+110774,girl,playing with,frisbee
+110775,girl,playing with,frisbee
+112500,girl,playing with,frisbee
+115713,girl,playing with,frisbee
+124489,girl,playing with,frisbee
+10073,girl,playing with,girl
+90235,girl,playing with,girl
+90236,girl,playing with,girl
+31293,girl,playing with,kite
+49837,girl,playing with,kite
+109710,girl,playing with,kite
+89066,girl,playing with,skateboard
+124864,girl,playing with,skateboard
+29310,girl,playing with,umbrella
+41648,girl,playing with,umbrella
+41649,girl,playing with,umbrella
+96415,girl,playing with,umbrella
+96416,girl,playing with,umbrella
+49839,girl,running in,beach
+71447,girl,running in,beach
+65820,girl,running in,field
+80486,girl,running in,field
+2371,girl,running in,road
+116877,girl,running in,road
+77626,girl,running in,grass
+77627,girl,running in,grass
+11277,girl,sitting on a,bed
+19551,girl,sitting on a,bed
+22232,girl,sitting on a,bed
+31809,girl,sitting on a,bed
+48997,girl,sitting on a,bed
+52193,girl,sitting on a,bed
+52921,girl,sitting on a,bed
+57310,girl,sitting on a,bed
+60014,girl,sitting on a,bed
+65433,girl,sitting on a,bed
+77893,girl,sitting on a,bed
+96953,girl,sitting on a,bed
+97638,girl,sitting on a,bed
+98866,girl,sitting on a,bed
+99593,girl,sitting on a,bed
+116891,girl,sitting on a,bed
+120275,girl,sitting on a,bed
+388,girl,sitting on a,bench
+3939,girl,sitting on a,bench
+4241,girl,sitting on a,bench
+5554,girl,sitting on a,bench
+11117,girl,sitting on a,bench
+12295,girl,sitting on a,bench
+15238,girl,sitting on a,bench
+15239,girl,sitting on a,bench
+15569,girl,sitting on a,bench
+16057,girl,sitting on a,bench
+16058,girl,sitting on a,bench
+16485,girl,sitting on a,bench
+18002,girl,sitting on a,bench
+19297,girl,sitting on a,bench
+19749,girl,sitting on a,bench
+22041,girl,sitting on a,bench
+23084,girl,sitting on a,bench
+26765,girl,sitting on a,bench
+32944,girl,sitting on a,bench
+39191,girl,sitting on a,bench
+47648,girl,sitting on a,bench
+48000,girl,sitting on a,bench
+48122,girl,sitting on a,bench
+49688,girl,sitting on a,bench
+51894,girl,sitting on a,bench
+54860,girl,sitting on a,bench
+68944,girl,sitting on a,bench
+76028,girl,sitting on a,bench
+76029,girl,sitting on a,bench
+78003,girl,sitting on a,bench
+82368,girl,sitting on a,bench
+99720,girl,sitting on a,bench
+100936,girl,sitting on a,bench
+102236,girl,sitting on a,bench
+103721,girl,sitting on a,bench
+113922,girl,sitting on a,bench
+114193,girl,sitting on a,bench
+114194,girl,sitting on a,bench
+115670,girl,sitting on a,bench
+116267,girl,sitting on a,bench
+119913,girl,sitting on a,bench
+120590,girl,sitting on a,bench
+35395,girl,sitting on a,blanket
+52791,girl,sitting on a,blanket
+121606,girl,sitting on a,blanket
+2060,girl,sitting on a,bus
+60671,girl,sitting on a,bus
+518,girl,sitting on a,chair
+1615,girl,sitting on a,chair
+6227,girl,sitting on a,chair
+7040,girl,sitting on a,chair
+20582,girl,sitting on a,chair
+27544,girl,sitting on a,chair
+34070,girl,sitting on a,chair
+35725,girl,sitting on a,chair
+40290,girl,sitting on a,chair
+46177,girl,sitting on a,chair
+55754,girl,sitting on a,chair
+57701,girl,sitting on a,chair
+60736,girl,sitting on a,chair
+70399,girl,sitting on a,chair
+70400,girl,sitting on a,chair
+70403,girl,sitting on a,chair
+71318,girl,sitting on a,chair
+71905,girl,sitting on a,chair
+71915,girl,sitting on a,chair
+78802,girl,sitting on a,chair
+79208,girl,sitting on a,chair
+82796,girl,sitting on a,chair
+84073,girl,sitting on a,chair
+85674,girl,sitting on a,chair
+87569,girl,sitting on a,chair
+88394,girl,sitting on a,chair
+88395,girl,sitting on a,chair
+90305,girl,sitting on a,chair
+91412,girl,sitting on a,chair
+96225,girl,sitting on a,chair
+96915,girl,sitting on a,chair
+109733,girl,sitting on a,chair
+111022,girl,sitting on a,chair
+111918,girl,sitting on a,chair
+112420,girl,sitting on a,chair
+117176,girl,sitting on a,chair
+11166,girl,sitting on a,couch
+15991,girl,sitting on a,couch
+17007,girl,sitting on a,couch
+20691,girl,sitting on a,couch
+33101,girl,sitting on a,couch
+39824,girl,sitting on a,couch
+62439,girl,sitting on a,couch
+76062,girl,sitting on a,couch
+92001,girl,sitting on a,couch
+93010,girl,sitting on a,couch
+94272,girl,sitting on a,couch
+104128,girl,sitting on a,couch
+107566,girl,sitting on a,couch
+115332,girl,sitting on a,couch
+5080,girl,sitting on a,counter
+90881,girl,sitting on a,counter
+92736,girl,sitting on a,counter
+110025,girl,sitting on a,counter
+33818,girl,sitting on a,desk
+79987,girl,sitting on a,desk
+114041,girl,sitting on a,desk
+116772,girl,sitting on a,desk
+116846,girl,sitting on a,desk
+39305,girl,sitting on a,floor
+77556,girl,sitting on a,floor
+84342,girl,sitting on a,floor
+87865,girl,sitting on a,floor
+22040,girl,sitting on a,girl
+88390,girl,sitting on a,girl
+114192,girl,sitting on a,girl
+24798,girl,sitting on a,grass
+66256,girl,sitting on a,grass
+106071,girl,sitting on a,grass
+115634,girl,sitting on a,grass
+117517,girl,sitting on a,grass
+13474,girl,sitting on a,horse
+20149,girl,sitting on a,horse
+48058,girl,sitting on a,horse
+48060,girl,sitting on a,horse
+48533,girl,sitting on a,horse
+51921,girl,sitting on a,horse
+58824,girl,sitting on a,horse
+65044,girl,sitting on a,horse
+69758,girl,sitting on a,horse
+81557,girl,sitting on a,horse
+82928,girl,sitting on a,horse
+83878,girl,sitting on a,horse
+93439,girl,sitting on a,horse
+95895,girl,sitting on a,horse
+41722,girl,sitting on a,lap
+54175,girl,sitting on a,lap
+121547,girl,sitting on a,lap
+90012,girl,sitting on a,mat
+113223,girl,sitting on a,mat
+113224,girl,sitting on a,mat
+113226,girl,sitting on a,mat
+33643,girl,sitting on a,seat
+33644,girl,sitting on a,seat
+98320,girl,sitting on a,seat
+98321,girl,sitting on a,seat
+111917,girl,sitting on a,seat
+111914,girl,sitting on a,sofa
+114718,girl,sitting on a,sofa
+115030,girl,sitting on a,sofa
+121988,girl,sitting on a,sofa
+10566,girl,sitting on a,suitcase
+40798,girl,sitting on a,suitcase
+72464,girl,sitting on a,suitcase
+81774,girl,sitting on a,suitcase
+7627,girl,sitting on a,surfboard
+7628,girl,sitting on a,surfboard
+37935,girl,sitting on a,surfboard
+85527,girl,sitting on a,surfboard
+1244,girl,sitting on a,table
+5549,girl,sitting on a,table
+12441,girl,sitting on a,table
+19072,girl,sitting on a,table
+20394,girl,sitting on a,table
+22127,girl,sitting on a,table
+22291,girl,sitting on a,table
+22292,girl,sitting on a,table
+23037,girl,sitting on a,table
+24071,girl,sitting on a,table
+30475,girl,sitting on a,table
+33429,girl,sitting on a,table
+33431,girl,sitting on a,table
+34198,girl,sitting on a,table
+37833,girl,sitting on a,table
+38793,girl,sitting on a,table
+39062,girl,sitting on a,table
+40746,girl,sitting on a,table
+45988,girl,sitting on a,table
+46439,girl,sitting on a,table
+48376,girl,sitting on a,table
+51534,girl,sitting on a,table
+59808,girl,sitting on a,table
+60732,girl,sitting on a,table
+60735,girl,sitting on a,table
+68126,girl,sitting on a,table
+68945,girl,sitting on a,table
+70170,girl,sitting on a,table
+73295,girl,sitting on a,table
+74914,girl,sitting on a,table
+79864,girl,sitting on a,table
+86722,girl,sitting on a,table
+86724,girl,sitting on a,table
+88851,girl,sitting on a,table
+94719,girl,sitting on a,table
+100694,girl,sitting on a,table
+101508,girl,sitting on a,table
+101509,girl,sitting on a,table
+109494,girl,sitting on a,table
+109735,girl,sitting on a,table
+109971,girl,sitting on a,table
+111218,girl,sitting on a,table
+122215,girl,sitting on a,table
+92584,girl,sitting on a,wall
+92585,girl,sitting on a,wall
+93133,girl,sitting on a,wall
+15690,girl,sleeping on,seat
+30743,girl,sleeping on,seat
+18173,girl,swinging,baseball bat
+20408,girl,swinging,baseball bat
+58279,girl,swinging,baseball bat
+58280,girl,swinging,baseball bat
+59398,girl,swinging,baseball bat
+67129,girl,swinging,baseball bat
+91455,girl,swinging,baseball bat
+120766,girl,swinging,baseball bat
+123209,girl,swinging,baseball bat
+18813,girl,swinging,tennis racket
+18815,girl,swinging,tennis racket
+20306,girl,swinging,tennis racket
+20307,girl,swinging,tennis racket
+28764,girl,swinging,tennis racket
+40138,girl,swinging,tennis racket
+47059,girl,swinging,tennis racket
+66468,girl,swinging,tennis racket
+88759,girl,swinging,tennis racket
+105842,girl,swinging,tennis racket
+111737,girl,swinging,tennis racket
+122439,girl,swinging,tennis racket
+88465,girl,touching,horse
+111073,girl,touching,horse
+33034,horse,chasing,cow
+119003,horse,chasing,cow
+22162,horse,jumping on,fence
+48865,horse,jumping on,fence
+90590,horse,jumping on,fence
+95597,horse,jumping on,fence
+114371,horse,jumping on,fence
+118615,horse,jumping on,fence
+27160,horse,jumping on,poles
+42157,horse,jumping on,poles
+62264,horse,jumping on,poles
+10365,horse,laying in,field
+57438,horse,laying in,field
+95351,horse,laying in,field
+17245,horse,laying in,grass
+23271,horse,laying in,grass
+59164,horse,laying in,grass
+79432,horse,laying in,grass
+96460,horse,laying in,grass
+7742,horse,laying in,back
+7745,horse,laying in,back
+93377,horse,laying in,back
+910,horse,laying in,beach
+65186,horse,laying in,beach
+7002,horse,leaning on,fence
+42039,horse,leaning on,fence
+9807,horse,running in,field
+16809,horse,running in,field
+33035,horse,running in,field
+42668,horse,running in,field
+57561,horse,running in,field
+63626,horse,running in,field
+98768,horse,running in,field
+121831,horse,running in,field
+65495,horse,running in,dirt
+65496,horse,running in,dirt
+65497,horse,running in,dirt
+65498,horse,running in,dirt
+104714,horse,running in,dirt
+14829,horse,running in,water
+52965,horse,running in,water
+53296,horse,running in,water
+69732,horse,running in,water
+65772,horse,running in,sand
+87217,horse,running in,sand
+95820,horse,running in,sand
+27218,horse,running in,grass
+45216,horse,running in,grass
+67906,horse,running in,grass
+72856,horse,running in,grass
+105095,horse,running in,grass
+117753,horse,running in,grass
+5214,horse,running in,beach
+30477,horse,running in,beach
+45384,horse,running in,beach
+56895,horse,running in,beach
+59616,horse,running in,beach
+63979,horse,running in,beach
+63980,horse,running in,beach
+65491,horse,running in,beach
+71092,horse,running in,beach
+108277,horse,running in,beach
+113427,horse,running in,beach
+51564,man,balancing on,skateboard
+51647,man,balancing on,skateboard
+101089,man,balancing on,skateboard
+104772,man,balancing on,skateboard
+109671,man,balancing on,skateboard
+115323,man,balancing on,skateboard
+22749,man,balancing on,surfboard
+33056,man,balancing on,surfboard
+39205,man,balancing on,surfboard
+40083,man,balancing on,surfboard
+46910,man,balancing on,surfboard
+47906,man,balancing on,surfboard
+48605,man,balancing on,surfboard
+48979,man,balancing on,surfboard
+51499,man,balancing on,surfboard
+54082,man,balancing on,surfboard
+68495,man,balancing on,surfboard
+68694,man,balancing on,surfboard
+69828,man,balancing on,surfboard
+77131,man,balancing on,surfboard
+87743,man,balancing on,surfboard
+96277,man,balancing on,surfboard
+105395,man,balancing on,surfboard
+35497,man,balancing on,wave
+105394,man,balancing on,wave
+65072,man,biting,pizza
+102559,man,biting,pizza
+108627,man,biting,pizza
+5493,man,biting,surfboard
+5496,man,biting,surfboard
+18388,man,chasing,ball
+23516,man,chasing,ball
+20173,man,chasing,cow
+92819,man,chasing,cow
+17764,man,chasing,frisbee
+38292,man,chasing,frisbee
+46079,man,chasing,frisbee
+96179,man,chasing,frisbee
+14703,man,eating from,bottle
+80752,man,eating from,bottle
+117920,man,eating from,bottle
+31776,man,eating from,cup
+48658,man,eating from,cup
+51795,man,eating from,cup
+58640,man,eating from,cup
+58645,man,eating from,cup
+78936,man,eating from,cup
+6322,man,eating from,plate
+76833,man,eating from,plate
+8878,man,entering,bus
+65923,man,entering,bus
+75805,man,entering,bus
+77997,man,entering,bus
+41527,man,entering,plane
+77948,man,entering,plane
+22166,man,entering,train
+81049,man,entering,train
+81446,man,entering,train
+90574,man,entering,train
+92081,man,entering,train
+18594,man,grabbing,frisbee
+53714,man,grabbing,frisbee
+75683,man,grabbing,frisbee
+74047,man,grabbing,pizza
+74048,man,grabbing,pizza
+110259,man,grabbing,pizza
+115160,man,grabbing,pizza
+59062,man,grabbing,skateboard
+59277,man,grabbing,skateboard
+62932,man,grabbing,skateboard
+91130,man,grabbing,skateboard
+33335,man,grabbing,surfboard
+78427,man,grabbing,surfboard
+8430,man,grabbing,tennis racket
+44080,man,grabbing,tennis racket
+49598,man,grabbing,tennis racket
+103084,man,grabbing,tennis racket
+118345,man,grabbing,tennis racket
+44734,man,grabbing,food
+97888,man,grabbing,food
+39708,man,jumping on,bed
+50579,man,jumping on,bed
+54003,man,jumping on,bed
+67651,man,jumping on,bed
+90693,man,jumping on,bed
+1327,man,jumping on,skateboard
+7851,man,jumping on,skateboard
+8245,man,jumping on,skateboard
+8569,man,jumping on,skateboard
+13407,man,jumping on,skateboard
+17193,man,jumping on,skateboard
+27257,man,jumping on,skateboard
+35528,man,jumping on,skateboard
+37036,man,jumping on,skateboard
+47718,man,jumping on,skateboard
+49627,man,jumping on,skateboard
+63144,man,jumping on,skateboard
+66678,man,jumping on,skateboard
+84343,man,jumping on,skateboard
+101556,man,jumping on,skateboard
+115954,man,jumping on,skateboard
+124420,man,jumping on,skateboard
+7197,man,jumping on,skis
+38017,man,jumping on,skis
+40722,man,jumping on,skis
+103327,man,jumping on,skis
+14684,man,laying in,chair
+31859,man,laying in,chair
+85531,man,laying in,chair
+52541,man,laying in,couch
+89326,man,laying in,couch
+94152,man,laying in,couch
+94595,man,laying in,couch
+105736,man,laying in,couch
+118963,man,laying in,couch
+5498,man,laying in,bed
+9760,man,laying in,bed
+12350,man,laying in,bed
+19631,man,laying in,bed
+23650,man,laying in,bed
+24361,man,laying in,bed
+29189,man,laying in,bed
+36161,man,laying in,bed
+43057,man,laying in,bed
+45305,man,laying in,bed
+45436,man,laying in,bed
+45585,man,laying in,bed
+45586,man,laying in,bed
+46076,man,laying in,bed
+54724,man,laying in,bed
+55315,man,laying in,bed
+56441,man,laying in,bed
+56871,man,laying in,bed
+61670,man,laying in,bed
+63769,man,laying in,bed
+67362,man,laying in,bed
+68485,man,laying in,bed
+71830,man,laying in,bed
+72632,man,laying in,bed
+74844,man,laying in,bed
+75135,man,laying in,bed
+84936,man,laying in,bed
+101696,man,laying in,bed
+106171,man,laying in,bed
+106449,man,laying in,bed
+114628,man,laying in,bed
+24539,man,laying in,grass
+24540,man,laying in,grass
+37181,man,laying in,grass
+53692,man,laying in,grass
+60308,man,laying in,grass
+83869,man,laying in,grass
+85659,man,laying in,grass
+97037,man,laying in,grass
+100635,man,laying in,grass
+103518,man,laying in,grass
+112077,man,laying in,grass
+8726,man,laying in,snow
+12613,man,laying in,snow
+38511,man,laying in,snow
+76478,man,laying in,snow
+86356,man,laying in,snow
+88074,man,laying in,snow
+94928,man,laying in,snow
+97467,man,laying in,snow
+104070,man,laying in,snow
+109383,man,laying in,snow
+1121,man,laying in,water
+94883,man,laying in,water
+26906,man,laying in,bench
+36322,man,laying in,bench
+42083,man,laying in,bench
+42084,man,laying in,bench
+42085,man,laying in,bench
+74284,man,laying in,bench
+75881,man,laying in,bench
+94107,man,laying in,bench
+98696,man,laying in,bench
+98697,man,laying in,bench
+101760,man,laying in,bench
+102059,man,laying in,bench
+116216,man,laying in,bench
+15838,man,laying in,board
+58064,man,laying in,board
+112918,man,laying in,board
+61916,man,laying in,pillow
+61917,man,laying in,pillow
+61918,man,laying in,pillow
+98719,man,laying in,pillow
+5602,man,laying in,surfboard
+7809,man,laying in,surfboard
+14052,man,laying in,surfboard
+15695,man,laying in,surfboard
+16098,man,laying in,surfboard
+40040,man,laying in,surfboard
+42165,man,laying in,surfboard
+48085,man,laying in,surfboard
+48780,man,laying in,surfboard
+53447,man,laying in,surfboard
+63976,man,laying in,surfboard
+65800,man,laying in,surfboard
+72036,man,laying in,surfboard
+84959,man,laying in,surfboard
+85915,man,laying in,surfboard
+88009,man,laying in,surfboard
+88030,man,laying in,surfboard
+94104,man,laying in,surfboard
+97558,man,laying in,surfboard
+105280,man,laying in,surfboard
+112709,man,laying in,surfboard
+4253,man,laying in,towel
+19196,man,laying in,towel
+77801,man,laying in,towel
+37287,man,laying in,sand
+45685,man,laying in,sand
+65128,man,laying in,sand
+66116,man,laying in,sand
+66117,man,laying in,sand
+75715,man,laying in,sand
+96254,man,laying in,sand
+4252,man,laying in,beach
+9946,man,laying in,beach
+77802,man,laying in,beach
+94502,man,laying in,beach
+117056,man,laying in,beach
+17024,man,laying in,floor
+32123,man,laying in,floor
+32124,man,laying in,floor
+43679,man,laying in,floor
+58530,man,laying in,floor
+98653,man,laying in,floor
+10274,man,laying in,sidewalk
+28522,man,laying in,sidewalk
+103956,man,laying in,sidewalk
+119607,man,laying in,sidewalk
+25245,man,leaning on,baseball bat
+64796,man,leaning on,baseball bat
+66658,man,leaning on,baseball bat
+70311,man,leaning on,baseball bat
+11312,man,leaning on,bicycle
+19632,man,leaning on,bicycle
+20409,man,leaning on,bicycle
+58055,man,leaning on,bicycle
+77165,man,leaning on,bicycle
+32554,man,leaning on,bike
+54839,man,leaning on,bike
+58451,man,leaning on,bike
+105015,man,leaning on,bike
+15616,man,leaning on,boat
+33911,man,leaning on,boat
+67956,man,leaning on,boat
+84452,man,leaning on,boat
+102670,man,leaning on,boat
+48358,man,leaning on,car
+111378,man,leaning on,car
+111380,man,leaning on,car
+781,man,leaning on,computer
+1155,man,leaning on,computer
+1555,man,leaning on,computer
+7683,man,leaning on,computer
+9205,man,leaning on,computer
+12158,man,leaning on,computer
+12528,man,leaning on,computer
+12529,man,leaning on,computer
+12531,man,leaning on,computer
+12918,man,leaning on,computer
+22057,man,leaning on,computer
+22702,man,leaning on,computer
+33971,man,leaning on,computer
+37371,man,leaning on,computer
+41795,man,leaning on,computer
+52030,man,leaning on,computer
+53723,man,leaning on,computer
+57146,man,leaning on,computer
+57147,man,leaning on,computer
+57590,man,leaning on,computer
+63754,man,leaning on,computer
+69425,man,leaning on,computer
+72159,man,leaning on,computer
+73686,man,leaning on,computer
+73687,man,leaning on,computer
+79336,man,leaning on,computer
+91431,man,leaning on,computer
+92607,man,leaning on,computer
+93581,man,leaning on,computer
+103922,man,leaning on,computer
+105971,man,leaning on,computer
+110098,man,leaning on,computer
+112145,man,leaning on,computer
+117134,man,leaning on,computer
+118744,man,leaning on,computer
+120688,man,leaning on,computer
+120715,man,leaning on,computer
+31075,man,leaning on,counter
+40669,man,leaning on,counter
+40733,man,leaning on,counter
+47657,man,leaning on,counter
+47658,man,leaning on,counter
+54546,man,leaning on,counter
+54547,man,leaning on,counter
+54548,man,leaning on,counter
+64119,man,leaning on,counter
+69582,man,leaning on,counter
+69583,man,leaning on,counter
+78661,man,leaning on,counter
+88920,man,leaning on,counter
+125263,man,leaning on,counter
+6336,man,leaning on,fence
+13110,man,leaning on,fence
+17903,man,leaning on,fence
+27226,man,leaning on,fence
+32787,man,leaning on,fence
+32788,man,leaning on,fence
+50816,man,leaning on,fence
+65083,man,leaning on,fence
+65766,man,leaning on,fence
+68776,man,leaning on,fence
+70679,man,leaning on,fence
+74172,man,leaning on,fence
+79143,man,leaning on,fence
+83242,man,leaning on,fence
+95418,man,leaning on,fence
+116684,man,leaning on,fence
+117951,man,leaning on,fence
+118126,man,leaning on,fence
+123466,man,leaning on,fence
+54875,man,leaning on,hand
+86850,man,leaning on,hand
+103756,man,leaning on,hand
+1917,man,leaning on,kite
+19590,man,leaning on,kite
+109484,man,leaning on,kite
+1553,man,leaning on,motorcycle
+9422,man,leaning on,motorcycle
+26183,man,leaning on,motorcycle
+26915,man,leaning on,motorcycle
+38971,man,leaning on,motorcycle
+68526,man,leaning on,motorcycle
+106549,man,leaning on,motorcycle
+113049,man,leaning on,motorcycle
+117050,man,leaning on,motorcycle
+3849,man,leaning on,pole
+55814,man,leaning on,pole
+91870,man,leaning on,pole
+94890,man,leaning on,pole
+969,man,leaning on,rail
+35273,man,leaning on,rail
+44798,man,leaning on,rail
+51958,man,leaning on,rail
+52413,man,leaning on,rail
+69699,man,leaning on,rail
+6093,man,leaning on,railing
+58192,man,leaning on,railing
+66656,man,leaning on,railing
+75958,man,leaning on,railing
+93413,man,leaning on,railing
+32756,man,leaning on,surfboard
+51632,man,leaning on,surfboard
+52278,man,leaning on,surfboard
+67196,man,leaning on,surfboard
+86753,man,leaning on,surfboard
+87001,man,leaning on,surfboard
+87002,man,leaning on,surfboard
+104913,man,leaning on,surfboard
+24872,man,leaning on,table
+46544,man,leaning on,table
+80193,man,leaning on,table
+86997,man,leaning on,table
+102554,man,leaning on,table
+105230,man,leaning on,table
+107214,man,leaning on,table
+111393,man,leaning on,table
+120945,man,leaning on,table
+122022,man,leaning on,table
+2835,man,leaning on,train
+44991,man,leaning on,train
+87061,man,leaning on,train
+94791,man,leaning on,train
+105177,man,leaning on,train
+110414,man,leaning on,train
+1984,man,leaning on,tree
+24277,man,leaning on,tree
+95753,man,leaning on,tree
+39119,man,leaning on,truck
+57076,man,leaning on,truck
+70232,man,leaning on,truck
+70267,man,leaning on,truck
+94953,man,leaning on,truck
+105369,man,leaning on,truck
+113768,man,leaning on,truck
+114569,man,leaning on,truck
+118898,man,leaning on,truck
+125284,man,leaning on,truck
+4776,man,leaning on,wall
+5415,man,leaning on,wall
+8223,man,leaning on,wall
+25927,man,leaning on,wall
+52284,man,leaning on,wall
+56955,man,leaning on,wall
+61723,man,leaning on,wall
+92187,man,leaning on,wall
+102045,man,leaning on,wall
+122208,man,leaning on,wall
+125131,man,leaning on,wall
+396,man,leaving,train
+93663,man,leaving,train
+53811,man,leaving,water
+108015,man,leaving,water
+10168,man,playing with,snow
+101935,man,playing with,snow
+1570,man,playing with,field
+2638,man,playing with,field
+18389,man,playing with,field
+18428,man,playing with,field
+29328,man,playing with,field
+44738,man,playing with,field
+44813,man,playing with,field
+46328,man,playing with,field
+62135,man,playing with,field
+65927,man,playing with,field
+70843,man,playing with,field
+81700,man,playing with,field
+93007,man,playing with,field
+95696,man,playing with,field
+102797,man,playing with,field
+103454,man,playing with,field
+103455,man,playing with,field
+121776,man,playing with,field
+34091,man,playing with,beach
+49311,man,playing with,beach
+49312,man,playing with,beach
+121263,man,playing with,beach
+7318,man,playing with,grass
+10805,man,playing with,grass
+63519,man,playing with,grass
+82225,man,playing with,grass
+5640,man,playing with,sand
+117970,man,playing with,sand
+2915,man,playing with,tennis court
+3429,man,playing with,tennis court
+9094,man,playing with,tennis court
+13148,man,playing with,tennis court
+23896,man,playing with,tennis court
+32864,man,playing with,tennis court
+50395,man,playing with,tennis court
+56249,man,playing with,tennis court
+68770,man,playing with,tennis court
+75730,man,playing with,tennis court
+78681,man,playing with,tennis court
+85490,man,playing with,tennis court
+104558,man,playing with,tennis court
+104697,man,playing with,tennis court
+121480,man,playing with,tennis court
+123938,man,playing with,tennis court
+20906,man,playing with,ball
+28657,man,playing with,ball
+32216,man,playing with,ball
+32912,man,playing with,ball
+38497,man,playing with,ball
+38711,man,playing with,ball
+39861,man,playing with,ball
+42968,man,playing with,ball
+46622,man,playing with,ball
+49164,man,playing with,ball
+49455,man,playing with,ball
+53323,man,playing with,ball
+55948,man,playing with,ball
+58683,man,playing with,ball
+58769,man,playing with,ball
+70369,man,playing with,ball
+74285,man,playing with,ball
+99493,man,playing with,ball
+102654,man,playing with,ball
+106980,man,playing with,ball
+108573,man,playing with,ball
+108574,man,playing with,ball
+108575,man,playing with,ball
+114106,man,playing with,ball
+120010,man,playing with,ball
+120011,man,playing with,ball
+121373,man,playing with,ball
+78561,man,playing with,board
+78562,man,playing with,board
+384,man,playing with,boy
+39860,man,playing with,boy
+89722,man,playing with,boy
+99517,man,playing with,boy
+18698,man,playing with,bus
+22584,man,playing with,bus
+9877,man,playing with,dog
+13199,man,playing with,dog
+14207,man,playing with,dog
+35600,man,playing with,dog
+60387,man,playing with,dog
+74458,man,playing with,dog
+76432,man,playing with,dog
+86124,man,playing with,dog
+104752,man,playing with,dog
+112547,man,playing with,dog
+117047,man,playing with,dog
+117905,man,playing with,dog
+389,man,playing with,frisbee
+443,man,playing with,frisbee
+637,man,playing with,frisbee
+1348,man,playing with,frisbee
+1365,man,playing with,frisbee
+2966,man,playing with,frisbee
+4805,man,playing with,frisbee
+5354,man,playing with,frisbee
+5642,man,playing with,frisbee
+6225,man,playing with,frisbee
+7205,man,playing with,frisbee
+7646,man,playing with,frisbee
+8065,man,playing with,frisbee
+8441,man,playing with,frisbee
+13943,man,playing with,frisbee
+15045,man,playing with,frisbee
+17057,man,playing with,frisbee
+18045,man,playing with,frisbee
+18046,man,playing with,frisbee
+18063,man,playing with,frisbee
+18064,man,playing with,frisbee
+18631,man,playing with,frisbee
+18854,man,playing with,frisbee
+20650,man,playing with,frisbee
+20917,man,playing with,frisbee
+22737,man,playing with,frisbee
+25601,man,playing with,frisbee
+26087,man,playing with,frisbee
+30056,man,playing with,frisbee
+30327,man,playing with,frisbee
+34793,man,playing with,frisbee
+36067,man,playing with,frisbee
+37484,man,playing with,frisbee
+38301,man,playing with,frisbee
+39149,man,playing with,frisbee
+40128,man,playing with,frisbee
+41286,man,playing with,frisbee
+41287,man,playing with,frisbee
+43554,man,playing with,frisbee
+43573,man,playing with,frisbee
+44137,man,playing with,frisbee
+44334,man,playing with,frisbee
+46867,man,playing with,frisbee
+46869,man,playing with,frisbee
+47796,man,playing with,frisbee
+48061,man,playing with,frisbee
+48694,man,playing with,frisbee
+49309,man,playing with,frisbee
+51229,man,playing with,frisbee
+52988,man,playing with,frisbee
+52989,man,playing with,frisbee
+53234,man,playing with,frisbee
+53235,man,playing with,frisbee
+54410,man,playing with,frisbee
+57601,man,playing with,frisbee
+58891,man,playing with,frisbee
+64896,man,playing with,frisbee
+66511,man,playing with,frisbee
+67530,man,playing with,frisbee
+70841,man,playing with,frisbee
+71470,man,playing with,frisbee
+72445,man,playing with,frisbee
+73417,man,playing with,frisbee
+73463,man,playing with,frisbee
+73970,man,playing with,frisbee
+74342,man,playing with,frisbee
+75416,man,playing with,frisbee
+76434,man,playing with,frisbee
+79667,man,playing with,frisbee
+80559,man,playing with,frisbee
+81093,man,playing with,frisbee
+81751,man,playing with,frisbee
+82283,man,playing with,frisbee
+82494,man,playing with,frisbee
+83546,man,playing with,frisbee
+83847,man,playing with,frisbee
+83870,man,playing with,frisbee
+86238,man,playing with,frisbee
+86240,man,playing with,frisbee
+87051,man,playing with,frisbee
+87608,man,playing with,frisbee
+89535,man,playing with,frisbee
+90589,man,playing with,frisbee
+91690,man,playing with,frisbee
+92643,man,playing with,frisbee
+93772,man,playing with,frisbee
+94376,man,playing with,frisbee
+96050,man,playing with,frisbee
+97195,man,playing with,frisbee
+98870,man,playing with,frisbee
+98871,man,playing with,frisbee
+100183,man,playing with,frisbee
+100445,man,playing with,frisbee
+103836,man,playing with,frisbee
+103868,man,playing with,frisbee
+104751,man,playing with,frisbee
+106531,man,playing with,frisbee
+106532,man,playing with,frisbee
+107495,man,playing with,frisbee
+108174,man,playing with,frisbee
+110508,man,playing with,frisbee
+111118,man,playing with,frisbee
+112549,man,playing with,frisbee
+114518,man,playing with,frisbee
+117206,man,playing with,frisbee
+120257,man,playing with,frisbee
+121262,man,playing with,frisbee
+121466,man,playing with,frisbee
+123825,man,playing with,frisbee
+124416,man,playing with,frisbee
+3304,man,playing with,keyboard
+17010,man,playing with,keyboard
+39820,man,playing with,keyboard
+58484,man,playing with,keyboard
+80078,man,playing with,keyboard
+121629,man,playing with,keyboard
+4210,man,playing with,kite
+10579,man,playing with,kite
+16628,man,playing with,kite
+55775,man,playing with,kite
+55776,man,playing with,kite
+88564,man,playing with,kite
+6154,man,playing with,soccer ball
+89168,man,playing with,soccer ball
+89169,man,playing with,soccer ball
+89170,man,playing with,soccer ball
+3428,man,playing with,tennis racket
+34250,man,playing with,tennis racket
+56835,man,playing with,tennis racket
+61575,man,playing with,tennis racket
+66374,man,playing with,tennis racket
+74147,man,playing with,tennis racket
+119290,man,playing with,tennis racket
+124027,man,playing with,tennis racket
+53920,man,playing with,water
+101596,man,playing with,water
+119213,man,playing with,water
+122119,man,playing with,water
+16102,man,playing with,wave
+23317,man,playing with,wave
+29700,man,playing with,wave
+43047,man,playing with,wave
+43334,man,playing with,wave
+64377,man,playing with,wave
+89243,man,playing with,wave
+97141,man,playing with,wave
+116773,man,playing with,wave
+121981,man,playing with,wave
+122120,man,playing with,wave
+27242,man,playing with,woman
+27243,man,playing with,woman
+33900,man,playing with,woman
+75268,man,playing with,woman
+91572,man,playing with,woman
+24820,man,playing with,man
+27244,man,playing with,man
+58591,man,playing with,man
+79413,man,playing with,man
+174,man,running in,field
+13184,man,running in,field
+16322,man,running in,field
+17079,man,running in,field
+18384,man,running in,field
+18385,man,running in,field
+18386,man,running in,field
+18390,man,running in,field
+18391,man,running in,field
+18392,man,running in,field
+22078,man,running in,field
+80513,man,running in,field
+85387,man,running in,field
+103835,man,running in,field
+112562,man,running in,field
+118292,man,running in,field
+123186,man,running in,field
+13884,man,running in,beach
+20822,man,running in,beach
+75171,man,running in,beach
+82762,man,running in,beach
+95022,man,running in,beach
+37888,man,running in,grass
+86376,man,running in,grass
+1713,man,running in,sand
+1714,man,running in,sand
+100797,man,running in,sand
+109886,man,running in,sand
+113180,man,running in,sand
+75551,man,running in,man
+75552,man,running in,man
+75553,man,running in,man
+56239,man,selling,banana
+99120,man,selling,banana
+113129,man,selling,banana
+12349,man,sitting on a,bed
+28637,man,sitting on a,bed
+31164,man,sitting on a,bed
+33970,man,sitting on a,bed
+35731,man,sitting on a,bed
+45725,man,sitting on a,bed
+53341,man,sitting on a,bed
+53797,man,sitting on a,bed
+73505,man,sitting on a,bed
+77243,man,sitting on a,bed
+87699,man,sitting on a,bed
+88111,man,sitting on a,bed
+89849,man,sitting on a,bed
+91101,man,sitting on a,bed
+91118,man,sitting on a,bed
+106292,man,sitting on a,bed
+114804,man,sitting on a,bed
+118450,man,sitting on a,bed
+119698,man,sitting on a,bed
+444,man,sitting on a,bench
+3007,man,sitting on a,bench
+3528,man,sitting on a,bench
+4065,man,sitting on a,bench
+5707,man,sitting on a,bench
+6054,man,sitting on a,bench
+7575,man,sitting on a,bench
+7576,man,sitting on a,bench
+8389,man,sitting on a,bench
+8392,man,sitting on a,bench
+10350,man,sitting on a,bench
+13197,man,sitting on a,bench
+13278,man,sitting on a,bench
+16182,man,sitting on a,bench
+16544,man,sitting on a,bench
+20992,man,sitting on a,bench
+24434,man,sitting on a,bench
+26578,man,sitting on a,bench
+27337,man,sitting on a,bench
+27340,man,sitting on a,bench
+30694,man,sitting on a,bench
+30884,man,sitting on a,bench
+31433,man,sitting on a,bench
+32837,man,sitting on a,bench
+35951,man,sitting on a,bench
+36518,man,sitting on a,bench
+40278,man,sitting on a,bench
+40693,man,sitting on a,bench
+41588,man,sitting on a,bench
+43387,man,sitting on a,bench
+44177,man,sitting on a,bench
+45701,man,sitting on a,bench
+46404,man,sitting on a,bench
+46549,man,sitting on a,bench
+46550,man,sitting on a,bench
+47551,man,sitting on a,bench
+51301,man,sitting on a,bench
+52149,man,sitting on a,bench
+52468,man,sitting on a,bench
+52555,man,sitting on a,bench
+53154,man,sitting on a,bench
+53690,man,sitting on a,bench
+53733,man,sitting on a,bench
+54625,man,sitting on a,bench
+54836,man,sitting on a,bench
+55462,man,sitting on a,bench
+55517,man,sitting on a,bench
+55815,man,sitting on a,bench
+60737,man,sitting on a,bench
+63813,man,sitting on a,bench
+64400,man,sitting on a,bench
+67443,man,sitting on a,bench
+67507,man,sitting on a,bench
+67819,man,sitting on a,bench
+68891,man,sitting on a,bench
+69701,man,sitting on a,bench
+70992,man,sitting on a,bench
+72376,man,sitting on a,bench
+72946,man,sitting on a,bench
+73483,man,sitting on a,bench
+73645,man,sitting on a,bench
+73652,man,sitting on a,bench
+73876,man,sitting on a,bench
+75784,man,sitting on a,bench
+78001,man,sitting on a,bench
+79965,man,sitting on a,bench
+80628,man,sitting on a,bench
+81226,man,sitting on a,bench
+81938,man,sitting on a,bench
+81939,man,sitting on a,bench
+82722,man,sitting on a,bench
+83447,man,sitting on a,bench
+83980,man,sitting on a,bench
+84292,man,sitting on a,bench
+85374,man,sitting on a,bench
+85688,man,sitting on a,bench
+86816,man,sitting on a,bench
+87057,man,sitting on a,bench
+87058,man,sitting on a,bench
+88558,man,sitting on a,bench
+88842,man,sitting on a,bench
+89239,man,sitting on a,bench
+89335,man,sitting on a,bench
+90559,man,sitting on a,bench
+90692,man,sitting on a,bench
+90715,man,sitting on a,bench
+90716,man,sitting on a,bench
+90919,man,sitting on a,bench
+93008,man,sitting on a,bench
+93196,man,sitting on a,bench
+95578,man,sitting on a,bench
+101728,man,sitting on a,bench
+102784,man,sitting on a,bench
+103419,man,sitting on a,bench
+103752,man,sitting on a,bench
+105007,man,sitting on a,bench
+105482,man,sitting on a,bench
+110651,man,sitting on a,bench
+111010,man,sitting on a,bench
+111868,man,sitting on a,bench
+112378,man,sitting on a,bench
+114191,man,sitting on a,bench
+114834,man,sitting on a,bench
+114940,man,sitting on a,bench
+115993,man,sitting on a,bench
+116839,man,sitting on a,bench
+117198,man,sitting on a,bench
+119175,man,sitting on a,bench
+120969,man,sitting on a,bench
+121837,man,sitting on a,bench
+121982,man,sitting on a,bench
+122564,man,sitting on a,bench
+123091,man,sitting on a,bench
+123919,man,sitting on a,bench
+6078,man,sitting on a,bike
+17820,man,sitting on a,bike
+19441,man,sitting on a,bike
+26547,man,sitting on a,bike
+35819,man,sitting on a,bike
+37731,man,sitting on a,bike
+43314,man,sitting on a,bike
+49682,man,sitting on a,bike
+57108,man,sitting on a,bike
+62869,man,sitting on a,bike
+68277,man,sitting on a,bike
+72503,man,sitting on a,bike
+85669,man,sitting on a,bike
+94083,man,sitting on a,bike
+97314,man,sitting on a,bike
+108159,man,sitting on a,bike
+113355,man,sitting on a,bike
+114423,man,sitting on a,bike
+117030,man,sitting on a,bike
+117298,man,sitting on a,bike
+121014,man,sitting on a,bike
+1835,man,sitting on a,boat
+3608,man,sitting on a,boat
+11050,man,sitting on a,boat
+13067,man,sitting on a,boat
+15379,man,sitting on a,boat
+16203,man,sitting on a,boat
+19710,man,sitting on a,boat
+44053,man,sitting on a,boat
+48951,man,sitting on a,boat
+52018,man,sitting on a,boat
+52416,man,sitting on a,boat
+52861,man,sitting on a,boat
+53650,man,sitting on a,boat
+56989,man,sitting on a,boat
+61991,man,sitting on a,boat
+64406,man,sitting on a,boat
+73741,man,sitting on a,boat
+74669,man,sitting on a,boat
+76573,man,sitting on a,boat
+79461,man,sitting on a,boat
+80156,man,sitting on a,boat
+90554,man,sitting on a,boat
+100780,man,sitting on a,boat
+101704,man,sitting on a,boat
+101764,man,sitting on a,boat
+104255,man,sitting on a,boat
+104839,man,sitting on a,boat
+105173,man,sitting on a,boat
+106462,man,sitting on a,boat
+109924,man,sitting on a,boat
+120588,man,sitting on a,boat
+11979,man,sitting on a,bus
+15128,man,sitting on a,bus
+45281,man,sitting on a,bus
+57089,man,sitting on a,bus
+57090,man,sitting on a,bus
+66700,man,sitting on a,bus
+78769,man,sitting on a,bus
+84329,man,sitting on a,bus
+85472,man,sitting on a,bus
+104351,man,sitting on a,bus
+119368,man,sitting on a,bus
+119925,man,sitting on a,bus
+122528,man,sitting on a,bus
+19148,man,sitting on a,car
+34738,man,sitting on a,car
+36034,man,sitting on a,car
+40784,man,sitting on a,car
+48253,man,sitting on a,car
+64101,man,sitting on a,car
+86357,man,sitting on a,car
+98187,man,sitting on a,car
+100941,man,sitting on a,car
+101646,man,sitting on a,car
+104917,man,sitting on a,car
+115192,man,sitting on a,car
+119074,man,sitting on a,car
+318,man,sitting on a,chair
+3886,man,sitting on a,chair
+7987,man,sitting on a,chair
+8497,man,sitting on a,chair
+8929,man,sitting on a,chair
+9462,man,sitting on a,chair
+10091,man,sitting on a,chair
+10338,man,sitting on a,chair
+12186,man,sitting on a,chair
+12700,man,sitting on a,chair
+14083,man,sitting on a,chair
+14405,man,sitting on a,chair
+15415,man,sitting on a,chair
+16074,man,sitting on a,chair
+16078,man,sitting on a,chair
+16518,man,sitting on a,chair
+18660,man,sitting on a,chair
+19984,man,sitting on a,chair
+20373,man,sitting on a,chair
+20568,man,sitting on a,chair
+21600,man,sitting on a,chair
+22031,man,sitting on a,chair
+22082,man,sitting on a,chair
+23676,man,sitting on a,chair
+23756,man,sitting on a,chair
+24080,man,sitting on a,chair
+25170,man,sitting on a,chair
+25229,man,sitting on a,chair
+26218,man,sitting on a,chair
+26270,man,sitting on a,chair
+27456,man,sitting on a,chair
+28726,man,sitting on a,chair
+29068,man,sitting on a,chair
+29629,man,sitting on a,chair
+30320,man,sitting on a,chair
+30490,man,sitting on a,chair
+32201,man,sitting on a,chair
+32395,man,sitting on a,chair
+33877,man,sitting on a,chair
+34558,man,sitting on a,chair
+35409,man,sitting on a,chair
+35575,man,sitting on a,chair
+36908,man,sitting on a,chair
+36917,man,sitting on a,chair
+36918,man,sitting on a,chair
+40090,man,sitting on a,chair
+43620,man,sitting on a,chair
+44267,man,sitting on a,chair
+44268,man,sitting on a,chair
+45266,man,sitting on a,chair
+45379,man,sitting on a,chair
+47656,man,sitting on a,chair
+52011,man,sitting on a,chair
+53210,man,sitting on a,chair
+53456,man,sitting on a,chair
+54838,man,sitting on a,chair
+55789,man,sitting on a,chair
+58779,man,sitting on a,chair
+59733,man,sitting on a,chair
+61000,man,sitting on a,chair
+61011,man,sitting on a,chair
+61166,man,sitting on a,chair
+61694,man,sitting on a,chair
+62190,man,sitting on a,chair
+63855,man,sitting on a,chair
+64013,man,sitting on a,chair
+64635,man,sitting on a,chair
+66342,man,sitting on a,chair
+66874,man,sitting on a,chair
+66909,man,sitting on a,chair
+68258,man,sitting on a,chair
+69166,man,sitting on a,chair
+69346,man,sitting on a,chair
+70173,man,sitting on a,chair
+70310,man,sitting on a,chair
+70861,man,sitting on a,chair
+71914,man,sitting on a,chair
+72536,man,sitting on a,chair
+73625,man,sitting on a,chair
+73626,man,sitting on a,chair
+73637,man,sitting on a,chair
+76485,man,sitting on a,chair
+77097,man,sitting on a,chair
+80005,man,sitting on a,chair
+80105,man,sitting on a,chair
+80108,man,sitting on a,chair
+80340,man,sitting on a,chair
+80343,man,sitting on a,chair
+80822,man,sitting on a,chair
+81175,man,sitting on a,chair
+82384,man,sitting on a,chair
+82486,man,sitting on a,chair
+82910,man,sitting on a,chair
+85378,man,sitting on a,chair
+85889,man,sitting on a,chair
+86848,man,sitting on a,chair
+90092,man,sitting on a,chair
+93199,man,sitting on a,chair
+94088,man,sitting on a,chair
+96196,man,sitting on a,chair
+99849,man,sitting on a,chair
+101253,man,sitting on a,chair
+102926,man,sitting on a,chair
+103472,man,sitting on a,chair
+105229,man,sitting on a,chair
+107850,man,sitting on a,chair
+110594,man,sitting on a,chair
+114027,man,sitting on a,chair
+114124,man,sitting on a,chair
+114438,man,sitting on a,chair
+115599,man,sitting on a,chair
+115664,man,sitting on a,chair
+117611,man,sitting on a,chair
+120600,man,sitting on a,chair
+121446,man,sitting on a,chair
+1997,man,sitting on a,couch
+2670,man,sitting on a,couch
+3738,man,sitting on a,couch
+7160,man,sitting on a,couch
+12316,man,sitting on a,couch
+13568,man,sitting on a,couch
+16224,man,sitting on a,couch
+17091,man,sitting on a,couch
+18841,man,sitting on a,couch
+22701,man,sitting on a,couch
+23135,man,sitting on a,couch
+24865,man,sitting on a,couch
+26125,man,sitting on a,couch
+29072,man,sitting on a,couch
+33093,man,sitting on a,couch
+34804,man,sitting on a,couch
+35827,man,sitting on a,couch
+36348,man,sitting on a,couch
+38991,man,sitting on a,couch
+39063,man,sitting on a,couch
+44789,man,sitting on a,couch
+45004,man,sitting on a,couch
+45600,man,sitting on a,couch
+46907,man,sitting on a,couch
+46908,man,sitting on a,couch
+48428,man,sitting on a,couch
+49783,man,sitting on a,couch
+52779,man,sitting on a,couch
+52780,man,sitting on a,couch
+53993,man,sitting on a,couch
+59024,man,sitting on a,couch
+59027,man,sitting on a,couch
+59384,man,sitting on a,couch
+59385,man,sitting on a,couch
+60994,man,sitting on a,couch
+61908,man,sitting on a,couch
+61909,man,sitting on a,couch
+63667,man,sitting on a,couch
+63668,man,sitting on a,couch
+67851,man,sitting on a,couch
+70553,man,sitting on a,couch
+70598,man,sitting on a,couch
+75423,man,sitting on a,couch
+80062,man,sitting on a,couch
+80063,man,sitting on a,couch
+81249,man,sitting on a,couch
+82241,man,sitting on a,couch
+82701,man,sitting on a,couch
+83471,man,sitting on a,couch
+85226,man,sitting on a,couch
+85501,man,sitting on a,couch
+87811,man,sitting on a,couch
+88185,man,sitting on a,couch
+89954,man,sitting on a,couch
+90562,man,sitting on a,couch
+91836,man,sitting on a,couch
+93240,man,sitting on a,couch
+94685,man,sitting on a,couch
+98097,man,sitting on a,couch
+99377,man,sitting on a,couch
+99738,man,sitting on a,couch
+101470,man,sitting on a,couch
+104129,man,sitting on a,couch
+104510,man,sitting on a,couch
+105568,man,sitting on a,couch
+109273,man,sitting on a,couch
+109297,man,sitting on a,couch
+110538,man,sitting on a,couch
+111938,man,sitting on a,couch
+113792,man,sitting on a,couch
+113966,man,sitting on a,couch
+113967,man,sitting on a,couch
+114129,man,sitting on a,couch
+114796,man,sitting on a,couch
+117119,man,sitting on a,couch
+122359,man,sitting on a,couch
+122687,man,sitting on a,couch
+124901,man,sitting on a,couch
+125191,man,sitting on a,couch
+1025,man,sitting on a,desk
+3110,man,sitting on a,desk
+3777,man,sitting on a,desk
+9213,man,sitting on a,desk
+16093,man,sitting on a,desk
+19614,man,sitting on a,desk
+21013,man,sitting on a,desk
+24804,man,sitting on a,desk
+32507,man,sitting on a,desk
+33228,man,sitting on a,desk
+45233,man,sitting on a,desk
+48782,man,sitting on a,desk
+55022,man,sitting on a,desk
+62142,man,sitting on a,desk
+70540,man,sitting on a,desk
+80724,man,sitting on a,desk
+81116,man,sitting on a,desk
+84573,man,sitting on a,desk
+88234,man,sitting on a,desk
+102179,man,sitting on a,desk
+103365,man,sitting on a,desk
+107467,man,sitting on a,desk
+116686,man,sitting on a,desk
+123468,man,sitting on a,desk
+125240,man,sitting on a,desk
+6568,man,sitting on a,elephant
+15704,man,sitting on a,elephant
+16974,man,sitting on a,elephant
+17411,man,sitting on a,elephant
+18239,man,sitting on a,elephant
+22299,man,sitting on a,elephant
+24270,man,sitting on a,elephant
+27104,man,sitting on a,elephant
+33906,man,sitting on a,elephant
+39299,man,sitting on a,elephant
+41053,man,sitting on a,elephant
+55917,man,sitting on a,elephant
+56355,man,sitting on a,elephant
+57528,man,sitting on a,elephant
+59491,man,sitting on a,elephant
+61425,man,sitting on a,elephant
+61426,man,sitting on a,elephant
+61561,man,sitting on a,elephant
+62852,man,sitting on a,elephant
+63276,man,sitting on a,elephant
+63841,man,sitting on a,elephant
+71437,man,sitting on a,elephant
+72005,man,sitting on a,elephant
+72006,man,sitting on a,elephant
+74739,man,sitting on a,elephant
+78742,man,sitting on a,elephant
+89470,man,sitting on a,elephant
+89471,man,sitting on a,elephant
+90896,man,sitting on a,elephant
+93668,man,sitting on a,elephant
+94133,man,sitting on a,elephant
+97623,man,sitting on a,elephant
+99341,man,sitting on a,elephant
+99342,man,sitting on a,elephant
+102837,man,sitting on a,elephant
+112702,man,sitting on a,elephant
+114272,man,sitting on a,elephant
+114273,man,sitting on a,elephant
+114274,man,sitting on a,elephant
+115790,man,sitting on a,elephant
+115792,man,sitting on a,elephant
+119762,man,sitting on a,elephant
+1306,man,sitting on a,floor
+17798,man,sitting on a,floor
+22524,man,sitting on a,floor
+24001,man,sitting on a,floor
+29187,man,sitting on a,floor
+33291,man,sitting on a,floor
+44298,man,sitting on a,floor
+45598,man,sitting on a,floor
+60189,man,sitting on a,floor
+60995,man,sitting on a,floor
+61197,man,sitting on a,floor
+64231,man,sitting on a,floor
+83301,man,sitting on a,floor
+87630,man,sitting on a,floor
+87631,man,sitting on a,floor
+91883,man,sitting on a,floor
+92728,man,sitting on a,floor
+99048,man,sitting on a,floor
+118121,man,sitting on a,floor
+124046,man,sitting on a,floor
+4992,man,sitting on a,grass
+7633,man,sitting on a,grass
+12032,man,sitting on a,grass
+12979,man,sitting on a,grass
+13185,man,sitting on a,grass
+13644,man,sitting on a,grass
+24537,man,sitting on a,grass
+28359,man,sitting on a,grass
+36429,man,sitting on a,grass
+38127,man,sitting on a,grass
+46662,man,sitting on a,grass
+48654,man,sitting on a,grass
+64692,man,sitting on a,grass
+69855,man,sitting on a,grass
+75387,man,sitting on a,grass
+80518,man,sitting on a,grass
+80519,man,sitting on a,grass
+80520,man,sitting on a,grass
+81999,man,sitting on a,grass
+85993,man,sitting on a,grass
+87187,man,sitting on a,grass
+90533,man,sitting on a,grass
+93985,man,sitting on a,grass
+100997,man,sitting on a,grass
+101658,man,sitting on a,grass
+104537,man,sitting on a,grass
+106329,man,sitting on a,grass
+109539,man,sitting on a,grass
+109870,man,sitting on a,grass
+109871,man,sitting on a,grass
+113633,man,sitting on a,grass
+114285,man,sitting on a,grass
+118003,man,sitting on a,grass
+124496,man,sitting on a,grass
+6739,man,sitting on a,horse
+14190,man,sitting on a,horse
+16669,man,sitting on a,horse
+19415,man,sitting on a,horse
+23816,man,sitting on a,horse
+24910,man,sitting on a,horse
+26316,man,sitting on a,horse
+26317,man,sitting on a,horse
+29352,man,sitting on a,horse
+35240,man,sitting on a,horse
+35667,man,sitting on a,horse
+37941,man,sitting on a,horse
+37943,man,sitting on a,horse
+39687,man,sitting on a,horse
+41898,man,sitting on a,horse
+41899,man,sitting on a,horse
+42243,man,sitting on a,horse
+52369,man,sitting on a,horse
+55630,man,sitting on a,horse
+66252,man,sitting on a,horse
+72328,man,sitting on a,horse
+76552,man,sitting on a,horse
+79692,man,sitting on a,horse
+80682,man,sitting on a,horse
+90820,man,sitting on a,horse
+96389,man,sitting on a,horse
+97863,man,sitting on a,horse
+100116,man,sitting on a,horse
+101841,man,sitting on a,horse
+102938,man,sitting on a,horse
+103998,man,sitting on a,horse
+104954,man,sitting on a,horse
+104955,man,sitting on a,horse
+117355,man,sitting on a,horse
+117883,man,sitting on a,horse
+118958,man,sitting on a,horse
+121733,man,sitting on a,horse
+124509,man,sitting on a,horse
+1355,man,sitting on a,motorcycle
+3475,man,sitting on a,motorcycle
+6923,man,sitting on a,motorcycle
+7239,man,sitting on a,motorcycle
+8217,man,sitting on a,motorcycle
+14335,man,sitting on a,motorcycle
+17175,man,sitting on a,motorcycle
+19136,man,sitting on a,motorcycle
+19349,man,sitting on a,motorcycle
+20164,man,sitting on a,motorcycle
+20385,man,sitting on a,motorcycle
+21793,man,sitting on a,motorcycle
+21794,man,sitting on a,motorcycle
+23234,man,sitting on a,motorcycle
+29609,man,sitting on a,motorcycle
+32731,man,sitting on a,motorcycle
+38143,man,sitting on a,motorcycle
+38623,man,sitting on a,motorcycle
+39071,man,sitting on a,motorcycle
+39072,man,sitting on a,motorcycle
+39648,man,sitting on a,motorcycle
+40157,man,sitting on a,motorcycle
+41231,man,sitting on a,motorcycle
+43851,man,sitting on a,motorcycle
+49283,man,sitting on a,motorcycle
+51013,man,sitting on a,motorcycle
+52827,man,sitting on a,motorcycle
+58040,man,sitting on a,motorcycle
+58780,man,sitting on a,motorcycle
+62816,man,sitting on a,motorcycle
+63778,man,sitting on a,motorcycle
+67721,man,sitting on a,motorcycle
+69334,man,sitting on a,motorcycle
+70784,man,sitting on a,motorcycle
+71966,man,sitting on a,motorcycle
+73038,man,sitting on a,motorcycle
+78664,man,sitting on a,motorcycle
+79738,man,sitting on a,motorcycle
+79740,man,sitting on a,motorcycle
+81113,man,sitting on a,motorcycle
+81495,man,sitting on a,motorcycle
+81513,man,sitting on a,motorcycle
+83063,man,sitting on a,motorcycle
+84796,man,sitting on a,motorcycle
+87604,man,sitting on a,motorcycle
+88618,man,sitting on a,motorcycle
+88680,man,sitting on a,motorcycle
+89137,man,sitting on a,motorcycle
+90828,man,sitting on a,motorcycle
+91466,man,sitting on a,motorcycle
+95620,man,sitting on a,motorcycle
+96576,man,sitting on a,motorcycle
+96677,man,sitting on a,motorcycle
+98190,man,sitting on a,motorcycle
+98577,man,sitting on a,motorcycle
+102348,man,sitting on a,motorcycle
+105975,man,sitting on a,motorcycle
+107610,man,sitting on a,motorcycle
+111922,man,sitting on a,motorcycle
+113509,man,sitting on a,motorcycle
+114706,man,sitting on a,motorcycle
+116756,man,sitting on a,motorcycle
+123776,man,sitting on a,motorcycle
+3005,man,sitting on a,seat
+16784,man,sitting on a,seat
+36351,man,sitting on a,seat
+56179,man,sitting on a,seat
+56181,man,sitting on a,seat
+63275,man,sitting on a,seat
+63652,man,sitting on a,seat
+68752,man,sitting on a,seat
+71751,man,sitting on a,seat
+83499,man,sitting on a,seat
+83581,man,sitting on a,seat
+89370,man,sitting on a,seat
+90065,man,sitting on a,seat
+94654,man,sitting on a,seat
+99962,man,sitting on a,seat
+106050,man,sitting on a,seat
+108817,man,sitting on a,seat
+109165,man,sitting on a,seat
+120528,man,sitting on a,seat
+1981,man,sitting on a,sidewalk
+8190,man,sitting on a,sidewalk
+17469,man,sitting on a,sidewalk
+29800,man,sitting on a,sidewalk
+39001,man,sitting on a,sidewalk
+47207,man,sitting on a,sidewalk
+47208,man,sitting on a,sidewalk
+59670,man,sitting on a,sidewalk
+60423,man,sitting on a,sidewalk
+60424,man,sitting on a,sidewalk
+60425,man,sitting on a,sidewalk
+86364,man,sitting on a,sidewalk
+86366,man,sitting on a,sidewalk
+115737,man,sitting on a,sidewalk
+122466,man,sitting on a,sidewalk
+3807,man,sitting on a,sofa
+16783,man,sitting on a,sofa
+18623,man,sitting on a,sofa
+22700,man,sitting on a,sofa
+28155,man,sitting on a,sofa
+32413,man,sitting on a,sofa
+35302,man,sitting on a,sofa
+37963,man,sitting on a,sofa
+41165,man,sitting on a,sofa
+43495,man,sitting on a,sofa
+51612,man,sitting on a,sofa
+64596,man,sitting on a,sofa
+66083,man,sitting on a,sofa
+66619,man,sitting on a,sofa
+66697,man,sitting on a,sofa
+66842,man,sitting on a,sofa
+99874,man,sitting on a,sofa
+99976,man,sitting on a,sofa
+102927,man,sitting on a,sofa
+103441,man,sitting on a,sofa
+119883,man,sitting on a,sofa
+123164,man,sitting on a,sofa
+123166,man,sitting on a,sofa
+1002,man,sitting on a,table
+1004,man,sitting on a,table
+7682,man,sitting on a,table
+10336,man,sitting on a,table
+10424,man,sitting on a,table
+10716,man,sitting on a,table
+11273,man,sitting on a,table
+11555,man,sitting on a,table
+11963,man,sitting on a,table
+15346,man,sitting on a,table
+17933,man,sitting on a,table
+19375,man,sitting on a,table
+19674,man,sitting on a,table
+23346,man,sitting on a,table
+23382,man,sitting on a,table
+23632,man,sitting on a,table
+25205,man,sitting on a,table
+25448,man,sitting on a,table
+26748,man,sitting on a,table
+29832,man,sitting on a,table
+31167,man,sitting on a,table
+31362,man,sitting on a,table
+32147,man,sitting on a,table
+33338,man,sitting on a,table
+33690,man,sitting on a,table
+37521,man,sitting on a,table
+43101,man,sitting on a,table
+43102,man,sitting on a,table
+43134,man,sitting on a,table
+44823,man,sitting on a,table
+45832,man,sitting on a,table
+45847,man,sitting on a,table
+46614,man,sitting on a,table
+46922,man,sitting on a,table
+47934,man,sitting on a,table
+49750,man,sitting on a,table
+49984,man,sitting on a,table
+55599,man,sitting on a,table
+56098,man,sitting on a,table
+58144,man,sitting on a,table
+60349,man,sitting on a,table
+62404,man,sitting on a,table
+64025,man,sitting on a,table
+64213,man,sitting on a,table
+65191,man,sitting on a,table
+65365,man,sitting on a,table
+67794,man,sitting on a,table
+69486,man,sitting on a,table
+69517,man,sitting on a,table
+71903,man,sitting on a,table
+72161,man,sitting on a,table
+75450,man,sitting on a,table
+76093,man,sitting on a,table
+76117,man,sitting on a,table
+77301,man,sitting on a,table
+78094,man,sitting on a,table
+79368,man,sitting on a,table
+80173,man,sitting on a,table
+81174,man,sitting on a,table
+81176,man,sitting on a,table
+81595,man,sitting on a,table
+82104,man,sitting on a,table
+83923,man,sitting on a,table
+84951,man,sitting on a,table
+84965,man,sitting on a,table
+85023,man,sitting on a,table
+87324,man,sitting on a,table
+88746,man,sitting on a,table
+91649,man,sitting on a,table
+94781,man,sitting on a,table
+94978,man,sitting on a,table
+94979,man,sitting on a,table
+96195,man,sitting on a,table
+96582,man,sitting on a,table
+97562,man,sitting on a,table
+100521,man,sitting on a,table
+101730,man,sitting on a,table
+101953,man,sitting on a,table
+103234,man,sitting on a,table
+105405,man,sitting on a,table
+108427,man,sitting on a,table
+109335,man,sitting on a,table
+109677,man,sitting on a,table
+110317,man,sitting on a,table
+110497,man,sitting on a,table
+110960,man,sitting on a,table
+111791,man,sitting on a,table
+112043,man,sitting on a,table
+112146,man,sitting on a,table
+112652,man,sitting on a,table
+114384,man,sitting on a,table
+114386,man,sitting on a,table
+114387,man,sitting on a,table
+119464,man,sitting on a,table
+119465,man,sitting on a,table
+120202,man,sitting on a,table
+122403,man,sitting on a,table
+6834,man,sitting on a,beach
+23296,man,sitting on a,beach
+23606,man,sitting on a,beach
+39341,man,sitting on a,beach
+42730,man,sitting on a,beach
+59645,man,sitting on a,beach
+75269,man,sitting on a,beach
+85379,man,sitting on a,beach
+89559,man,sitting on a,beach
+100305,man,sitting on a,beach
+102723,man,sitting on a,beach
+105310,man,sitting on a,beach
+112367,man,sitting on a,beach
+113772,man,sitting on a,beach
+117122,man,sitting on a,beach
+121631,man,sitting on a,beach
+125222,man,sitting on a,beach
+899,man,sitting on a,snow
+2509,man,sitting on a,snow
+5835,man,sitting on a,snow
+19634,man,sitting on a,snow
+23170,man,sitting on a,snow
+32019,man,sitting on a,snow
+32289,man,sitting on a,snow
+39828,man,sitting on a,snow
+41609,man,sitting on a,snow
+41610,man,sitting on a,snow
+41611,man,sitting on a,snow
+41612,man,sitting on a,snow
+47399,man,sitting on a,snow
+51712,man,sitting on a,snow
+56588,man,sitting on a,snow
+61720,man,sitting on a,snow
+66282,man,sitting on a,snow
+66782,man,sitting on a,snow
+71298,man,sitting on a,snow
+72426,man,sitting on a,snow
+81914,man,sitting on a,snow
+88192,man,sitting on a,snow
+88193,man,sitting on a,snow
+97377,man,sitting on a,snow
+100086,man,sitting on a,snow
+102215,man,sitting on a,snow
+104311,man,sitting on a,snow
+112414,man,sitting on a,snow
+114331,man,sitting on a,snow
+120168,man,sitting on a,snow
+120170,man,sitting on a,snow
+27932,man,sleeping on,bed
+42448,man,sleeping on,bed
+54728,man,sleeping on,bed
+54729,man,sleeping on,bed
+101690,man,sleeping on,bed
+18195,man,sleeping on,bench
+18196,man,sleeping on,bench
+20031,man,sleeping on,bench
+51425,man,sleeping on,bench
+74283,man,sleeping on,bench
+95989,man,sleeping on,bench
+108999,man,sleeping on,bench
+119049,man,sleeping on,bench
+16410,man,sleeping on,pillow
+101688,man,sleeping on,pillow
+10098,man,swinging,ball
+81805,man,swinging,ball
+6635,man,swinging,baseball bat
+14169,man,swinging,baseball bat
+23091,man,swinging,baseball bat
+26842,man,swinging,baseball bat
+27763,man,swinging,baseball bat
+29344,man,swinging,baseball bat
+35515,man,swinging,baseball bat
+36096,man,swinging,baseball bat
+38188,man,swinging,baseball bat
+40215,man,swinging,baseball bat
+45651,man,swinging,baseball bat
+46407,man,swinging,baseball bat
+50758,man,swinging,baseball bat
+51134,man,swinging,baseball bat
+53049,man,swinging,baseball bat
+56873,man,swinging,baseball bat
+62217,man,swinging,baseball bat
+65900,man,swinging,baseball bat
+68432,man,swinging,baseball bat
+71304,man,swinging,baseball bat
+76972,man,swinging,baseball bat
+88786,man,swinging,baseball bat
+91172,man,swinging,baseball bat
+95767,man,swinging,baseball bat
+98181,man,swinging,baseball bat
+99476,man,swinging,baseball bat
+108089,man,swinging,baseball bat
+112401,man,swinging,baseball bat
+116173,man,swinging,baseball bat
+118147,man,swinging,baseball bat
+156,man,swinging,tennis racket
+7028,man,swinging,tennis racket
+9098,man,swinging,tennis racket
+27185,man,swinging,tennis racket
+27231,man,swinging,tennis racket
+30928,man,swinging,tennis racket
+32505,man,swinging,tennis racket
+33899,man,swinging,tennis racket
+35547,man,swinging,tennis racket
+38386,man,swinging,tennis racket
+39913,man,swinging,tennis racket
+45488,man,swinging,tennis racket
+45489,man,swinging,tennis racket
+47498,man,swinging,tennis racket
+48281,man,swinging,tennis racket
+52860,man,swinging,tennis racket
+60287,man,swinging,tennis racket
+62317,man,swinging,tennis racket
+70770,man,swinging,tennis racket
+71021,man,swinging,tennis racket
+72759,man,swinging,tennis racket
+83098,man,swinging,tennis racket
+85189,man,swinging,tennis racket
+88642,man,swinging,tennis racket
+90648,man,swinging,tennis racket
+97548,man,swinging,tennis racket
+98721,man,swinging,tennis racket
+99353,man,swinging,tennis racket
+115337,man,swinging,tennis racket
+115339,man,swinging,tennis racket
+121846,man,swinging,tennis racket
+121995,man,swinging,tennis racket
+123936,man,swinging,tennis racket
+4740,man,swinging,arm
+9888,man,swinging,arm
+100771,man,swinging,arm
+111612,man,swinging,arm
+113274,man,swinging,arm
+4340,man,touching,banana
+113885,man,touching,banana
+10304,man,touching,board
+22897,man,touching,board
+41808,man,touching,board
+6433,man,touching,cat
+43398,man,touching,cat
+51790,man,touching,computer
+63533,man,touching,computer
+105851,man,touching,computer
+64532,man,touching,cow
+92901,man,touching,cow
+97112,man,touching,dog
+105337,man,touching,dog
+106452,man,touching,dog
+805,man,touching,elephant
+4407,man,touching,elephant
+13299,man,touching,elephant
+21476,man,touching,elephant
+29656,man,touching,elephant
+52026,man,touching,elephant
+56686,man,touching,elephant
+64292,man,touching,elephant
+71465,man,touching,elephant
+76178,man,touching,elephant
+79043,man,touching,elephant
+79045,man,touching,elephant
+94633,man,touching,elephant
+96602,man,touching,elephant
+113065,man,touching,elephant
+38285,man,touching,head
+38983,man,touching,head
+66763,man,touching,head
+111045,man,touching,head
+28231,man,touching,horse
+30426,man,touching,horse
+47104,man,touching,horse
+54752,man,touching,horse
+77166,man,touching,horse
+104889,man,touching,horse
+28534,man,touching,pizza
+42863,man,touching,pizza
+95904,man,touching,pizza
+56523,man,touching,plane
+113311,man,touching,plane
+118504,man,touching,plane
+101555,man,touching,skateboard
+124620,man,touching,skateboard
+32795,man,touching,snow
+78316,man,touching,snow
+18122,man,touching,suitcase
+58541,man,touching,suitcase
+33252,man,touching,water
+73160,man,touching,water
+15213,man,touching,woman
+26581,man,touching,woman
+105483,man,touching,woman
+94610,man,waiting at,bus stop
+94612,man,waiting at,bus stop
+8959,man,waiting at,train
+9400,man,waiting at,train
+73390,man,waiting at,train
+39808,man,waiting at,bus
+79566,man,waiting at,bus
+3289,sheep,laying in,field
+13598,sheep,laying in,field
+32128,sheep,laying in,field
+39277,sheep,laying in,field
+57495,sheep,laying in,field
+104096,sheep,laying in,field
+108992,sheep,laying in,field
+118981,sheep,laying in,field
+44937,sheep,laying in,straw
+48138,sheep,laying in,straw
+1642,sheep,laying in,grass
+1643,sheep,laying in,grass
+1644,sheep,laying in,grass
+1645,sheep,laying in,grass
+3617,sheep,laying in,grass
+5102,sheep,laying in,grass
+5103,sheep,laying in,grass
+12095,sheep,laying in,grass
+24200,sheep,laying in,grass
+25530,sheep,laying in,grass
+31202,sheep,laying in,grass
+31792,sheep,laying in,grass
+31793,sheep,laying in,grass
+36070,sheep,laying in,grass
+38149,sheep,laying in,grass
+38150,sheep,laying in,grass
+39112,sheep,laying in,grass
+46434,sheep,laying in,grass
+51241,sheep,laying in,grass
+55951,sheep,laying in,grass
+63666,sheep,laying in,grass
+65147,sheep,laying in,grass
+66636,sheep,laying in,grass
+70852,sheep,laying in,grass
+70854,sheep,laying in,grass
+72674,sheep,laying in,grass
+84227,sheep,laying in,grass
+85205,sheep,laying in,grass
+88567,sheep,laying in,grass
+90142,sheep,laying in,grass
+93019,sheep,laying in,grass
+94202,sheep,laying in,grass
+100453,sheep,laying in,grass
+101613,sheep,laying in,grass
+101615,sheep,laying in,grass
+101616,sheep,laying in,grass
+101617,sheep,laying in,grass
+106499,sheep,laying in,grass
+116567,sheep,laying in,grass
+117805,sheep,laying in,grass
+3616,sheep,laying in,hill
+36393,sheep,laying in,hill
+23453,sheep,laying in,hay
+49492,sheep,laying in,hay
+102774,sheep,running in,field
+118548,sheep,running in,field
+27019,sheep,running in,grass
+67329,sheep,running in,grass
+86632,sheep,running in,grass
+111923,sheep,running in,grass
+14208,sheep,sitting on a,field
+17081,sheep,sitting on a,field
+75521,sheep,sitting on a,field
+95970,sheep,sitting on a,field
+12942,sheep,sitting on a,grass
+21221,sheep,sitting on a,grass
+24663,sheep,sitting on a,grass
+31791,sheep,sitting on a,grass
+73706,sheep,sitting on a,grass
+91067,sheep,sitting on a,grass
+59127,woman,balancing on,surfboard
+72586,woman,balancing on,surfboard
+91277,woman,balancing on,surfboard
+113690,woman,balancing on,surfboard
+3843,woman,entering,train
+112235,woman,entering,train
+61609,woman,entering,bus
+69491,woman,entering,bus
+105789,woman,entering,bus
+2013,woman,grabbing,man
+52283,woman,grabbing,man
+64235,woman,grabbing,man
+31159,woman,grabbing,pizza
+31162,woman,grabbing,pizza
+27802,woman,grabbing,tennis racket
+65437,woman,grabbing,tennis racket
+48866,woman,jumping on,horse
+57970,woman,jumping on,horse
+14307,woman,laying in,bag
+14308,woman,laying in,bag
+108359,woman,laying in,bag
+17799,woman,laying in,bed
+26479,woman,laying in,bed
+26499,woman,laying in,bed
+28114,woman,laying in,bed
+33969,woman,laying in,bed
+34370,woman,laying in,bed
+35861,woman,laying in,bed
+46700,woman,laying in,bed
+46996,woman,laying in,bed
+47489,woman,laying in,bed
+51161,woman,laying in,bed
+57411,woman,laying in,bed
+59104,woman,laying in,bed
+61672,woman,laying in,bed
+69785,woman,laying in,bed
+74059,woman,laying in,bed
+74815,woman,laying in,bed
+79032,woman,laying in,bed
+79034,woman,laying in,bed
+79993,woman,laying in,bed
+81542,woman,laying in,bed
+83768,woman,laying in,bed
+89853,woman,laying in,bed
+89854,woman,laying in,bed
+90360,woman,laying in,bed
+98338,woman,laying in,bed
+99185,woman,laying in,bed
+101862,woman,laying in,bed
+101882,woman,laying in,bed
+112122,woman,laying in,bed
+113467,woman,laying in,bed
+116167,woman,laying in,bed
+120315,woman,laying in,bed
+120838,woman,laying in,bed
+122548,woman,laying in,bed
+26904,woman,laying in,bench
+100330,woman,laying in,bench
+103436,woman,laying in,bench
+108975,woman,laying in,bench
+34075,woman,laying in,board
+122530,woman,laying in,board
+28009,woman,laying in,couch
+35091,woman,laying in,couch
+37212,woman,laying in,couch
+70240,woman,laying in,couch
+74795,woman,laying in,couch
+97835,woman,laying in,couch
+107082,woman,laying in,couch
+107083,woman,laying in,couch
+118853,woman,laying in,couch
+31663,woman,laying in,floor
+37648,woman,laying in,floor
+51157,woman,laying in,floor
+66357,woman,laying in,floor
+79287,woman,laying in,sofa
+94021,woman,laying in,sofa
+114831,woman,laying in,hay
+114832,woman,laying in,hay
+39348,woman,laying in,pillow
+45433,woman,laying in,pillow
+3351,woman,laying in,surfboard
+9175,woman,laying in,surfboard
+10520,woman,laying in,surfboard
+36337,woman,laying in,surfboard
+42289,woman,laying in,surfboard
+45418,woman,laying in,surfboard
+51018,woman,laying in,surfboard
+62936,woman,laying in,surfboard
+88008,woman,laying in,surfboard
+102956,woman,laying in,surfboard
+103886,woman,laying in,surfboard
+107756,woman,laying in,surfboard
+19197,woman,laying in,towel
+32811,woman,laying in,towel
+88449,woman,laying in,towel
+92176,woman,laying in,towel
+20557,woman,laying in,head
+41855,woman,laying in,head
+10176,woman,laying in,sand
+21624,woman,laying in,sand
+32810,woman,laying in,sand
+114923,woman,laying in,sand
+5029,woman,laying in,snow
+67144,woman,laying in,snow
+61778,woman,laying in,beach
+68772,woman,laying in,beach
+67189,woman,leaning on,baseball bat
+96756,woman,leaning on,baseball bat
+94063,woman,leaning on,bear
+102132,woman,leaning on,bear
+8300,woman,leaning on,bike
+8519,woman,leaning on,bike
+20520,woman,leaning on,bike
+75976,woman,leaning on,chair
+87199,woman,leaning on,chair
+123605,woman,leaning on,chair
+12157,woman,leaning on,computer
+13102,woman,leaning on,computer
+25389,woman,leaning on,computer
+37989,woman,leaning on,computer
+40300,woman,leaning on,computer
+70087,woman,leaning on,computer
+72160,woman,leaning on,computer
+74931,woman,leaning on,computer
+79874,woman,leaning on,computer
+87221,woman,leaning on,computer
+87319,woman,leaning on,computer
+98752,woman,leaning on,computer
+105689,woman,leaning on,computer
+111222,woman,leaning on,computer
+115012,woman,leaning on,computer
+117786,woman,leaning on,computer
+56297,woman,leaning on,couch
+69772,woman,leaning on,couch
+109112,woman,leaning on,couch
+116017,woman,leaning on,couch
+29875,woman,leaning on,counter
+43737,woman,leaning on,counter
+68192,woman,leaning on,counter
+84260,woman,leaning on,counter
+96549,woman,leaning on,counter
+15896,woman,leaning on,fence
+98059,woman,leaning on,fence
+14480,woman,leaning on,man
+28044,woman,leaning on,man
+50801,woman,leaning on,man
+100486,woman,leaning on,man
+105733,woman,leaning on,man
+81037,woman,leaning on,pole
+81038,woman,leaning on,pole
+5799,woman,leaning on,railing
+66064,woman,leaning on,railing
+99153,woman,leaning on,railing
+11191,woman,leaning on,table
+25814,woman,leaning on,table
+65852,woman,leaning on,table
+70402,woman,leaning on,table
+75149,woman,leaning on,table
+96799,woman,leaning on,table
+103547,woman,leaning on,table
+104308,woman,leaning on,table
+125312,woman,leaning on,table
+3140,woman,leaning on,wall
+11918,woman,leaning on,wall
+13579,woman,leaning on,wall
+18220,woman,leaning on,wall
+27801,woman,leaning on,wall
+80466,woman,leaning on,wall
+87472,woman,leaning on,wall
+100380,woman,leaning on,wall
+103409,woman,leaning on,wall
+113402,woman,leaning on,wall
+23374,woman,playing with,field
+102491,woman,playing with,field
+106534,woman,playing with,field
+121777,woman,playing with,field
+62882,woman,playing with,park
+112767,woman,playing with,park
+121768,woman,playing with,park
+41064,woman,playing with,water
+97074,woman,playing with,water
+54442,woman,playing with,sand
+59876,woman,playing with,sand
+88819,woman,playing with,sand
+118735,woman,playing with,sand
+51008,woman,playing with,grass
+62883,woman,playing with,grass
+94458,woman,playing with,grass
+11195,woman,playing with,tennis court
+17669,woman,playing with,tennis court
+35988,woman,playing with,tennis court
+39635,woman,playing with,tennis court
+42323,woman,playing with,tennis court
+48862,woman,playing with,tennis court
+55366,woman,playing with,tennis court
+57333,woman,playing with,tennis court
+58460,woman,playing with,tennis court
+75944,woman,playing with,tennis court
+97014,woman,playing with,tennis court
+100762,woman,playing with,tennis court
+115624,woman,playing with,tennis court
+117589,woman,playing with,tennis court
+117590,woman,playing with,tennis court
+121082,woman,playing with,tennis court
+53324,woman,playing with,ball
+103101,woman,playing with,ball
+18930,woman,playing with,dog
+31062,woman,playing with,dog
+67379,woman,playing with,dog
+72635,woman,playing with,dog
+22114,woman,playing with,elephant
+114744,woman,playing with,elephant
+629,woman,playing with,frisbee
+630,woman,playing with,frisbee
+2086,woman,playing with,frisbee
+6019,woman,playing with,frisbee
+14621,woman,playing with,frisbee
+16235,woman,playing with,frisbee
+18116,woman,playing with,frisbee
+18117,woman,playing with,frisbee
+27593,woman,playing with,frisbee
+28133,woman,playing with,frisbee
+34792,woman,playing with,frisbee
+38751,woman,playing with,frisbee
+40362,woman,playing with,frisbee
+43433,woman,playing with,frisbee
+43434,woman,playing with,frisbee
+44335,woman,playing with,frisbee
+45361,woman,playing with,frisbee
+46316,woman,playing with,frisbee
+48062,woman,playing with,frisbee
+49505,woman,playing with,frisbee
+49522,woman,playing with,frisbee
+51227,woman,playing with,frisbee
+53037,woman,playing with,frisbee
+57447,woman,playing with,frisbee
+58180,woman,playing with,frisbee
+60584,woman,playing with,frisbee
+63351,woman,playing with,frisbee
+66527,woman,playing with,frisbee
+66528,woman,playing with,frisbee
+66813,woman,playing with,frisbee
+68689,woman,playing with,frisbee
+68923,woman,playing with,frisbee
+69109,woman,playing with,frisbee
+76794,woman,playing with,frisbee
+81402,woman,playing with,frisbee
+82056,woman,playing with,frisbee
+83382,woman,playing with,frisbee
+83492,woman,playing with,frisbee
+88815,woman,playing with,frisbee
+88816,woman,playing with,frisbee
+92749,woman,playing with,frisbee
+92966,woman,playing with,frisbee
+98890,woman,playing with,frisbee
+99152,woman,playing with,frisbee
+102070,woman,playing with,frisbee
+102492,woman,playing with,frisbee
+102493,woman,playing with,frisbee
+102494,woman,playing with,frisbee
+103663,woman,playing with,frisbee
+103703,woman,playing with,frisbee
+104644,woman,playing with,frisbee
+106460,woman,playing with,frisbee
+106817,woman,playing with,frisbee
+111362,woman,playing with,frisbee
+112445,woman,playing with,frisbee
+115727,woman,playing with,frisbee
+118293,woman,playing with,frisbee
+122428,woman,playing with,frisbee
+7174,woman,playing with,tennis racket
+71745,woman,playing with,tennis racket
+32051,woman,playing with,wave
+87586,woman,playing with,wave
+58994,woman,playing with,woman
+58995,woman,playing with,woman
+58996,woman,playing with,woman
+115531,woman,playing with,woman
+26075,woman,running in,field
+42139,woman,running in,field
+107127,woman,running in,field
+624,woman,running in,grass
+44332,woman,running in,grass
+45360,woman,running in,grass
+52458,woman,running in,water
+59323,woman,running in,water
+111151,woman,running in,water
+22280,woman,running in,beach
+48711,woman,running in,beach
+61359,woman,running in,beach
+95023,woman,running in,beach
+15124,woman,running in,sidewalk
+53239,woman,running in,sidewalk
+49448,woman,selling,banana
+49449,woman,selling,banana
+49450,woman,selling,banana
+49451,woman,selling,banana
+54008,woman,selling,banana
+86369,woman,selling,banana
+32773,woman,selling,food
+37790,woman,selling,food
+63483,woman,selling,food
+87605,woman,selling,food
+89586,woman,selling,food
+3666,woman,sitting on a,bed
+7286,woman,sitting on a,bed
+11096,woman,sitting on a,bed
+11097,woman,sitting on a,bed
+12063,woman,sitting on a,bed
+14127,woman,sitting on a,bed
+14137,woman,sitting on a,bed
+14139,woman,sitting on a,bed
+21900,woman,sitting on a,bed
+23806,woman,sitting on a,bed
+28826,woman,sitting on a,bed
+29186,woman,sitting on a,bed
+37998,woman,sitting on a,bed
+42611,woman,sitting on a,bed
+44897,woman,sitting on a,bed
+48995,woman,sitting on a,bed
+66668,woman,sitting on a,bed
+70569,woman,sitting on a,bed
+70961,woman,sitting on a,bed
+72194,woman,sitting on a,bed
+73045,woman,sitting on a,bed
+73046,woman,sitting on a,bed
+78106,woman,sitting on a,bed
+98805,woman,sitting on a,bed
+107314,woman,sitting on a,bed
+107337,woman,sitting on a,bed
+111415,woman,sitting on a,bed
+111575,woman,sitting on a,bed
+111576,woman,sitting on a,bed
+4277,woman,sitting on a,bench
+4619,woman,sitting on a,bench
+4623,woman,sitting on a,bench
+6773,woman,sitting on a,bench
+8776,woman,sitting on a,bench
+11109,woman,sitting on a,bench
+13136,woman,sitting on a,bench
+13662,woman,sitting on a,bench
+13734,woman,sitting on a,bench
+14513,woman,sitting on a,bench
+14606,woman,sitting on a,bench
+16183,woman,sitting on a,bench
+16275,woman,sitting on a,bench
+18481,woman,sitting on a,bench
+18693,woman,sitting on a,bench
+23011,woman,sitting on a,bench
+23630,woman,sitting on a,bench
+23636,woman,sitting on a,bench
+27592,woman,sitting on a,bench
+29674,woman,sitting on a,bench
+29828,woman,sitting on a,bench
+30932,woman,sitting on a,bench
+33256,woman,sitting on a,bench
+35504,woman,sitting on a,bench
+39851,woman,sitting on a,bench
+39854,woman,sitting on a,bench
+40182,woman,sitting on a,bench
+41377,woman,sitting on a,bench
+42507,woman,sitting on a,bench
+43053,woman,sitting on a,bench
+43932,woman,sitting on a,bench
+45624,woman,sitting on a,bench
+50725,woman,sitting on a,bench
+53167,woman,sitting on a,bench
+53824,woman,sitting on a,bench
+54087,woman,sitting on a,bench
+54521,woman,sitting on a,bench
+55148,woman,sitting on a,bench
+57751,woman,sitting on a,bench
+59512,woman,sitting on a,bench
+59911,woman,sitting on a,bench
+60919,woman,sitting on a,bench
+61513,woman,sitting on a,bench
+65296,woman,sitting on a,bench
+66830,woman,sitting on a,bench
+67445,woman,sitting on a,bench
+69534,woman,sitting on a,bench
+69536,woman,sitting on a,bench
+70023,woman,sitting on a,bench
+70751,woman,sitting on a,bench
+71179,woman,sitting on a,bench
+71967,woman,sitting on a,bench
+71969,woman,sitting on a,bench
+72947,woman,sitting on a,bench
+73471,woman,sitting on a,bench
+75194,woman,sitting on a,bench
+80695,woman,sitting on a,bench
+81582,woman,sitting on a,bench
+82454,woman,sitting on a,bench
+83076,woman,sitting on a,bench
+83652,woman,sitting on a,bench
+84810,woman,sitting on a,bench
+86642,woman,sitting on a,bench
+86716,woman,sitting on a,bench
+86717,woman,sitting on a,bench
+89399,woman,sitting on a,bench
+92201,woman,sitting on a,bench
+92489,woman,sitting on a,bench
+92559,woman,sitting on a,bench
+93009,woman,sitting on a,bench
+95026,woman,sitting on a,bench
+96926,woman,sitting on a,bench
+97044,woman,sitting on a,bench
+97046,woman,sitting on a,bench
+100272,woman,sitting on a,bench
+101729,woman,sitting on a,bench
+101884,woman,sitting on a,bench
+102131,woman,sitting on a,bench
+102172,woman,sitting on a,bench
+103717,woman,sitting on a,bench
+103719,woman,sitting on a,bench
+103966,woman,sitting on a,bench
+104054,woman,sitting on a,bench
+105511,woman,sitting on a,bench
+109404,woman,sitting on a,bench
+111765,woman,sitting on a,bench
+112073,woman,sitting on a,bench
+113527,woman,sitting on a,bench
+113923,woman,sitting on a,bench
+114190,woman,sitting on a,bench
+115445,woman,sitting on a,bench
+115654,woman,sitting on a,bench
+117173,woman,sitting on a,bench
+117938,woman,sitting on a,bench
+118089,woman,sitting on a,bench
+118887,woman,sitting on a,bench
+119114,woman,sitting on a,bench
+119414,woman,sitting on a,bench
+121179,woman,sitting on a,bench
+121522,woman,sitting on a,bench
+121759,woman,sitting on a,bench
+123087,woman,sitting on a,bench
+124865,woman,sitting on a,bench
+7661,woman,sitting on a,boat
+13219,woman,sitting on a,boat
+32240,woman,sitting on a,boat
+44833,woman,sitting on a,boat
+48260,woman,sitting on a,boat
+65102,woman,sitting on a,boat
+74840,woman,sitting on a,boat
+100911,woman,sitting on a,boat
+110693,woman,sitting on a,boat
+113277,woman,sitting on a,boat
+9040,woman,sitting on a,bus
+9640,woman,sitting on a,bus
+33347,woman,sitting on a,bus
+34434,woman,sitting on a,bus
+35846,woman,sitting on a,bus
+68740,woman,sitting on a,bus
+74170,woman,sitting on a,bus
+75288,woman,sitting on a,bus
+89574,woman,sitting on a,bus
+94655,woman,sitting on a,bus
+98836,woman,sitting on a,bus
+119926,woman,sitting on a,bus
+63,woman,sitting on a,chair
+2338,woman,sitting on a,chair
+2339,woman,sitting on a,chair
+2620,woman,sitting on a,chair
+2631,woman,sitting on a,chair
+3266,woman,sitting on a,chair
+5540,woman,sitting on a,chair
+6452,woman,sitting on a,chair
+8397,woman,sitting on a,chair
+8536,woman,sitting on a,chair
+9250,woman,sitting on a,chair
+9716,woman,sitting on a,chair
+13201,woman,sitting on a,chair
+13538,woman,sitting on a,chair
+13539,woman,sitting on a,chair
+14482,woman,sitting on a,chair
+14682,woman,sitting on a,chair
+17003,woman,sitting on a,chair
+18940,woman,sitting on a,chair
+21935,woman,sitting on a,chair
+24411,woman,sitting on a,chair
+28205,woman,sitting on a,chair
+28364,woman,sitting on a,chair
+30491,woman,sitting on a,chair
+31186,woman,sitting on a,chair
+31564,woman,sitting on a,chair
+32990,woman,sitting on a,chair
+35894,woman,sitting on a,chair
+36733,woman,sitting on a,chair
+37805,woman,sitting on a,chair
+40026,woman,sitting on a,chair
+45068,woman,sitting on a,chair
+46471,woman,sitting on a,chair
+47201,woman,sitting on a,chair
+47224,woman,sitting on a,chair
+47365,woman,sitting on a,chair
+49159,woman,sitting on a,chair
+51485,woman,sitting on a,chair
+52351,woman,sitting on a,chair
+55341,woman,sitting on a,chair
+57676,woman,sitting on a,chair
+57703,woman,sitting on a,chair
+60026,woman,sitting on a,chair
+60951,woman,sitting on a,chair
+61738,woman,sitting on a,chair
+61841,woman,sitting on a,chair
+69645,woman,sitting on a,chair
+70024,woman,sitting on a,chair
+70401,woman,sitting on a,chair
+70485,woman,sitting on a,chair
+72163,woman,sitting on a,chair
+80007,woman,sitting on a,chair
+83658,woman,sitting on a,chair
+84313,woman,sitting on a,chair
+84465,woman,sitting on a,chair
+86362,woman,sitting on a,chair
+89926,woman,sitting on a,chair
+90264,woman,sitting on a,chair
+90818,woman,sitting on a,chair
+91850,woman,sitting on a,chair
+92298,woman,sitting on a,chair
+92426,woman,sitting on a,chair
+94818,woman,sitting on a,chair
+95881,woman,sitting on a,chair
+96927,woman,sitting on a,chair
+97482,woman,sitting on a,chair
+97669,woman,sitting on a,chair
+98986,woman,sitting on a,chair
+99074,woman,sitting on a,chair
+99327,woman,sitting on a,chair
+99851,woman,sitting on a,chair
+100472,woman,sitting on a,chair
+102975,woman,sitting on a,chair
+103147,woman,sitting on a,chair
+104634,woman,sitting on a,chair
+108367,woman,sitting on a,chair
+110162,woman,sitting on a,chair
+111538,woman,sitting on a,chair
+111539,woman,sitting on a,chair
+112185,woman,sitting on a,chair
+113182,woman,sitting on a,chair
+113222,woman,sitting on a,chair
+113293,woman,sitting on a,chair
+114040,woman,sitting on a,chair
+114711,woman,sitting on a,chair
+115874,woman,sitting on a,chair
+115875,woman,sitting on a,chair
+118731,woman,sitting on a,chair
+123800,woman,sitting on a,chair
+123853,woman,sitting on a,chair
+124645,woman,sitting on a,chair
+10331,woman,sitting on a,couch
+11261,woman,sitting on a,couch
+11262,woman,sitting on a,couch
+12720,woman,sitting on a,couch
+14078,woman,sitting on a,couch
+21892,woman,sitting on a,couch
+25050,woman,sitting on a,couch
+26977,woman,sitting on a,couch
+26978,woman,sitting on a,couch
+27964,woman,sitting on a,couch
+27966,woman,sitting on a,couch
+28213,woman,sitting on a,couch
+31372,woman,sitting on a,couch
+31378,woman,sitting on a,couch
+35349,woman,sitting on a,couch
+38158,woman,sitting on a,couch
+38981,woman,sitting on a,couch
+40484,woman,sitting on a,couch
+42260,woman,sitting on a,couch
+52109,woman,sitting on a,couch
+52374,woman,sitting on a,couch
+54057,woman,sitting on a,couch
+56240,woman,sitting on a,couch
+56417,woman,sitting on a,couch
+57980,woman,sitting on a,couch
+67847,woman,sitting on a,couch
+70554,woman,sitting on a,couch
+73140,woman,sitting on a,couch
+73267,woman,sitting on a,couch
+75837,woman,sitting on a,couch
+76063,woman,sitting on a,couch
+78359,woman,sitting on a,couch
+80338,woman,sitting on a,couch
+80339,woman,sitting on a,couch
+84875,woman,sitting on a,couch
+87181,woman,sitting on a,couch
+90436,woman,sitting on a,couch
+94913,woman,sitting on a,couch
+103011,woman,sitting on a,couch
+108718,woman,sitting on a,couch
+109272,woman,sitting on a,couch
+109276,woman,sitting on a,couch
+113795,woman,sitting on a,couch
+114304,woman,sitting on a,couch
+115010,woman,sitting on a,couch
+116439,woman,sitting on a,couch
+117224,woman,sitting on a,couch
+117514,woman,sitting on a,couch
+119275,woman,sitting on a,couch
+121989,woman,sitting on a,couch
+122326,woman,sitting on a,couch
+122329,woman,sitting on a,couch
+16096,woman,sitting on a,desk
+16221,woman,sitting on a,desk
+28151,woman,sitting on a,desk
+71770,woman,sitting on a,desk
+91484,woman,sitting on a,desk
+99619,woman,sitting on a,desk
+102974,woman,sitting on a,desk
+121337,woman,sitting on a,desk
+2511,woman,sitting on a,floor
+8296,woman,sitting on a,floor
+15853,woman,sitting on a,floor
+17106,woman,sitting on a,floor
+21294,woman,sitting on a,floor
+41839,woman,sitting on a,floor
+47538,woman,sitting on a,floor
+47561,woman,sitting on a,floor
+55003,woman,sitting on a,floor
+58005,woman,sitting on a,floor
+71271,woman,sitting on a,floor
+73533,woman,sitting on a,floor
+77555,woman,sitting on a,floor
+77579,woman,sitting on a,floor
+80420,woman,sitting on a,floor
+94630,woman,sitting on a,floor
+95756,woman,sitting on a,floor
+115011,woman,sitting on a,floor
+115013,woman,sitting on a,floor
+115971,woman,sitting on a,floor
+118125,woman,sitting on a,floor
+10770,woman,sitting on a,grass
+38102,woman,sitting on a,grass
+41218,woman,sitting on a,grass
+42557,woman,sitting on a,grass
+45841,woman,sitting on a,grass
+51886,woman,sitting on a,grass
+56154,woman,sitting on a,grass
+69856,woman,sitting on a,grass
+71274,woman,sitting on a,grass
+85165,woman,sitting on a,grass
+91755,woman,sitting on a,grass
+93986,woman,sitting on a,grass
+101402,woman,sitting on a,grass
+104735,woman,sitting on a,grass
+118471,woman,sitting on a,grass
+119874,woman,sitting on a,grass
+120084,woman,sitting on a,grass
+242,woman,sitting on a,horse
+2334,woman,sitting on a,horse
+12278,woman,sitting on a,horse
+13737,woman,sitting on a,horse
+17179,woman,sitting on a,horse
+21354,woman,sitting on a,horse
+25509,woman,sitting on a,horse
+49441,woman,sitting on a,horse
+66094,woman,sitting on a,horse
+66583,woman,sitting on a,horse
+91616,woman,sitting on a,horse
+98769,woman,sitting on a,horse
+105672,woman,sitting on a,horse
+105770,woman,sitting on a,horse
+106711,woman,sitting on a,horse
+107107,woman,sitting on a,horse
+122004,woman,sitting on a,horse
+122285,woman,sitting on a,horse
+18522,woman,sitting on a,man
+33386,woman,sitting on a,man
+48973,woman,sitting on a,man
+85335,woman,sitting on a,man
+85930,woman,sitting on a,man
+103171,woman,sitting on a,man
+103172,woman,sitting on a,man
+103602,woman,sitting on a,man
+110643,woman,sitting on a,man
+113793,woman,sitting on a,man
+123469,woman,sitting on a,man
+746,woman,sitting on a,motorcycle
+1356,woman,sitting on a,motorcycle
+2510,woman,sitting on a,motorcycle
+3653,woman,sitting on a,motorcycle
+17989,woman,sitting on a,motorcycle
+19023,woman,sitting on a,motorcycle
+20411,woman,sitting on a,motorcycle
+20645,woman,sitting on a,motorcycle
+42547,woman,sitting on a,motorcycle
+42929,woman,sitting on a,motorcycle
+42931,woman,sitting on a,motorcycle
+44101,woman,sitting on a,motorcycle
+47988,woman,sitting on a,motorcycle
+61332,woman,sitting on a,motorcycle
+78440,woman,sitting on a,motorcycle
+79082,woman,sitting on a,motorcycle
+90398,woman,sitting on a,motorcycle
+90399,woman,sitting on a,motorcycle
+107609,woman,sitting on a,motorcycle
+109151,woman,sitting on a,motorcycle
+112319,woman,sitting on a,motorcycle
+366,woman,sitting on a,sand
+367,woman,sitting on a,sand
+48920,woman,sitting on a,sand
+66239,woman,sitting on a,sand
+80722,woman,sitting on a,sand
+89485,woman,sitting on a,sand
+97720,woman,sitting on a,sand
+14672,woman,sitting on a,seat
+36352,woman,sitting on a,seat
+42930,woman,sitting on a,seat
+50313,woman,sitting on a,seat
+53319,woman,sitting on a,seat
+61334,woman,sitting on a,seat
+83978,woman,sitting on a,seat
+90565,woman,sitting on a,seat
+100473,woman,sitting on a,seat
+108101,woman,sitting on a,seat
+3379,woman,sitting on a,sofa
+12432,woman,sitting on a,sofa
+13294,woman,sitting on a,sofa
+30765,woman,sitting on a,sofa
+34996,woman,sitting on a,sofa
+37991,woman,sitting on a,sofa
+47544,woman,sitting on a,sofa
+48778,woman,sitting on a,sofa
+58528,woman,sitting on a,sofa
+58774,woman,sitting on a,sofa
+74959,woman,sitting on a,sofa
+92805,woman,sitting on a,sofa
+104820,woman,sitting on a,sofa
+104821,woman,sitting on a,sofa
+104822,woman,sitting on a,sofa
+107045,woman,sitting on a,sofa
+108703,woman,sitting on a,sofa
+113798,woman,sitting on a,sofa
+10867,woman,sitting on a,surfboard
+16709,woman,sitting on a,surfboard
+26674,woman,sitting on a,surfboard
+35633,woman,sitting on a,surfboard
+48072,woman,sitting on a,surfboard
+48073,woman,sitting on a,surfboard
+89000,woman,sitting on a,surfboard
+122152,woman,sitting on a,surfboard
+1587,woman,sitting on a,table
+7595,woman,sitting on a,table
+8350,woman,sitting on a,table
+9718,woman,sitting on a,table
+11794,woman,sitting on a,table
+11838,woman,sitting on a,table
+12892,woman,sitting on a,table
+13003,woman,sitting on a,table
+13573,woman,sitting on a,table
+13666,woman,sitting on a,table
+24882,woman,sitting on a,table
+25395,woman,sitting on a,table
+29006,woman,sitting on a,table
+29007,woman,sitting on a,table
+31008,woman,sitting on a,table
+32725,woman,sitting on a,table
+33254,woman,sitting on a,table
+33337,woman,sitting on a,table
+34148,woman,sitting on a,table
+34494,woman,sitting on a,table
+36950,woman,sitting on a,table
+39924,woman,sitting on a,table
+41965,woman,sitting on a,table
+45448,woman,sitting on a,table
+50990,woman,sitting on a,table
+51823,woman,sitting on a,table
+52238,woman,sitting on a,table
+53594,woman,sitting on a,table
+54046,woman,sitting on a,table
+54778,woman,sitting on a,table
+55002,woman,sitting on a,table
+55339,woman,sitting on a,table
+55468,woman,sitting on a,table
+58141,woman,sitting on a,table
+58190,woman,sitting on a,table
+58562,woman,sitting on a,table
+59627,woman,sitting on a,table
+59628,woman,sitting on a,table
+60712,woman,sitting on a,table
+62078,woman,sitting on a,table
+62313,woman,sitting on a,table
+62472,woman,sitting on a,table
+62826,woman,sitting on a,table
+65916,woman,sitting on a,table
+66522,woman,sitting on a,table
+67075,woman,sitting on a,table
+68531,woman,sitting on a,table
+70376,woman,sitting on a,table
+71825,woman,sitting on a,table
+72645,woman,sitting on a,table
+72660,woman,sitting on a,table
+73246,woman,sitting on a,table
+74151,woman,sitting on a,table
+76019,woman,sitting on a,table
+77194,woman,sitting on a,table
+80975,woman,sitting on a,table
+81609,woman,sitting on a,table
+81934,woman,sitting on a,table
+82343,woman,sitting on a,table
+82378,woman,sitting on a,table
+83131,woman,sitting on a,table
+83605,woman,sitting on a,table
+85890,woman,sitting on a,table
+86209,woman,sitting on a,table
+88852,woman,sitting on a,table
+89589,woman,sitting on a,table
+91453,woman,sitting on a,table
+92064,woman,sitting on a,table
+94789,woman,sitting on a,table
+96800,woman,sitting on a,table
+96896,woman,sitting on a,table
+98102,woman,sitting on a,table
+99187,woman,sitting on a,table
+100868,woman,sitting on a,table
+104389,woman,sitting on a,table
+105051,woman,sitting on a,table
+105960,woman,sitting on a,table
+105969,woman,sitting on a,table
+107301,woman,sitting on a,table
+109077,woman,sitting on a,table
+109333,woman,sitting on a,table
+111687,woman,sitting on a,table
+114181,woman,sitting on a,table
+114869,woman,sitting on a,table
+118742,woman,sitting on a,table
+124034,woman,sitting on a,table
+124768,woman,sitting on a,table
+124878,woman,sitting on a,table
+3647,woman,sitting on a,wall
+5258,woman,sitting on a,wall
+16066,woman,sitting on a,wall
+60326,woman,sitting on a,wall
+75755,woman,sitting on a,wall
+82661,woman,sitting on a,wall
+85651,woman,sitting on a,wall
+89927,woman,sitting on a,wall
+93731,woman,sitting on a,wall
+118883,woman,sitting on a,wall
+5218,woman,sitting on a,snow
+8530,woman,sitting on a,snow
+29171,woman,sitting on a,snow
+43904,woman,sitting on a,snow
+47902,woman,sitting on a,snow
+63345,woman,sitting on a,snow
+63346,woman,sitting on a,snow
+81849,woman,sitting on a,snow
+90243,woman,sitting on a,snow
+103882,woman,sitting on a,snow
+114604,woman,sitting on a,snow
+363,woman,sitting on a,beach
+19034,woman,sitting on a,beach
+54933,woman,sitting on a,beach
+68773,woman,sitting on a,beach
+83894,woman,sitting on a,beach
+92671,woman,sitting on a,beach
+98633,woman,sitting on a,beach
+115741,woman,sitting on a,beach
+121607,woman,sitting on a,beach
+68409,woman,sleeping on,bed
+92953,woman,sleeping on,bed
+18188,woman,swinging,baseball bat
+21949,woman,swinging,baseball bat
+26943,woman,swinging,baseball bat
+48646,woman,swinging,baseball bat
+107447,woman,swinging,baseball bat
+120242,woman,swinging,baseball bat
+120243,woman,swinging,baseball bat
+6025,woman,swinging,tennis racket
+23236,woman,swinging,tennis racket
+27550,woman,swinging,tennis racket
+30815,woman,swinging,tennis racket
+36436,woman,swinging,tennis racket
+38832,woman,swinging,tennis racket
+43544,woman,swinging,tennis racket
+48442,woman,swinging,tennis racket
+50651,woman,swinging,tennis racket
+55817,woman,swinging,tennis racket
+67841,woman,swinging,tennis racket
+67855,woman,swinging,tennis racket
+75662,woman,swinging,tennis racket
+75863,woman,swinging,tennis racket
+76598,woman,swinging,tennis racket
+78227,woman,swinging,tennis racket
+78783,woman,swinging,tennis racket
+80056,woman,swinging,tennis racket
+80234,woman,swinging,tennis racket
+92887,woman,swinging,tennis racket
+104318,woman,swinging,tennis racket
+106675,woman,swinging,tennis racket
+107410,woman,swinging,tennis racket
+108491,woman,swinging,tennis racket
+113322,woman,swinging,tennis racket
+114817,woman,swinging,tennis racket
+117877,woman,swinging,tennis racket
+124640,woman,swinging,tennis racket
+112988,woman,swinging,arm
+112989,woman,swinging,arm
+85021,woman,touching,bottle
+85022,woman,touching,bottle
+62173,woman,touching,cat
+84772,woman,touching,cat
+27004,woman,touching,dog
+41194,woman,touching,dog
+106451,woman,touching,dog
+17348,woman,touching,elephant
+19166,woman,touching,elephant
+35513,woman,touching,elephant
+77406,woman,touching,elephant
+92954,woman,touching,elephant
+101949,woman,touching,elephant
+107126,woman,touching,elephant
+112771,woman,touching,elephant
+122031,woman,touching,elephant
+125196,woman,touching,elephant
+15898,woman,touching,giraffe
+20860,woman,touching,giraffe
+23999,woman,touching,horse
+56008,woman,touching,horse
+86561,woman,touching,horse
+116844,woman,touching,horse
+13365,woman,touching,man
+65050,woman,touching,man
+24031,woman,touching,sheep
+75667,woman,touching,sheep
+94611,woman,waiting at,bus stop
+94855,woman,waiting at,bus stop
+63470,woman,waiting at,platform
+111323,woman,waiting at,platform
+35383,zebra,biting,zebra
+120473,zebra,biting,zebra
+1646,zebra,eating from,water
+1647,zebra,eating from,water
+1649,zebra,eating from,water
+1650,zebra,eating from,water
+1651,zebra,eating from,water
+10296,zebra,eating from,water
+13584,zebra,eating from,water
+86551,zebra,eating from,water
+98933,zebra,eating from,water
+42634,zebra,eating from,feeder
+42636,zebra,eating from,feeder
+5305,zebra,eating from,hay
+21383,zebra,eating from,hay
+47996,zebra,laying in,field
+54069,zebra,laying in,field
+11897,zebra,laying in,dirt
+13327,zebra,laying in,dirt
+36507,zebra,laying in,dirt
+44063,zebra,laying in,dirt
+47997,zebra,laying in,dirt
+50741,zebra,laying in,dirt
+68294,zebra,laying in,dirt
+89839,zebra,laying in,dirt
+5120,zebra,laying in,grass
+25066,zebra,laying in,grass
+31461,zebra,laying in,grass
+57562,zebra,laying in,grass
+80895,zebra,laying in,grass
+89259,zebra,laying in,grass
+121443,zebra,laying in,grass
+23331,zebra,laying in,mud
+90608,zebra,laying in,mud
+62946,zebra,leaning on,zebra
+63432,zebra,leaning on,zebra
+82008,zebra,leaning on,zebra
+82858,zebra,leaning on,zebra
+55381,zebra,playing with,zebra
+80490,zebra,playing with,zebra
+2560,zebra,running in,field
+122574,zebra,running in,field
+13781,zebra,running in,water
+66485,zebra,running in,water
+8960,zebra,running in,grass
+31800,zebra,running in,grass
+57918,zebra,sitting on a,grass
+79743,zebra,sitting on a,grass
+9730,zebra,touching,zebra
+30428,zebra,touching,zebra
+44250,zebra,touching,zebra
+63135,zebra,touching,zebra
+76494,zebra,touching,zebra
+1060,people,entering,bus
+1061,people,entering,bus
+8250,people,entering,bus
+12636,people,entering,bus
+17344,people,entering,bus
+17345,people,entering,bus
+22779,people,entering,bus
+30650,people,entering,bus
+30733,people,entering,bus
+31612,people,entering,bus
+39700,people,entering,bus
+44867,people,entering,bus
+66389,people,entering,bus
+97751,people,entering,bus
+105937,people,entering,bus
+2213,people,entering,plane
+7551,people,entering,plane
+12637,people,entering,plane
+22958,people,entering,plane
+50666,people,entering,plane
+102957,people,entering,plane
+108490,people,entering,plane
+124852,people,entering,plane
+18700,people,entering,train
+34030,people,entering,train
+48627,people,entering,train
+62059,people,entering,train
+69619,people,entering,train
+100683,people,entering,train
+10367,people,laying in,beach
+14683,people,laying in,beach
+19194,people,laying in,beach
+43772,people,laying in,beach
+95230,people,laying in,beach
+96442,people,laying in,beach
+114926,people,laying in,beach
+13315,people,laying in,sand
+19193,people,laying in,sand
+84883,people,laying in,sand
+23796,people,leaning on,computer
+23797,people,leaning on,computer
+23798,people,leaning on,computer
+67026,people,leaning on,fence
+71934,people,leaning on,fence
+2588,people,leaning on,railing
+28254,people,leaning on,railing
+94029,people,leaning on,railing
+31555,people,leaving,building
+66092,people,leaving,building
+5943,people,leaving,plane
+14290,people,leaving,plane
+15016,people,leaving,plane
+33744,people,leaving,plane
+7514,people,playing with,field
+8340,people,playing with,field
+28730,people,playing with,field
+58684,people,playing with,field
+63690,people,playing with,field
+63691,people,playing with,field
+79484,people,playing with,field
+79994,people,playing with,field
+93583,people,playing with,field
+110647,people,playing with,field
+115300,people,playing with,field
+171,people,playing with,snow
+6972,people,playing with,snow
+120547,people,playing with,snow
+21700,people,playing with,water
+23320,people,playing with,water
+31287,people,playing with,water
+42369,people,playing with,water
+72588,people,playing with,water
+72656,people,playing with,water
+79369,people,playing with,water
+84413,people,playing with,water
+100688,people,playing with,water
+112954,people,playing with,water
+621,people,playing with,grass
+28132,people,playing with,grass
+63685,people,playing with,grass
+68366,people,playing with,grass
+1715,people,playing with,sand
+25396,people,playing with,sand
+37946,people,playing with,sand
+88533,people,playing with,sand
+10871,people,playing with,beach
+41309,people,playing with,beach
+56580,people,playing with,beach
+65837,people,playing with,beach
+80558,people,playing with,beach
+82559,people,playing with,beach
+85028,people,playing with,beach
+45059,people,playing with,ball
+108576,people,playing with,ball
+390,people,playing with,frisbee
+418,people,playing with,frisbee
+419,people,playing with,frisbee
+619,people,playing with,frisbee
+628,people,playing with,frisbee
+4138,people,playing with,frisbee
+5532,people,playing with,frisbee
+9563,people,playing with,frisbee
+11525,people,playing with,frisbee
+13948,people,playing with,frisbee
+16181,people,playing with,frisbee
+16321,people,playing with,frisbee
+17304,people,playing with,frisbee
+19738,people,playing with,frisbee
+20503,people,playing with,frisbee
+22213,people,playing with,frisbee
+22995,people,playing with,frisbee
+23559,people,playing with,frisbee
+28131,people,playing with,frisbee
+29207,people,playing with,frisbee
+31528,people,playing with,frisbee
+34173,people,playing with,frisbee
+37915,people,playing with,frisbee
+39710,people,playing with,frisbee
+44333,people,playing with,frisbee
+45406,people,playing with,frisbee
+47917,people,playing with,frisbee
+47918,people,playing with,frisbee
+49211,people,playing with,frisbee
+57448,people,playing with,frisbee
+59979,people,playing with,frisbee
+63324,people,playing with,frisbee
+65879,people,playing with,frisbee
+70223,people,playing with,frisbee
+72443,people,playing with,frisbee
+79156,people,playing with,frisbee
+81764,people,playing with,frisbee
+82054,people,playing with,frisbee
+88838,people,playing with,frisbee
+89469,people,playing with,frisbee
+92748,people,playing with,frisbee
+102698,people,playing with,frisbee
+112602,people,playing with,frisbee
+113340,people,playing with,frisbee
+115297,people,playing with,frisbee
+115724,people,playing with,frisbee
+119413,people,playing with,frisbee
+122427,people,playing with,frisbee
+124913,people,playing with,frisbee
+37179,people,playing with,kite
+41048,people,playing with,kite
+55773,people,playing with,kite
+55774,people,playing with,kite
+55777,people,playing with,kite
+74971,people,playing with,park
+117040,people,playing with,park
+6679,people,sitting on a,beach
+14863,people,sitting on a,beach
+37925,people,sitting on a,beach
+40007,people,sitting on a,beach
+71232,people,sitting on a,beach
+74382,people,sitting on a,beach
+84414,people,sitting on a,beach
+92752,people,sitting on a,beach
+96931,people,sitting on a,beach
+103194,people,sitting on a,beach
+107255,people,sitting on a,beach
+115455,people,sitting on a,beach
+119055,people,sitting on a,beach
+125098,people,sitting on a,beach
+489,people,sitting on a,bench
+2454,people,sitting on a,bench
+3008,people,sitting on a,bench
+3009,people,sitting on a,bench
+4595,people,sitting on a,bench
+5712,people,sitting on a,bench
+8831,people,sitting on a,bench
+9033,people,sitting on a,bench
+9590,people,sitting on a,bench
+9759,people,sitting on a,bench
+12475,people,sitting on a,bench
+12617,people,sitting on a,bench
+13862,people,sitting on a,bench
+14477,people,sitting on a,bench
+17346,people,sitting on a,bench
+17378,people,sitting on a,bench
+18661,people,sitting on a,bench
+21362,people,sitting on a,bench
+21985,people,sitting on a,bench
+22446,people,sitting on a,bench
+22684,people,sitting on a,bench
+27200,people,sitting on a,bench
+27338,people,sitting on a,bench
+28842,people,sitting on a,bench
+28843,people,sitting on a,bench
+31901,people,sitting on a,bench
+32389,people,sitting on a,bench
+33454,people,sitting on a,bench
+33687,people,sitting on a,bench
+34910,people,sitting on a,bench
+38933,people,sitting on a,bench
+38946,people,sitting on a,bench
+40223,people,sitting on a,bench
+40321,people,sitting on a,bench
+40324,people,sitting on a,bench
+41223,people,sitting on a,bench
+41477,people,sitting on a,bench
+44581,people,sitting on a,bench
+46715,people,sitting on a,bench
+48338,people,sitting on a,bench
+52551,people,sitting on a,bench
+56183,people,sitting on a,bench
+58579,people,sitting on a,bench
+61828,people,sitting on a,bench
+68278,people,sitting on a,bench
+70368,people,sitting on a,bench
+70934,people,sitting on a,bench
+73460,people,sitting on a,bench
+73764,people,sitting on a,bench
+77161,people,sitting on a,bench
+79935,people,sitting on a,bench
+80545,people,sitting on a,bench
+81396,people,sitting on a,bench
+82851,people,sitting on a,bench
+85927,people,sitting on a,bench
+85928,people,sitting on a,bench
+88473,people,sitting on a,bench
+90625,people,sitting on a,bench
+91265,people,sitting on a,bench
+91266,people,sitting on a,bench
+93950,people,sitting on a,bench
+93951,people,sitting on a,bench
+96340,people,sitting on a,bench
+98214,people,sitting on a,bench
+101789,people,sitting on a,bench
+103118,people,sitting on a,bench
+103121,people,sitting on a,bench
+104672,people,sitting on a,bench
+107163,people,sitting on a,bench
+107166,people,sitting on a,bench
+107732,people,sitting on a,bench
+112756,people,sitting on a,bench
+114684,people,sitting on a,bench
+115377,people,sitting on a,bench
+116536,people,sitting on a,bench
+118577,people,sitting on a,bench
+120208,people,sitting on a,bench
+120968,people,sitting on a,bench
+121531,people,sitting on a,bench
+124843,people,sitting on a,bench
+11613,people,sitting on a,boat
+17082,people,sitting on a,boat
+19826,people,sitting on a,boat
+26143,people,sitting on a,boat
+34561,people,sitting on a,boat
+40732,people,sitting on a,boat
+45526,people,sitting on a,boat
+74839,people,sitting on a,boat
+85162,people,sitting on a,boat
+92203,people,sitting on a,boat
+96810,people,sitting on a,boat
+96811,people,sitting on a,boat
+3394,people,sitting on a,building
+92387,people,sitting on a,building
+28435,people,sitting on a,bus
+33235,people,sitting on a,bus
+34433,people,sitting on a,bus
+39990,people,sitting on a,bus
+41974,people,sitting on a,bus
+48777,people,sitting on a,bus
+49095,people,sitting on a,bus
+51777,people,sitting on a,bus
+74880,people,sitting on a,bus
+82660,people,sitting on a,bus
+84133,people,sitting on a,bus
+92812,people,sitting on a,bus
+100888,people,sitting on a,bus
+100889,people,sitting on a,bus
+101193,people,sitting on a,bus
+107597,people,sitting on a,bus
+20680,people,sitting on a,car
+41797,people,sitting on a,car
+102884,people,sitting on a,car
+70482,people,sitting on a,chair
+91629,people,sitting on a,chair
+93669,people,sitting on a,chair
+109854,people,sitting on a,chair
+112857,people,sitting on a,chair
+115019,people,sitting on a,chair
+115020,people,sitting on a,chair
+118665,people,sitting on a,chair
+996,people,sitting on a,couch
+11091,people,sitting on a,couch
+11092,people,sitting on a,couch
+15120,people,sitting on a,couch
+23159,people,sitting on a,couch
+28878,people,sitting on a,couch
+28880,people,sitting on a,couch
+31371,people,sitting on a,couch
+33837,people,sitting on a,couch
+46744,people,sitting on a,couch
+47562,people,sitting on a,couch
+52645,people,sitting on a,couch
+56661,people,sitting on a,couch
+56773,people,sitting on a,couch
+65464,people,sitting on a,couch
+68582,people,sitting on a,couch
+77557,people,sitting on a,couch
+77559,people,sitting on a,couch
+84561,people,sitting on a,couch
+84817,people,sitting on a,couch
+91882,people,sitting on a,couch
+91884,people,sitting on a,couch
+99699,people,sitting on a,couch
+111581,people,sitting on a,couch
+117470,people,sitting on a,couch
+119812,people,sitting on a,couch
+6567,people,sitting on a,elephant
+8810,people,sitting on a,elephant
+22714,people,sitting on a,elephant
+24245,people,sitting on a,elephant
+51185,people,sitting on a,elephant
+56802,people,sitting on a,elephant
+62446,people,sitting on a,elephant
+97372,people,sitting on a,elephant
+102075,people,sitting on a,elephant
+97415,people,sitting on a,floor
+97416,people,sitting on a,floor
+121711,people,sitting on a,floor
+5662,people,sitting on a,grass
+12029,people,sitting on a,grass
+15010,people,sitting on a,grass
+15429,people,sitting on a,grass
+25238,people,sitting on a,grass
+25618,people,sitting on a,grass
+55042,people,sitting on a,grass
+59466,people,sitting on a,grass
+62458,people,sitting on a,grass
+64765,people,sitting on a,grass
+67782,people,sitting on a,grass
+81855,people,sitting on a,grass
+84051,people,sitting on a,grass
+89913,people,sitting on a,grass
+90134,people,sitting on a,grass
+103817,people,sitting on a,grass
+107245,people,sitting on a,grass
+110863,people,sitting on a,grass
+117010,people,sitting on a,grass
+122825,people,sitting on a,grass
+24413,people,sitting on a,park
+24415,people,sitting on a,park
+56157,people,sitting on a,park
+37826,people,sitting on a,sand
+40375,people,sitting on a,sand
+72944,people,sitting on a,sand
+99343,people,sitting on a,sand
+121318,people,sitting on a,sand
+68714,people,sitting on a,seat
+68715,people,sitting on a,seat
+85700,people,sitting on a,seat
+19666,people,sitting on a,sidewalk
+21878,people,sitting on a,sidewalk
+74740,people,sitting on a,sidewalk
+75613,people,sitting on a,sidewalk
+83979,people,sitting on a,sidewalk
+29172,people,sitting on a,snow
+32020,people,sitting on a,snow
+33836,people,sitting on a,snow
+43896,people,sitting on a,snow
+51713,people,sitting on a,snow
+55624,people,sitting on a,snow
+57309,people,sitting on a,snow
+59101,people,sitting on a,snow
+71637,people,sitting on a,snow
+78351,people,sitting on a,snow
+88194,people,sitting on a,snow
+97547,people,sitting on a,snow
+109835,people,sitting on a,snow
+4195,people,sitting on a,sofa
+13878,people,sitting on a,sofa
+39065,people,sitting on a,sofa
+3880,people,sitting on a,table
+4110,people,sitting on a,table
+4372,people,sitting on a,table
+8291,people,sitting on a,table
+10092,people,sitting on a,table
+11418,people,sitting on a,table
+11909,people,sitting on a,table
+13405,people,sitting on a,table
+13522,people,sitting on a,table
+13663,people,sitting on a,table
+16143,people,sitting on a,table
+17724,people,sitting on a,table
+23217,people,sitting on a,table
+25449,people,sitting on a,table
+31690,people,sitting on a,table
+31691,people,sitting on a,table
+31692,people,sitting on a,table
+34155,people,sitting on a,table
+34671,people,sitting on a,table
+35300,people,sitting on a,table
+39241,people,sitting on a,table
+40332,people,sitting on a,table
+41869,people,sitting on a,table
+42075,people,sitting on a,table
+42743,people,sitting on a,table
+44209,people,sitting on a,table
+44448,people,sitting on a,table
+44567,people,sitting on a,table
+44861,people,sitting on a,table
+46787,people,sitting on a,table
+47989,people,sitting on a,table
+56188,people,sitting on a,table
+56649,people,sitting on a,table
+57000,people,sitting on a,table
+57148,people,sitting on a,table
+57149,people,sitting on a,table
+57150,people,sitting on a,table
+59623,people,sitting on a,table
+59624,people,sitting on a,table
+61229,people,sitting on a,table
+62318,people,sitting on a,table
+66373,people,sitting on a,table
+67793,people,sitting on a,table
+68420,people,sitting on a,table
+68627,people,sitting on a,table
+69135,people,sitting on a,table
+70404,people,sitting on a,table
+70405,people,sitting on a,table
+70406,people,sitting on a,table
+70407,people,sitting on a,table
+70408,people,sitting on a,table
+73558,people,sitting on a,table
+76722,people,sitting on a,table
+78025,people,sitting on a,table
+78867,people,sitting on a,table
+80006,people,sitting on a,table
+85801,people,sitting on a,table
+89905,people,sitting on a,table
+90720,people,sitting on a,table
+91432,people,sitting on a,table
+91781,people,sitting on a,table
+92520,people,sitting on a,table
+95218,people,sitting on a,table
+95793,people,sitting on a,table
+102432,people,sitting on a,table
+106097,people,sitting on a,table
+107101,people,sitting on a,table
+109063,people,sitting on a,table
+109068,people,sitting on a,table
+109071,people,sitting on a,table
+112042,people,sitting on a,table
+112538,people,sitting on a,table
+112619,people,sitting on a,table
+114180,people,sitting on a,table
+115858,people,sitting on a,table
+116517,people,sitting on a,table
+119467,people,sitting on a,table
+119468,people,sitting on a,table
+122827,people,sitting on a,table
+3584,people,sitting on a,train
+10812,people,sitting on a,train
+16331,people,sitting on a,train
+29009,people,sitting on a,train
+66699,people,sitting on a,train
+74545,people,sitting on a,train
+39172,people,sitting on a,wall
+92890,people,sitting on a,wall
+101573,people,sitting on a,wall
+21983,people,waiting at,bus stop
+47769,people,waiting at,bus stop
+76672,people,waiting at,bus stop
+1310,people,waiting at,platform
+19002,people,waiting at,platform
+20684,people,waiting at,platform
+83552,people,waiting at,platform
+110559,people,waiting at,platform
+117727,people,waiting at,platform
+5665,people,waiting at,train
+27596,people,waiting at,train
+30246,people,waiting at,train
+26504,people,waiting at,bus
+35554,people,waiting at,bus
+37193,people,waiting at,bus
+63894,people,waiting at,bus
+77218,people,waiting at,bus
