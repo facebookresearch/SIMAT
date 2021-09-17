@@ -1,0 +1,4 @@
+tqdm
+torch
+torchvision
+PIL

@@ -2,10 +2,10 @@ import pandas as pd
 from pathlib import Path
 from tqdm import tqdm
 from PIL import Image
+import argparse
 
     
 def prepare_from_vg_path(path):
-    path = '/datasets01/VisualGenome1.2/061517/VG_100K_all/'
     
     # first create folders for each triplet
     triplets = pd.read_csv('simat_db/triplets.csv')
@@ -22,3 +22,12 @@ def prepare_from_vg_path(path):
         folder = f'A {l.subj} {l.rel} {l.obj}'
         bbox = [int(x) for x in retrieval_db.loc[l.region_id].bbox.split(',')]
         img.save(f'simat_db/images/{folder}/{l.region_id}.jpg')        
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='prepare SIMAT dataset')
+    parser.add_argument('--VG_PATH', type=str,
+                        help='where the Visual Genome dataset is stored')
+    args = parser.parse_args()
+    
+    prepare_from_vg_path(args.VG_PATH)
+    
