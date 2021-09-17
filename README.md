@@ -16,20 +16,29 @@ Note: on the FAIR Cluster, the path is */datasets01/VisualGenome1.2/061517/VG_10
 ```python
 import clip
 from torchvision import datasets
+from PIL import Image
 from IPython.display import display
 
+#hack to normalize tensors easily
+torch.Tensor.normalize = lambda x:x/x.norm(dim=-1, keepdim=True)
+
 # database to perform the retrieval step
-db = torch.load('data/simat_clip.pt').float()
+dataset = datasets.ImageFolder('simat_db/images/')
+db = torch.load('data/clip_simat.pt').float()
 
 model, prep = clip.load('ViT-B/32', device='cuda:0', jit=False)
 
 image = Image.open('simat_db/images/A cat sitting on a grass/98316.jpg')
-img_enc = model.encode_image(prep(image).unsqueeze(0).to('cuda:0'))
+img_enc = model.encode_image(prep(image).unsqueeze(0).to('cuda:0')).float().cpu().detach().normalize()
 
 txt = ['cat', 'dog']
-txt_enc = model.encode_text(clip.tokenize(txt).to('cuda:0'))
+txt_enc = model.encode_text(clip.tokenize(txt).to('cuda:0')).float().cpu().detach().normalize()
 
 # optionally, we can apply a linear layer on top of the embeddings
+heads = torch.load(f'data/head_clip_t=0.1.pt')
+img_enc = heads['img_head'](img_enc).normalize()
+txt_enc = heads['txt_head'](txt_enc).normalize()
+db = heads['img_head'](db).normalize()
 
 
 # now we perform the transformation step
@@ -39,8 +48,8 @@ target_enc = img_enc + lbd * (txt_enc[1] - txt_enc[0])
 
 retrieved_idx = (db @ target_enc.float().T).argmax(0).item()
 
-dataset = datasets.ImageFolder('simat_db/images/')
-display(dataset[retrieved_idx])
+
+display(dataset[retrieved_idx][0])
 
 ```
 
