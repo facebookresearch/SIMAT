@@ -50,11 +50,7 @@ display(dataset[retrieved_idx])
 
 
 ```python
-python eval.py --img_backbone clip \
-               --txt_backbone clip \
-               --lbd [1, 2, 3] \
-               --tau 0.01 \
-
+python eval.py --backbone clip --domain dev --t 0.01 --lbd 1 2
 ```
 
 # Train adaptation layers on COCO

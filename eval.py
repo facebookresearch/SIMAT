@@ -12,7 +12,7 @@ def simat_eval(args):
     #img_head, txt_head, emb_key='clip', lbds=[1], test=True:, tau
     # get heads !
     emb_key = 'clip'
-    heads = torch.load(f'data/head_{emb_key}_t={args.t}.pt')
+    heads = torch.load(f'data/head_{emb_key}_t={args.tau}.pt')
     output = {}
     transfos = pd.read_csv('simat_db/transfos.csv', index_col=0)
     transfos = transfos[transfos.is_test == (args.domain == 'test')]
@@ -45,7 +45,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Run eval')
     parser.add_argument('--domain', type=str, default='dev', help='domain, test or dev')
     parser.add_argument('--backbone', type=str, default='clip', help='backbone method. Only clip is supported.')
-    parser.add_argument('--t', type=float, default=0.1, help='pretraining temperature tau')
+    parser.add_argument('--tau', type=float, default=0.1, help='pretraining temperature tau')
     parser.add_argument('--lbds', nargs='+', default=[1], help='list of values for lambda')
     args = parser.parse_args()
     args.lbds = [float(l) for l in args.lbds]
