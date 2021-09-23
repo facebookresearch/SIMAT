@@ -1,17 +1,28 @@
-This is the repository for launching code related to the SIMAT database
+This repository contains the database and code used in the paper **Embedding Arithmetic for Text-driven Image Transformation**
 
-see paper arxiv:...
+(arxiv: ..)
 
-# Download dataset
+The inspiration for the work are the geometric properties of word embeddings, such as Queen ~ Woman + (King - Man).
+We extend this idea to multimodal embedding spaces (like CLIP), which let us semantically edit images via "delta vectors". 
 
-The SIMAT database is composed of crops of images from Visual Genome. 
+Transformed images can then be retrieved in a dataset of images.
+
+![assets/method.png]
+
+## Examples
+
+
+## Download dataset
+
+The SIMAT database is composed of crops of images from Visual Genome. You first need to install Visual Genome and then run the following command :
 
 ```python
 python prepare_dataset.py --VG_PATH=/path/to/visual/genome
 ```
-Note: on the FAIR Cluster, the path is */datasets01/VisualGenome1.2/061517/VG_100K_all/*
 
-# Perform inference with CLIP ViT-B/32
+## Perform inference with CLIP ViT-B/32
+
+In this example, we use the CLIP ViT-B/32 model to edit an image. Note that the dataset of clip embeddings is pre-computed.
 
 ```python
 import clip
@@ -54,14 +65,14 @@ display(dataset[retrieved_idx][0])
 ```
 
 
-
-# Compute SIMAT scores with CLIP
+## Compute SIMAT scores with CLIP
 
 
 ```python
 python eval.py --backbone clip --domain dev --tau 0.01 --lbd 1 2
 ```
 
-# Train adaptation layers on COCO
+
+## Train adaptation layers on COCO
 
 Coming Soon
