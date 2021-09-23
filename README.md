@@ -8,11 +8,27 @@ We extend this idea to multimodal embedding spaces (like CLIP), which let us sem
 Transformed images can then be retrieved in a dataset of images.
 
 <p align="center">
-    <img src="assets/method.png">
+    <img src="assets/method.jpeg">
 </p>
+
+## The SIMAT Dataset
+
+We build SIMAT, a dataset to evaluate the task of text-driven image transformation, for simple images that can be characterized by a single subject-relation-object annotation. 
+A **transformation query** is a pair (*image*, *query*) where the query asks to change the subject, the relation or the object in the input *image*.
+SIMAT contains ~6k images and an average of 3 transformation queries per image.
+
+The goal is to retrieve an image in the dataset that corresponds to the query specifications.
+We use [OSCAR](https://github.com/microsoft/Oscar) as an oracle to check whether retrieved images are correct with respect to the expected modifications. 
+
+
 
 ## Examples
 
+Below are a few examples that are in the dataset, and images that were retrieved for our best-performing algorithm.
+
+<p align="center">
+    <img src="assets/examples_pos.jpeg">
+</p>
 
 ## Download dataset
 
