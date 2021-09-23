@@ -7,7 +7,7 @@ We extend this idea to multimodal embedding spaces (like CLIP), which let us sem
 
 Transformed images can then be retrieved in a dataset of images.
 
-![assets/method.png]
+![method](assets/method.png)
 
 ## Examples
 
