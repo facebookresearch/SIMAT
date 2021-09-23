@@ -2,3 +2,4 @@ tqdm
 torch
 torchvision
 PIL
+git+https://github.com/openai/CLIP.git
