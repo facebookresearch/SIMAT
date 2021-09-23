@@ -85,12 +85,17 @@ display(dataset[retrieved_idx][0])
 
 ## Compute SIMAT scores with CLIP
 
+You can run the evaluation script with the following command:
 
 ```python
 python eval.py --backbone clip --domain dev --tau 0.01 --lbd 1 2
 ```
-
+It automatically load the adaptation layer relative to the value of $\tau$.
 
 ## Train adaptation layers on COCO
 
-Coming Soon
+In this part, you can train linear layers after the CLIP encoder on the COCO dataset, to get a better alignment. Here is an example :
+
+```python
+python adaptation.py --backbone ViT-B/32 --lr 0.001 --tau 0.1 --batch_size 512
+```
