@@ -90,7 +90,7 @@ You can run the evaluation script with the following command:
 ```python
 python eval.py --backbone clip --domain dev --tau 0.01 --lbd 1 2
 ```
-It automatically load the adaptation layer relative to the value of $\tau$.
+It automatically load the adaptation layer relative to the value of *tau*.
 
 ## Train adaptation layers on COCO
 
