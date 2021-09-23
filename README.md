@@ -27,7 +27,7 @@ We use [OSCAR](https://github.com/microsoft/Oscar) as an oracle to check whether
 Below are a few examples that are in the dataset, and images that were retrieved for our best-performing algorithm.
 
 <p align="center">
-    <img src="assets/examples_pos.jpeg">
+    <img src="assets/examples_pos.png">
 </p>
 
 ## Download dataset
