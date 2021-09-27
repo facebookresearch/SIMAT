@@ -1,4 +1,5 @@
 python>=3.6
+pandas
 tqdm
 torch
 torchvision
