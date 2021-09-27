@@ -1,4 +1,4 @@
-This repository contains the database and code used in the paper **Embedding Arithmetic for Text-driven Image Transformation** (Guillaume Couairon, Matthijs Douze, Holger Schwenk, Matthieu Cord)
+This repository contains the database and code used in the paper **Embedding Arithmetic for Text-driven Image Transformation** (Guillaume Couairon, Holger Schwenk, Matthijs Douze,  Matthieu Cord)
 
 (arxiv: ..)
 
@@ -106,7 +106,7 @@ If you find this paper or dataset useful for your research, please use the follo
 ```
 @article{gco1embedding,
   title={Embedding Arithmetic for text-driven Image Transformation},
-  author={Guillaume Couairon, Matthijs Douze, Holger Schwenk, Matthieu Cord},
+  author={Guillaume Couairon, Holger Schwenk, Matthijs Douze, Matthieu Cord},
   journal={arXiv preprint arXiv:},
   year={2021}
 }
