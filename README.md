@@ -103,18 +103,21 @@ python adaptation.py --backbone ViT-B/32 --lr 0.001 --tau 0.1 --batch_size 512
 ## Citation
 
 If you find this paper or dataset useful for your research, please use the following.
-
+```
 @article{li2019control,
   title={Embedding Arithmetic for text-driven Image Transformation},
   author={Guillaume Couairon, Matthijs Douze, Holger Schwenk, Matthieu Cord},
   journal={arXiv preprint arXiv:},
   year={2021}
 }
+```
 
 ## References
 
 [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
+
 [Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations](https://arxiv.org/abs/1602.07332)
+
 [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/abs/1602.07332)
 
 
