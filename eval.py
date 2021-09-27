@@ -53,5 +53,5 @@ if __name__ == '__main__':
     output = simat_eval(args)
     print('SIMAT Scores:')
     for lbd, v in output.items():
-        print(f'{lbd=}: {v:.2f}')
+        print(f'lambda={lbd}: {v:.2f}')
     
