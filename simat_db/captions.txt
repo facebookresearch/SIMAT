@@ -1,0 +1,645 @@
+A bear laying against a wall.
+A bear laying in a bed.
+A bear laying in a field.
+A bear laying in dirt.
+A bear laying on a log.
+A bear laying on a rock.
+A bear laying on a tree.
+A bear laying on rocks.
+A bear laying on the grass.
+A bear leaning on a log.
+A bear leaning on a rock.
+A bear leaning on a tree.
+A bear leaning on a wall.
+A bear licking another bear.
+A bear playing in water.
+A bear playing with a bear.
+A bear sitting on a bed.
+A bear sitting on a chair.
+A bear sitting on a rock.
+A bear sitting on a shelf.
+A bear sitting on a table.
+A bear sitting on a tree.
+A bear sitting on another bear.
+A bear sitting on books.
+A bear sitting on lap.
+A bear sitting on the floor.
+A bear sitting on the grass.
+A bear sitting on water.
+A bear sitting outside.
+A bear sniffing a man.
+A bear sniffing grass.
+A bird eating from a cup.
+A bird sitting on a bench.
+A bird sitting on a boat.
+A bird sitting on a bowl.
+A bird sitting on a building.
+A bird sitting on a chair.
+A bird sitting on a computer.
+A bird sitting on a feeder.
+A bird sitting on a fence.
+A bird sitting on a hand.
+A bird sitting on a pole.
+A bird sitting on a rock.
+A bird sitting on a table.
+A bird sitting on a tree.
+A bird sitting on a window.
+A bird sitting on rocks.
+A bird sitting on the grass.
+A bird sitting on the sand.
+A bird sitting on the water.
+A boy balancing on a skateboard.
+A boy balancing on a surfboard.
+A boy jumping on a skateboard.
+A boy laying in a bed.
+A boy laying in a sofa.
+A boy laying on a pillow.
+A boy laying on a skateboard.
+A boy laying on a surfboard.
+A boy leaning on a fence.
+A boy leaning on a table.
+A boy playing in a park.
+A boy playing in water.
+A boy playing on a field.
+A boy playing on the beach.
+A boy playing on the grass.
+A boy playing on the sand.
+A boy playing outside.
+A boy playing with a ball.
+A boy playing with a baseball bat.
+A boy playing with a computer.
+A boy playing with a frisbee.
+A boy playing with a girl.
+A boy playing with a kite.
+A boy playing with a skateboard.
+A boy playing with another boy.
+A boy running in a field.
+A boy running on the beach.
+A boy running on the grass.
+A boy sitting on a arm.
+A boy sitting on a bed.
+A boy sitting on a bench.
+A boy sitting on a boat.
+A boy sitting on a chair.
+A boy sitting on a couch.
+A boy sitting on a desk.
+A boy sitting on a elephant.
+A boy sitting on a fence.
+A boy sitting on a field.
+A boy sitting on a horse.
+A boy sitting on a motorcycle.
+A boy sitting on a seat.
+A boy sitting on a skateboard.
+A boy sitting on a sofa.
+A boy sitting on a table.
+A boy sitting on a toilet.
+A boy sitting on a wall.
+A boy sitting on the floor.
+A boy sitting on the grass.
+A boy sleeping on a couch.
+A boy swinging a baseball bat.
+A boy swinging a tennis racket.
+A boy touching a elephant.
+A cat eating from a plate.
+A cat eating from a toilet.
+A cat laying in a bag.
+A cat laying in a bed.
+A cat laying in a bench.
+A cat laying in a blanket.
+A cat laying in a car.
+A cat laying in a cat.
+A cat laying in a hood.
+A cat laying in a sink.
+A cat laying in a sofa.
+A cat laying in a suitcase.
+A cat laying on a carpet.
+A cat laying on a chair.
+A cat laying on a computer.
+A cat laying on a couch.
+A cat laying on a desk.
+A cat laying on a keyboard.
+A cat laying on a pillow.
+A cat laying on a rug.
+A cat laying on a table.
+A cat laying on the floor.
+A cat licking a keyboard.
+A cat licking a plate.
+A cat licking his leg.
+A cat playing with another cat.
+A cat playing with shoes.
+A cat sitting on a bed.
+A cat sitting on a bench.
+A cat sitting on a blanket.
+A cat sitting on a car.
+A cat sitting on a chair.
+A cat sitting on a computer.
+A cat sitting on a couch.
+A cat sitting on a desk.
+A cat sitting on a floor.
+A cat sitting on a grass.
+A cat sitting on a rug.
+A cat sitting on a seat.
+A cat sitting on a sink.
+A cat sitting on a sofa.
+A cat sitting on a suitcase.
+A cat sitting on a table.
+A cat sitting on a toilet.
+A cat sitting on a tv.
+A cat sitting on a window sill.
+A cat sitting on a window.
+A cat sleeping on a bed.
+A cat sleeping on a blanket.
+A cat sleeping on a chair.
+A cat sleeping on a computer.
+A cat sleeping on a couch.
+A cat sleeping on a desk.
+A cat sleeping on a floor.
+A cat sleeping on a rug.
+A cat sniffing a bottle.
+A cat sniffing a computer.
+A cat sniffing a pizza.
+A cat touching a tv.
+A cow drinking water.
+A cow eating from a bottle.
+A cow laying in a field.
+A cow laying in a straw.
+A cow laying in grass.
+A cow laying in hay.
+A cow laying in the dirt.
+A cow laying on the beach.
+A cow laying on the floor.
+A cow laying on the sand.
+A cow laying on the street.
+A cow licking another cow.
+A cow sitting on a beach.
+A cow sitting on a field.
+A cow sitting on another cow.
+A cow sitting on dirt.
+A cow sitting on hay.
+A cow sitting on sand.
+A cow sitting on the grass.
+A cow touching a cow.
+A dog biting a frisbee.
+A dog chasing a ball.
+A dog chasing a cow.
+A dog chasing a dog.
+A dog chasing a frisbee.
+A dog chasing a motorcycle.
+A dog chasing a sheep.
+A dog entering water.
+A dog grabbing a frisbee.
+A dog laying in a bed.
+A dog laying in a boat.
+A dog laying in a couch.
+A dog laying in a lap.
+A dog laying in a sofa.
+A dog laying in dirt.
+A dog laying in grass.
+A dog laying in rocks.
+A dog laying in the street.
+A dog laying on a bench.
+A dog laying on a blanket.
+A dog laying on a carpet.
+A dog laying on a man.
+A dog laying on a pillow.
+A dog laying on a rug.
+A dog laying on a suitcase.
+A dog laying on a surfboard.
+A dog laying on sand.
+A dog laying on the beach.
+A dog laying on the floor.
+A dog playing in a field.
+A dog playing in water.
+A dog playing on the beach.
+A dog playing on the floor.
+A dog playing on the grass.
+A dog playing with a ball.
+A dog playing with a cat.
+A dog playing with a frisbee.
+A dog playing with a soccer ball.
+A dog playing with another dog.
+A dog playing with snow.
+A dog running in a beach.
+A dog running in a field.
+A dog running in grass.
+A dog running in sand.
+A dog running in the snow.
+A dog running in water.
+A dog sitting in the dirt.
+A dog sitting on a bed.
+A dog sitting on a bench.
+A dog sitting on a blanket.
+A dog sitting on a car.
+A dog sitting on a carpet.
+A dog sitting on a chair.
+A dog sitting on a couch.
+A dog sitting on a floor.
+A dog sitting on a grass.
+A dog sitting on a lap.
+A dog sitting on a man.
+A dog sitting on a motorcycle.
+A dog sitting on a pillow.
+A dog sitting on a sand.
+A dog sitting on a seat.
+A dog sitting on a sidewalk.
+A dog sitting on a table.
+A dog sitting on a truck.
+A dog sitting on a window.
+A dog sleeping on a bed.
+A dog sleeping on a bench.
+A dog sleeping on a carpet.
+A dog sleeping on a couch.
+A dog sleeping on a floor.
+A dog sleeping on a pillow.
+A dog sleeping on a sidewalk.
+A dog sniffing a frisbee.
+A dog sniffing grass.
+A elephant drinking water.
+A elephant laying in grass.
+A elephant laying in water.
+A elephant leaving water.
+A elephant playing in water.
+A elephant playing with a ball.
+A elephant playing with a mud.
+A elephant playing with another elephant.
+A elephant sitting in water.
+A elephant touching a man.
+A giraffe drinking water.
+A giraffe eating a leaf.
+A giraffe eating from a basket.
+A giraffe eating from a feeder.
+A giraffe eating from a hand.
+A giraffe eating from a tree.
+A giraffe eating from a woman.
+A giraffe laying in a dirt.
+A giraffe laying in grass.
+A giraffe leaning on a fence.
+A giraffe leaning on a railing.
+A giraffe leaning on a rock.
+A giraffe licking a leaf.
+A giraffe licking a pole.
+A giraffe licking a tree.
+A giraffe running in a field.
+A giraffe sitting in the dirt.
+A giraffe sitting on grass.
+A giraffe sniffing another giraffe.
+A giraffe touching another giraffe.
+A girl balancing on a surfboard.
+A girl biting a pizza.
+A girl jumping on a bed.
+A girl laying in a bed.
+A girl laying in a couch.
+A girl laying in a pillow.
+A girl laying on a bench.
+A girl laying on a board.
+A girl laying on a surfboard.
+A girl laying on the floor.
+A girl leaning on a computer.
+A girl leaning on a fence.
+A girl playing in a field.
+A girl playing in a park.
+A girl playing in water.
+A girl playing on the beach.
+A girl playing on the grass.
+A girl playing on the sand.
+A girl playing outside.
+A girl playing with a ball.
+A girl playing with a boy.
+A girl playing with a computer.
+A girl playing with a cup.
+A girl playing with a frisbee.
+A girl playing with a girl.
+A girl playing with a kite.
+A girl playing with a skateboard.
+A girl playing with a umbrella.
+A girl running in a beach.
+A girl running in a field.
+A girl running in a road.
+A girl running on grass.
+A girl sitting on a bed.
+A girl sitting on a bench.
+A girl sitting on a blanket.
+A girl sitting on a bus.
+A girl sitting on a chair.
+A girl sitting on a couch.
+A girl sitting on a counter.
+A girl sitting on a desk.
+A girl sitting on a floor.
+A girl sitting on a girl.
+A girl sitting on a grass.
+A girl sitting on a horse.
+A girl sitting on a lap.
+A girl sitting on a mat.
+A girl sitting on a seat.
+A girl sitting on a sofa.
+A girl sitting on a suitcase.
+A girl sitting on a surfboard.
+A girl sitting on a table.
+A girl sitting on a wall.
+A girl sleeping on a seat.
+A girl swinging a baseball bat.
+A girl swinging a tennis racket.
+A girl touching a horse.
+A horse chasing a cow.
+A horse jumping on a fence.
+A horse jumping on poles.
+A horse laying in a field.
+A horse laying on grass.
+A horse laying on his back.
+A horse laying on the beach.
+A horse leaning on a fence.
+A horse running in a field.
+A horse running in the dirt.
+A horse running in water.
+A horse running on a sand.
+A horse running on grass.
+A horse running on the beach.
+A man balancing on a skateboard.
+A man balancing on a surfboard.
+A man balancing on a wave.
+A man biting a pizza.
+A man biting a surfboard.
+A man chasing a ball.
+A man chasing a cow.
+A man chasing a frisbee.
+A man eating from a bottle.
+A man eating from a cup.
+A man eating from a plate.
+A man entering a bus.
+A man entering a plane.
+A man entering a train.
+A man grabbing a frisbee.
+A man grabbing a pizza.
+A man grabbing a skateboard.
+A man grabbing a surfboard.
+A man grabbing a tennis racket.
+A man grabbing food.
+A man jumping on a bed.
+A man jumping on a skateboard.
+A man jumping on skis.
+A man laying in a chair.
+A man laying in a couch.
+A man laying in bed.
+A man laying in grass.
+A man laying in snow.
+A man laying in water.
+A man laying on a bench.
+A man laying on a board.
+A man laying on a pillow.
+A man laying on a surfboard.
+A man laying on a towel.
+A man laying on sand.
+A man laying on the beach.
+A man laying on the floor.
+A man laying on the sidewalk.
+A man leaning on a baseball bat.
+A man leaning on a bicycle.
+A man leaning on a bike.
+A man leaning on a boat.
+A man leaning on a car.
+A man leaning on a computer.
+A man leaning on a counter.
+A man leaning on a fence.
+A man leaning on a hand.
+A man leaning on a kite.
+A man leaning on a motorcycle.
+A man leaning on a pole.
+A man leaning on a rail.
+A man leaning on a railing.
+A man leaning on a surfboard.
+A man leaning on a table.
+A man leaning on a train.
+A man leaning on a tree.
+A man leaning on a truck.
+A man leaning on a wall.
+A man leaving a train.
+A man leaving water.
+A man playing in the snow.
+A man playing on a field.
+A man playing on the beach.
+A man playing on the grass.
+A man playing on the sand.
+A man playing tennis on a tennis court.
+A man playing with a ball.
+A man playing with a board.
+A man playing with a boy.
+A man playing with a bus.
+A man playing with a dog.
+A man playing with a frisbee.
+A man playing with a keyboard.
+A man playing with a kite.
+A man playing with a soccer ball.
+A man playing with a tennis racket.
+A man playing with a water.
+A man playing with a wave.
+A man playing with a woman.
+A man playing with another man.
+A man running in a field.
+A man running on a beach.
+A man running on grass.
+A man running on the sand.
+A man running with another man.
+A man selling bananas.
+A man sitting on a bed.
+A man sitting on a bench.
+A man sitting on a bike.
+A man sitting on a boat.
+A man sitting on a bus.
+A man sitting on a car.
+A man sitting on a chair.
+A man sitting on a couch.
+A man sitting on a desk.
+A man sitting on a elephant.
+A man sitting on a floor.
+A man sitting on a grass.
+A man sitting on a horse.
+A man sitting on a motorcycle.
+A man sitting on a seat.
+A man sitting on a sidewalk.
+A man sitting on a sofa.
+A man sitting on a table.
+A man sitting on the beach.
+A man sitting on the snow.
+A man sleeping on a bed.
+A man sleeping on a bench.
+A man sleeping on a pillow.
+A man swinging a ball.
+A man swinging a baseball bat.
+A man swinging a tennis racket.
+A man swinging an arm.
+A man touching a banana.
+A man touching a board.
+A man touching a cat.
+A man touching a computer.
+A man touching a cow.
+A man touching a dog.
+A man touching a elephant.
+A man touching a head.
+A man touching a horse.
+A man touching a pizza.
+A man touching a plane.
+A man touching a skateboard.
+A man touching a snow.
+A man touching a suitcase.
+A man touching a water.
+A man touching a woman.
+A man waiting at a bus stop.
+A man waiting at a train.
+A man waiting for the bus.
+A sheep laying in a field.
+A sheep laying in a straw.
+A sheep laying in grass.
+A sheep laying on a hill.
+A sheep laying on hay.
+A sheep running in a field.
+A sheep running in grass.
+A sheep sitting on a field.
+A sheep sitting on a grass.
+A woman balancing on a surfboard.
+A woman entering a train.
+A woman entering bus.
+A woman grabbing a man.
+A woman grabbing a pizza.
+A woman grabbing a tennis racket.
+A woman jumping on a horse.
+A woman laying in a bag.
+A woman laying in a bed.
+A woman laying in a bench.
+A woman laying in a board.
+A woman laying in a couch.
+A woman laying in a floor.
+A woman laying in a sofa.
+A woman laying in hay.
+A woman laying on a pillow.
+A woman laying on a surfboard.
+A woman laying on a towel.
+A woman laying on her head.
+A woman laying on sand.
+A woman laying on snow.
+A woman laying on the beach.
+A woman leaning on a baseball bat.
+A woman leaning on a bear.
+A woman leaning on a bike.
+A woman leaning on a chair.
+A woman leaning on a computer.
+A woman leaning on a couch.
+A woman leaning on a counter.
+A woman leaning on a fence.
+A woman leaning on a man.
+A woman leaning on a pole.
+A woman leaning on a railing.
+A woman leaning on a table.
+A woman leaning on a wall.
+A woman playing in a field.
+A woman playing in a park.
+A woman playing in the water.
+A woman playing on sand.
+A woman playing on the grass.
+A woman playing tennis on a tennis court.
+A woman playing with a ball.
+A woman playing with a dog.
+A woman playing with a elephant.
+A woman playing with a frisbee.
+A woman playing with a tennis racket.
+A woman playing with a wave.
+A woman playing with another woman.
+A woman running in a field.
+A woman running in grass.
+A woman running in the water.
+A woman running on the beach.
+A woman running on the sidewalk.
+A woman selling bananas.
+A woman selling food.
+A woman sitting on a bed.
+A woman sitting on a bench.
+A woman sitting on a boat.
+A woman sitting on a bus.
+A woman sitting on a chair.
+A woman sitting on a couch.
+A woman sitting on a desk.
+A woman sitting on a floor.
+A woman sitting on a grass.
+A woman sitting on a horse.
+A woman sitting on a man.
+A woman sitting on a motorcycle.
+A woman sitting on a sand.
+A woman sitting on a seat.
+A woman sitting on a sofa.
+A woman sitting on a surfboard.
+A woman sitting on a table.
+A woman sitting on a wall.
+A woman sitting on snow.
+A woman sitting on the beach.
+A woman sleeping on a bed.
+A woman swinging a baseball bat.
+A woman swinging a tennis racket.
+A woman swinging her arm.
+A woman touching a bottle.
+A woman touching a cat.
+A woman touching a dog.
+A woman touching a elephant.
+A woman touching a giraffe.
+A woman touching a horse.
+A woman touching a man.
+A woman touching a sheep.
+A woman waiting at a bus stop.
+A woman waiting at a platform.
+A zebra biting a zebra.
+A zebra drinking water.
+A zebra eating from a feeder.
+A zebra eating from hay.
+A zebra laying in a field.
+A zebra laying on dirt.
+A zebra laying on grass.
+A zebra laying on mud.
+A zebra leaning on a zebra.
+A zebra playing with another zebra.
+A zebra running in a field.
+A zebra running in water.
+A zebra running on grass.
+A zebra sitting on grass.
+A zebra touching another zebra
+People entering a bus.
+People entering a plane.
+People entering a train.
+People laying on the beach.
+People laying on the sand.
+People leaning on a computer.
+People leaning on a fence.
+People leaning on a railing.
+People leaving a building.
+People leaving a plane.
+People playing in a field.
+People playing in the snow.
+People playing in water.
+People playing on grass.
+People playing on sand.
+People playing on the beach.
+People playing with a ball.
+People playing with a frisbee.
+People playing with a kite.
+People playing with a park.
+People sitting on a beach.
+People sitting on a bench.
+People sitting on a boat.
+People sitting on a building.
+People sitting on a bus.
+People sitting on a car.
+People sitting on a chair.
+People sitting on a couch.
+People sitting on a elephant.
+People sitting on a floor.
+People sitting on a grass.
+People sitting on a park.
+People sitting on a sand.
+People sitting on a seat.
+People sitting on a sidewalk.
+People sitting on a snow.
+People sitting on a sofa.
+People sitting on a table.
+People sitting on a train.
+People sitting on a wall.
+People waiting at a bus stop.
+People waiting at a platform.
+People waiting at a train.
+People waiting at bus.
