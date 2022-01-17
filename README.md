@@ -105,7 +105,7 @@ If you find this paper or dataset useful for your research, please use the follo
 @article{gco1embedding,
   title={Embedding Arithmetic for text-driven Image Transformation},
   author={Guillaume Couairon, Matthieu Cord, Matthijs Douze, Holger Schwenk},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2112.03162},
   year={2021}
 }
 ```
