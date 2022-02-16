@@ -30,7 +30,6 @@ def simat_eval(args):
     img_embs_stacked = torch.stack([clip_simat[did2rid[i]] for i in range(len(clip_simat))]).float()
     img_embs_stacked = heads['img_head'](img_embs_stacked).normalize()
     
-    img_embs = {k: heads['img_head'](v.float()).normalize() for k, v in clip_simat.items()}
     value_embs = torch.stack([img_embs_stacked[rid2did[rid]] for rid in transfos.region_id])
     
     

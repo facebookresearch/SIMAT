@@ -51,32 +51,38 @@ torch.Tensor.normalize = lambda x:x/x.norm(dim=-1, keepdim=True)
 
 # database to perform the retrieval step
 dataset = datasets.ImageFolder('simat_db/images/')
-db = torch.load('data/clip_simat.pt').float()
 
-model, prep = clip.load('ViT-B/32', device='cuda:0', jit=False)
+db = torch.load('data/simat_img_clip.pt')
+db_stacked = torch.stack(list(db.values())).float()
 
-image = Image.open('simat_db/images/A cat sitting on a grass/98316.jpg')
-img_enc = model.encode_image(prep(image).unsqueeze(0).to('cuda:0')).float().cpu().detach().normalize()
+idx2rid = list(db.keys())
+
+model, prep = clip.load('ViT-B/32', device=device)
+
+image = Image.open('simat_db/images/images/98316.png')
+img_enc = model.encode_image(prep(image).unsqueeze(0).to('cuda:0')).float().cpu().detach()
 
 txt = ['cat', 'dog']
-txt_enc = model.encode_text(clip.tokenize(txt).to('cuda:0')).float().cpu().detach().normalize()
+txt_enc = model.encode_text(clip.tokenize(txt).to('cuda:0')).float().cpu().detach()
 
 # optionally, we can apply a linear layer on top of the embeddings
 heads = torch.load(f'data/head_clip_t=0.1.pt')
-img_enc = heads['img_head'](img_enc).normalize()
-txt_enc = heads['txt_head'](txt_enc).normalize()
+img_enc = heads['img_head'](img_enc)
+txt_enc = heads['txt_head'](txt_enc)
+
 db = heads['img_head'](db).normalize()
 
 
 # now we perform the transformation step
 lbd = 1
-target_enc = img_enc + lbd * (txt_enc[1] - txt_enc[0])
+target_enc = img_enc.normalize() + lbd * (txt_enc[1].normalize() - txt_enc[0].normalize())
 
 
-retrieved_idx = (db @ target_enc.float().T).argmax(0).item()
+retrieved_idx = (db_stacked @ target_enc.float().T).argmax(0).item()
 
+retrieved_rid = idx2rid[retrieved_idx]
 
-display(dataset[retrieved_idx][0])
+display(Image.open(f'simat_db/images/images/{retrieved_rid}.png'))
 
 ```
 
