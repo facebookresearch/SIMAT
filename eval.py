@@ -16,12 +16,23 @@ def simat_eval(args):
     # get heads !
     emb_key = 'clip'
     heads = torch.load(f'data/head_{emb_key}_t={args.tau}.pt')
+    #heads = dict(img_head = lambda x:x, txt_head=lambda x:x)
     output = {}
     transfos = pd.read_csv('simat_db/transfos.csv', index_col=0)
+    triplets = pd.read_csv('simat_db/triplets.csv', index_col=0)
+    did2rid = dict(zip(triplets.dataset_id, triplets.index))
+    rid2did = dict(zip(triplets.index, triplets.dataset_id))
+    
     transfos = transfos[transfos.is_test == (args.domain == 'test')]
-    clip_simat = torch.load('data/clip_simat.pt').float()
-    img_embs = heads['img_head'](clip_simat).normalize()
-    value_embs = torch.stack([img_embs[did] for did in transfos.dataset_id])
+    
+    #new method
+    clip_simat = torch.load('data/simat_img_clip.pt')
+    img_embs_stacked = torch.stack([clip_simat[did2rid[i]] for i in range(len(clip_simat))]).float()
+    img_embs_stacked = heads['img_head'](img_embs_stacked).normalize()
+    
+    img_embs = {k: heads['img_head'](v.float()).normalize() for k, v in clip_simat.items()}
+    value_embs = torch.stack([img_embs_stacked[rid2did[rid]] for rid in transfos.region_id])
+    
     
     word_embs = dict(torch.load(f'data/simat_words_{emb_key}.ptd'))
     w2v = {k:heads['txt_head'](v.float()).normalize() for k, v in word_embs.items()}
@@ -34,7 +45,7 @@ def simat_eval(args):
     for lbd in args.lbds:
         target_embs = value_embs + lbd*delta_vectors
 
-        nnb = (target_embs @ img_embs.T).topk(5).indices
+        nnb = (target_embs @ img_embs_stacked.T).topk(5).indices
         
         nnb_notself = [r[0] if r[0].item() != t else r[1] for r, t in zip(nnb, transfos.dataset_id)]
         
@@ -56,5 +67,4 @@ if __name__ == '__main__':
     output = simat_eval(args)
     print('SIMAT Scores:')
     for lbd, v in output.items():
-        print(f'lambda={lbd}: {v:.2f}')
-    
+        print(f'{lbd=}: {v:.2f}')
