@@ -25,12 +25,13 @@ def simat_eval(args):
     
     transfos = transfos[transfos.is_test == (args.domain == 'test')]
     
+    transfos_did = [rid2did[rid] for rid in transfos.region_id]
+    
     #new method
     clip_simat = torch.load('data/simat_img_clip.pt')
     img_embs_stacked = torch.stack([clip_simat[did2rid[i]] for i in range(len(clip_simat))]).float()
     img_embs_stacked = heads['img_head'](img_embs_stacked).normalize()
-    
-    value_embs = torch.stack([img_embs_stacked[rid2did[rid]] for rid in transfos.region_id])
+    value_embs = torch.stack([img_embs_stacked[did] for did in transfos_did])
     
     
     word_embs = dict(torch.load(f'data/simat_words_{emb_key}.ptd'))
@@ -45,8 +46,7 @@ def simat_eval(args):
         target_embs = value_embs + lbd*delta_vectors
 
         nnb = (target_embs @ img_embs_stacked.T).topk(5).indices
-        
-        nnb_notself = [r[0] if r[0].item() != t else r[1] for r, t in zip(nnb, transfos.dataset_id)]
+        nnb_notself = [r[0] if r[0].item() != t else r[1] for r, t in zip(nnb, transfos_did)]
         
         scores = np.array([oscar_scores[ri, tc] for ri, tc in zip(nnb_notself, transfos.target_ids)]) > .5
 
